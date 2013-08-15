@@ -1,18 +1,29 @@
-.. When Games Were Good documentation master file, created by
-   sphinx-quickstart on Thu Aug 15 19:34:48 2013.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. |date| date:: %Y/%m/%d
+.. |time| date:: %H:%M
 
 When Games Were Good
 ====================
+
+:Edition: |date| à |time|
 
 Bienvenue sur WGWG Data Base.
 Le site contient des trucs.
 
 
 Table des Matieres:
+-------------------
 
 .. toctree::
+    skyrim/skyrim_index.rst
+
+
+
+
+
+.. TODO: 
+    remplir des trucs.
+
+.. NOT IMPORTANT
    :maxdepth: 2
 
 
