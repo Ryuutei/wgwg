@@ -9,14 +9,14 @@ Abécéen à longue nageoire       | vulnérabilité à la glace      , renfort 
 Ail                             | résistance au poison          , renfort de vigueur            , regain magique                , régénération de santé
 Aile de fléchette bleue         | résistance à la foudre        , renfort de vol à la tire      , restauration de santé         , peur
 Aile de fléchette orange        | restauration de vigueur       , magie endommagée              , renfort de vol à la tire      , pénalité de santé persistante
-Aile de noctuelle               |                               ,                               ,                               ,
-Aile de papillon                |                               ,                               ,                               ,
-Aile de papillon bleu           |                               ,                               ,                               ,
-Amanite tue-mouches             |                               ,                               ,                               ,
-Bec de faucon                   |                               ,                               ,                               ,
-Bernache nordique               |                               ,                               ,                               ,
-Blé                             |                               ,                               ,                               ,
-Carpe du Hist                   |                               ,                               ,                               ,
+Aile de noctuelle               | pénalité de magie             , renfort d'armure légère       , régénération de santé         , invisibilité
+Aile de papillon                | restauration de santé         , renfort de marchandage        ,pénalité de vigueur persistante, pénalité de magie
+Aile de papillon bleu           | pénalité de vigueur           , renfort de conjuration        , dégâts magie récupération     , renfort d'enchantement
+Amanite tue-mouches             | résistance au feu             , renfort d'arme à deux mains   , frénésie                      , récupération de vigueur
+Bec de faucon                   | restauration de vigueur       , résistance à la glace         , renfort de portage            , résistance à la foudre
+Bernache nordique               | pénalité de magie             , respiration aquatique         , régénération de santé         , renfort de vol à la tire
+Blé                             | restauration de santé         , renfort de santé              , dégâts vigueur récupération   , pénalité de magie persistante
+Carpe du Hist                   | restauration de vigueur       , renfort de magie              , dégâts vigueur récupération   , respiration aquatique
 Chair humaine                   |                               ,                               ,                               ,
 Champignon luisant              |                               ,                               ,                               ,
 Chapeau-blanc                   |                               ,                               ,                               ,

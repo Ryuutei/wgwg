@@ -22,7 +22,7 @@
     ^, for subsubsections
     ", for paragraphs
 
-.. index:: The Elder Scrolls,
+.. index:: The Elder Scrolls, FPS, Solo
 
 The Elder Scrolls V: Skyrim
 ===========================
