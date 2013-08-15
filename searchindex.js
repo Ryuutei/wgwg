@@ -1,0 +1,1 @@
+Search.setIndex({filenames:["index"],titles:["When Games Were Good"],terms:{bienvenu:0,matier:0,index:0,data:0,welcom:[],contient:0,good:0,indic:0,tabl:0,content:[],page:0,wgwg:0,game:0,document:[],sur:0,base:0,search:0,truc:0,when:0,modul:0,site:0,were:0},objnames:{},objtypes:{},objects:{}})
