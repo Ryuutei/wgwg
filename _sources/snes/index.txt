@@ -30,6 +30,7 @@ Super Nintendo／Super Famicom
 .. toctree::
     aladdin.rst
     alien3.rst
+    battletoadsIB.rst
     popntwinbee.rst
     roadrunner.rst
     sf2t.rst
@@ -37,3 +38,4 @@ Super Nintendo／Super Famicom
     tazmania.rst
     turnNburn.rst
     zamn.rst
+    ar.rst
