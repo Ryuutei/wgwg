@@ -39,9 +39,9 @@ Actraiser 2
     7e092104    # Pow
     7e097b51    # Final Stage
 
+
 Addams Family
 -------------
-
 
 ::
 
@@ -51,8 +51,9 @@ Addams Family
     7e010901    # Wendy Rescued
     7e010701    # Grandma Rescued
     7e010501    # Puggsy Rescued
-    7e0064ff    # Flying Hat !!
+    7e0064ff    # Flying Hat !
     7e00ee01    # Swords
+
 
 Addams Family 2
 ---------------
@@ -67,6 +68,7 @@ Addams Family 2
     7e014201    # Underwear
     7e014301    # Magic Gloves
     7e00840a    # Super Jump
+
 
 Super Adventure Island
 ----------------------
@@ -122,7 +124,7 @@ Super Adventure Island 2
     7e047501,7e047601,7e047701,7e047801,
     7e047901,7e047a01,7e047b01,7e047c01 #ALL Special Powers
 
-- Very Important Note: In Order To Activate All Codes, Except Energy, You MUST Talk To The Old Man At The Very Beginning Of The Game.  THEN , After Talking With Him, You May Activate These Codes. If You Activate Codes Before The Game Begins, The Old Man Simply Won'T Be There !!!
+- Very Important Note: In Order To Activate All Codes, Except Energy, You MUST Talk To The Old Man At The Very Beginning Of The Game.  THEN , After Talking With Him, You May Activate These Codes. If You Activate Codes Before The Game Begins, The Old Man Simply Won'T Be There !
 
 
 
@@ -144,7 +146,7 @@ Adventures Rocky And Bullwinkle
 
     7e05cb05    # Energy
     7e05c707    # Lives
-    7e063500    # Multi-Jumps !!
+    7e063500    # Multi-Jumps !
 
 
 
@@ -213,7 +215,7 @@ Al Uncers ROAD TO THE TOP.
 
 ::
 
-    7e077a00    # THE ENEMIES DON'T MOVE !!!
+    7e077a00    # THE ENEMIES DON'T MOVE !
     7e077c00
     7e077e00
     7e078000
@@ -322,7 +324,7 @@ Al Uncers ROAD TO THE TOP.
 
 ::
 
-    7e077a00    # THE ENEMIES DON'T MOVE !!!
+    7e077a00    # THE ENEMIES DON'T MOVE !
     7e077c00
     7e077e00
     7e078000
@@ -647,7 +649,7 @@ Choplifter III
 
 ::
 
-    7e0d1680    # invincible !!!
+    7e0d1680    # invincible !
 
 Passwords:
     - SHNLNTS,
@@ -699,7 +701,7 @@ Cliffhanger
 Cold shadow:
 ------------
 
-Perhaps, one of the top 50 video games of all time !!!
+Perhaps, one of the top 50 video games of all time !
 
 ::
 
@@ -932,7 +934,7 @@ Donkey kong country
     7e16d590    # invincible
 
 Note:
-    most SNES battery save games tend to erase easily when using any cheat device. Emulators work brilliantly !!!
+    most SNES battery save games tend to erase easily when using any cheat device. Emulators work brilliantly !
 
 
 
@@ -993,11 +995,11 @@ Doremi fantasy milon
 
     7e0e5e02    # don't flip. oh brother, not actually useful.
     7e0e5b01    # ENERGY
-    7e00f301    # FLOAT WHEN YOU FALL !!!!!!
+    7e00f301    # FLOAT WHEN YOU FALL !
     7e0e5b02    # the green charactor suit. (invincible too)
     7e00f305    # float AND foot wing
     7e00f3ff    # float, foot wing, and the key
-    7e0e6284    # INVINCIBLE, TYPE 3 !!!!!!
+    7e0e6284    # INVINCIBLE, TYPE 3 !
 
 
 
@@ -1017,7 +1019,7 @@ Dr. franken
 ::
 
     7e0bfb04    # NO NEED TO COLLECT MAP PIECES!
-    7e084800    # access ANY LEVEL, after level 1!!!
+    7e084800    # access ANY LEVEL, after level 1!
     7e0c0208    # energy
 
 
@@ -1175,7 +1177,7 @@ cartoon flintstones, by taito
     7e1b58ff    # invincible
     7e1cf203    # lives
     7e0c2400    # mega jump
-    7e114609    # WIN THE RACE !!!!!!!
+    7e114609    # WIN THE RACE !
     7e1ce808    # energy (star code)
 
 
@@ -1244,7 +1246,7 @@ GHOULS AND GHOSTS
     7e027602    # infinite hits
     7e02a405    # lives
     7e04580f    # high jump
-    7e14bc00    # multi-jumps !!!!!!!!!!!!!!!!!
+    7e14bc00    # multi-jumps !
     7e045815    # jump alittle higher (my favorite code)
 
 
@@ -1455,7 +1457,7 @@ Ignition factor
 
     7e061690    # get stunned much less.
     7e066950    # infinite energy (infinite life health)
-    7e066801    # COMPLETE INVINCIBILITY !!
+    7e066801    # COMPLETE INVINCIBILITY !
 
 
 
@@ -1486,7 +1488,7 @@ INDIANA JONES TRILOGY
 
 ::
 
-    7e012006    # INVINCIBLE !!
+    7e012006    # INVINCIBLE !
 
 INSPECTOR GADGET
 ----------------
@@ -1496,7 +1498,7 @@ INSPECTOR GADGET
     7e096cff    # INVINCIBLE
     7e099c00    # energy
     7e093c02    # slow jumps
-    7e068801    # LEVEL SELECT MENU !!!
+    7e068801    # LEVEL SELECT MENU !
 
 
 
@@ -1602,7 +1604,7 @@ Judge Dredd, the movie
 
     7e1b11df    # energy
     7e1af704    # lives
-    7e04d909    # LEVEL SELECT MENU !! SIMPLY PRESS SELECT IN GAME.
+    7e04d909    # LEVEL SELECT MENU ! SIMPLY PRESS SELECT IN GAME.
 
 Judge Dredd
 -----------
@@ -1627,7 +1629,7 @@ JUNGLE BOOK
     7e010408    # lives
     7e068c10    # invincible
     7e011301    # CHEAT MENU.  simply go to the options menu.
-                # and check this out: cheat number 5 gives flying abilities !!
+                # and check this out: cheat number 5 gives flying abilities !
                 # when you press R button anytime during the game
 
 
@@ -1694,11 +1696,11 @@ Kid Klown in "crazy Chase"
 ::
 
     7e0f3440    # energy
-    7e0dc503    # + ALL GEMS COLLECTED. WOW!!!
+    7e0dc503    # + ALL GEMS COLLECTED. WOW!
     7e0dc603    # +
     7e0dc703    # +
     7e0dc803    #
-    7e0d222f    # One of the greatest codes of all time: freeze the bomb fuse!!!!
+    7e0d222f    # One of the greatest codes of all time: freeze the bomb fuse!
 
 
 
@@ -1767,16 +1769,17 @@ Legend (by seika)
 
     7e13d501    # invincible
 
-Legend Of Zelda — a link to the past
+
+The Legend of Zelda
+-------------------
+
+cf. `Zelda 1 (also known as B.S. Zelda)`_
+
+
+The Legend Of Zelda 3
 ------------------------------------
 
-cf. _`Zelda 3 – A Link to the Past`
-
-
-The Legend of Zelda／B.S. Zelda
--------------------------------
-
-cf. _`Zelda 1 (also known as B.S. Zelda)`
+cf. `The Legend of Zelda 3 – A Link to the Past`_
 
 
 
@@ -1822,14 +1825,14 @@ Loderunner : Power Loderunner
 
 ::
 
-    7ead9300    # INVINCIBLE !!
+    7ead9300    # INVINCIBLE !
 
 Loderunner : Loderunner Twin
 ----------------------------
 
 ::
 
-    7e014400    # INVINCIBLE !!
+    7e014400    # INVINCIBLE !
 
 
 
@@ -1881,7 +1884,7 @@ Mega Man 7
     7e0b8f9f    # noise
     7e0b919f    # wrap
     7e0b939f    # coil
-    7e0b979f    # RUSH JET !!!!
+    7e0b979f    # RUSH JET !
 
     7e0b999f    #
     7e0b9b9f    #
@@ -1995,8 +1998,8 @@ The MAGICAL QUEST, starring MICKEY MOUSE
     7e02b720    # magic energy never depletes
     7e037202    # lives
     7e02a004    # invincible. must turn switch off between scenes.
-    7e04b028    # JUMP !!!!!
-    7e1eae01    # KILL END BOSSES QUICKLY !!!!!
+    7e04b028    # JUMP !
+    7e1eae01    # KILL END BOSSES QUICKLY !
 
 MICKEY MANIA
 ------------
@@ -2007,7 +2010,7 @@ MICKEY MANIA
     7e013738    # invincible
     7e060e05    # lives
     7e060c05    # marble weapons
-    7e061080    # LEVEL SELECT MENU !!!!
+    7e061080    # LEVEL SELECT MENU !
 
 Mighty max
 ----------
@@ -2075,7 +2078,7 @@ Musya
 
     7e101a07    # energy
     7e103307    # lives
-    7e103c02    # invincibe, but he blinks. code works better on cartridge!!
+    7e103c02    # invincibe, but he blinks. code works better on cartridge!
 
 
 
@@ -2395,7 +2398,7 @@ Raiden Trad
 -----------
 
 
-Is actually better than the playstation version !!!!
+Is actually better than the playstation version !
 
 ::
 
@@ -2411,7 +2414,7 @@ Real monsters AaaaaaHHHHH
 
 ::
 
-    7e0d9700    # another fine Mega Jump code!!!!
+    7e0d9700    # another fine Mega Jump code!
     7e0b7a07    # energy
     7e0a9606    # fire power
     7e13e608    # fishie
@@ -2473,7 +2476,7 @@ Ren and Stimpy Videeiots
 
 ::
 
-    7e034801    # LEVEL SELECT MENU AT TITLE !!!!
+    7e034801    # LEVEL SELECT MENU AT TITLE !
     7e083910    # time
     7e080603    # lives
     7e080705    # energy
@@ -2521,7 +2524,7 @@ Rock'N'Roll racing
 
 ::
 
-    7e008100    # + enemies don't move !!!!!
+    7e008100    # + enemies don't move !
     7e008200    # +
     7e008300    #
 
@@ -2546,8 +2549,8 @@ RPM RACING
     7e008100    # + the enemies remain still
     7e008200    # +
     7e008300    #
-    7e0a8a00    # + Exploding enemies ! it's funny, the enemies blow up !!
-    7e0a8b00    # + No Glitches either !!!
+    7e0a8a00    # + Exploding enemies ! it's funny, the enemies blow up !
+    7e0a8b00    # + No Glitches either !
     7e0a8c00    #
     7e0f6290    # no music
 
@@ -2746,7 +2749,7 @@ Space Invaders
 
     7e039504    # lives
     7e043e00    # the Racks don't move. cool.
-    7e044000    # they don't fire !!!
+    7e044000    # they don't fire !
 
 
 
@@ -2863,7 +2866,7 @@ Star wars: Super Star Wars
     7e087224    # always have jets
     7e098358    # start with light saber
     7e098888    # invincible, but he blinks
-    7e086e00    # no jawas needed !!!
+    7e086e00    # no jawas needed !
     7e098504    # plasma gun (my personal favorite code)
     7e097806    # smart guns
 
@@ -3006,7 +3009,7 @@ ___________________
 
     7e00bb01
     7e071201
-    7e072300    #...Come Up The Top Of the screen when you fall !!!!
+    7e072300    #...Come Up The Top Of the screen when you fall !
 
     7e070911    # high jumps
     7e005c00    # all levels flooded
@@ -3046,7 +3049,7 @@ ___________________
 ::
 
     7e0552f0    # invincible
-    7e042907    # SELECT ANY PART OF ANY WORLD, ANYTIME !!!!!
+    7e042907    # SELECT ANY PART OF ANY WORLD, ANYTIME !
 
     7E1D800D    # |
     7E1D8101    # |
@@ -3228,8 +3231,8 @@ Thunder Spirits
 
     7e041401    # invincible
     7e1a9d08    # lives
-    7e1a9807    # level 4  
-    7e1a9803 
+    7e1a9807    # level 4
+    7e1a9803
     7e1a9806
 
 
@@ -3473,7 +3476,7 @@ Wolf child
 
 ::
 
-    7e029a03    # lives -snes Wolfchild !! codes only work on Emus.
+    7e029a03    # lives -snes Wolfchild ! codes only work on Emus.
     7e063606    # energy
 
 Note:
@@ -3514,12 +3517,12 @@ YOGI BEAR
 
 ::
 
-    7e009201    # SELECT ANY LEVEL !!!
-    7e0ab200    # multi-jumps !!! (this code, cartridge users only)
+    7e009201    # SELECT ANY LEVEL !
+    7e0ab200    # multi-jumps ! (this code, cartridge users only)
     7e0ab000    # high jumps (this code, cartridge users only)
     7e021c05    # lives
     7e021e08    # energy
-    7e0abe00    # MULTI-JUMPS FOR EMULATOR USERS !!!!!!
+    7e0abe00    # MULTI-JUMPS FOR EMULATOR USERS !
     7e0ab501    # slow jumps (this code does not work on cartridges)
 
 
@@ -3541,8 +3544,8 @@ NOTE:
 
 
 
-Zelda 3 – A Link to the Past
-----------------------------
+The Legend of Zelda 3 – A Link to the Past
+------------------------------------------
 
 ::
 
