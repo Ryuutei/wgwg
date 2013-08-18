@@ -22,20 +22,35 @@
     ^, for subsubsections
     ", for paragraphs
 
-.. index:: Nintendo, SNES
+.. index::
 
-Super Nintendo／Super Famicom
-=============================
+Battletoads in Battlemaniacs
+============================
 
-.. toctree::
-    aladdin.rst
-    alien3.rst
-    battletoadsIB.rst
-    popntwinbee.rst
-    roadrunner.rst
-    sf2t.rst
-    skyblazer.rst
-    tazmania.rst
-    turnNburn.rst
-    zamn.rst
-    ar.rst
+**5 Vies et 5 Continus**
+
+Maintenir ``select``...
+
+**Codes Action Replay**
+
+* Vies
+
+::
+
+    7e002803    # player 1
+    7e002a03    # player 2
+
+* Energie
+
+::
+
+    7e0e5e10    # player 1
+    7e0e6010    # player 2
+
+* Final level
+
+::
+
+    7e002c09
+
+
