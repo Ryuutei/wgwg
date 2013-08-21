@@ -6,6 +6,10 @@ Alchimie
 
 :Update: 2013/08/21 23:39:17 +0200
 
+Liste et tableaux créés car les autres sources internet sont erronés, et la version francaise inclue beaucoup d'erreur ainsi que de classement (les 'é' sont rangés a la fin de la liste dans le jeu.)
+
+*******
+
     * `Potions`_
         * `Potions diverses`_
         * `Renfort de compétences`_
@@ -31,7 +35,6 @@ Alchimie
 *******
 
     * `Tableaux`_
-
         * `Tableau des ingrédients par ordre du jeu (français)`_
         * `Tableau des ingrédients par ordre alphabétique`_
 
