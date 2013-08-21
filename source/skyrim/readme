@@ -1,0 +1,9 @@
+Readme Skyrim:
+
+Fichiers                   | Fonction
+===========================+==========================================================
+tableaux_ingr_source.txt   | Tableau maitre  facile a traiter (au cas ou changements).
+skyrim_index.rst           | Fichier Skyrim maitre.
+alchimie.rst               | Fichier contenant toute l'alchimie.
+potions.rst                | Liste des potion:          2013/08/21  (Non utilise)
+tableaux.rst               | Tableaux des ingredients:  2013/08/21  (Non utilise)

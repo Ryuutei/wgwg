@@ -22,7 +22,7 @@
     ^, for subsubsections
     ", for paragraphs
 
-.. index::
+.. index:: platformer
 
 Prince of Persia The Sands of Time
 ==================================
@@ -32,6 +32,6 @@ Bonus Level
 
 
 Mettre une manette sur le port 4 et maintenir ``B``, sur la manette du port 1 faire la combinaison:
-    A B Y X Y A B X
+    ``A`` ``B`` ``Y`` ``X`` ``Y`` ``A`` ``B`` ``X``
 
-et voila le premier niveau du Prince of Persia originel est debloque
+et voila le premier niveau du Prince of Persia originel est debloque.

@@ -1773,7 +1773,7 @@ Legend (by seika)
 The Legend of Zelda
 -------------------
 
-cf. `Zelda 1 (also known as B.S. Zelda)`_
+cf. `The Legend of Zelda／B.S. Zelda`_
 
 
 The Legend Of Zelda 3
@@ -1785,7 +1785,6 @@ cf. `The Legend of Zelda 3 – A Link to the Past`_
 
 Lester the unlikely
 -------------------
-
 ::
 
     7e859b04    # energy Note : I haven't bothered to check
@@ -2557,8 +2556,8 @@ RPM RACING
 
 
 
-R—Type (Super R Type)
------------------------
+R–Type (Super R Type)
+---------------------
 
 ::
 
@@ -2568,7 +2567,7 @@ R—Type (Super R Type)
 
 
 
-R-type III
+R–type III
 ----------
 
 ::
@@ -2669,8 +2668,10 @@ Smart ball
 
 
 
-SMASH TENNIS (this is a Fantastic Tennis game)
-----------------------------------------------
+Smash Tennis
+------------
+
+This is a Fantastic Tennis game.
 
 ::
 
@@ -2679,8 +2680,8 @@ SMASH TENNIS (this is a Fantastic Tennis game)
 
 
 
-Smash TV....super smash TV
---------------------------
+Smash TV (Super Smash TV)
+-------------------------
 
 ::
 
@@ -2694,7 +2695,7 @@ Smash TV....super smash TV
 
 
 
-Snow white in happily ever after
+Snow White in happily ever after
 --------------------------------
 
 ::
