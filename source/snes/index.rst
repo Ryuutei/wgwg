@@ -38,4 +38,6 @@ Super Nintendo／Super Famicom
     tazmania.rst
     turnNburn.rst
     zamn.rst
+
+.. action replay... en attente.
     ar.rst
