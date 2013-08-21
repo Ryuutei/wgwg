@@ -4,6 +4,8 @@
 Alchimie
 ========
 
+:Update: 2013/08/21 23:39:17 +0200
+
     * `Potions`_
         * `Potions diverses`_
         * `Renfort de compétences`_
@@ -68,7 +70,7 @@ Renfort de compétences
 **Renfort d'arme à une main**：
     Griffes d'ours，Mousse barbue，Oeuf de fauvette，Petite perle，Plumes de faucon，Racine de canis.
 **Renfort d'armure lourde**：
-    Chapeau-blanc，Dent de smilodon，Dent de spectre de glace，Ecailles de poisson carnassier，Tige de chardon.
+    Chapeau-blanc，Dent de smilodon，Dent de spectre de glace，Écailles de poisson carnassier，Tige de chardon.
 **Renfort d'armure légère**：
     Aile de noctuelle，Plumes de faucon，Queue de ragnard，Rayons de miel，Ruche vide.
 **Renfort d'enchantement**：
@@ -90,7 +92,7 @@ Renfort de compétences
 **Renfort de marchandage**：
     Aile de papillon，Coton sauvage，Langue de dragon，Serre d'harfreuse.
 **Renfort de parade**：
-    Coeur de ronces，Coton sauvage，Couronne sanglante，Ecailles de poisson carnassier，Perle，Rayons de miel.
+    Coeur de ronces，Coton sauvage，Couronne sanglante，Écailles de poisson carnassier，Perle，Rayons de miel.
 **Renfort de portage**：
     Bec de faucon，Orteil de géant，Pholiote à écailles，Plantes grimpantes，Poisson de rivière，Voiles éthérés.
 **Renfort de précision**：
@@ -138,7 +140,7 @@ Résistance
 **Résistance à la foudre**：
     Aile de fléchette bleue，Bec de faucon，Champignon luisant，Givreboises，Mycène des marais，Oeuf de grive，Perle，Poussière luisante.
 **Résistance à la glace**：
-    Bec de faucon，Ecailles de poisson carnassier，Givreboises，Hivernelle，Lys des cimes violet，Perche argentée，Petite perle，Sels de givre，Sucrelune，Tige de chardon.
+    Bec de faucon，Écailles de poisson carnassier，Givreboises，Hivernelle，Lys des cimes violet，Perche argentée，Petite perle，Sels de givre，Sucrelune，Tige de chardon.
 **Résistance à la magie**：
     Coton sauvage，Couronne sanglante，Lavande，Nirnroot，Nirnroot cramoisie，Oeuf de poule，Sels du Néant，Serre d'harfreuse，Voiles éthérés.
 
@@ -198,7 +200,7 @@ Pénalité de stats persistantes
 ------------------------------
 
 **Pénalité de santé persistante**：
-    Aile de fléchette orange，Ecailles de poisson carnassier，Mora tapinella，Oeuf de poisson carnassier，Pied-de-lutin.
+    Aile de fléchette orange，Écailles de poisson carnassier，Mora tapinella，Oeuf de poisson carnassier，Pied-de-lutin.
 **Pénalité de vigueur persistante**：
     Aile de papillon，Obscurcine，Oeuf de poule，Petite ramure.
 **Pénalité de magie persistante**：
@@ -244,7 +246,7 @@ Liste par effets
 **Pénalité de magie**：
     Aile de noctuelle，Aile de papillon，Bernache nordique，Coeur de Daedra，Coeur humain，Mousse barbue，Oeil de smilodon，Oeuf de chaurus，Plumes d'harfreuse，Poussière luisante，Truffe de Namira.
 **Pénalité de santé persistante**：
-    Aile de fléchette orange，Ecailles de poisson carnassier，Mora tapinella，Oeuf de poisson carnassier，Pied-de-lutin.
+    Aile de fléchette orange，Écailles de poisson carnassier，Mora tapinella，Oeuf de poisson carnassier，Pied-de-lutin.
 **Pénalité de santé**：
     Chair humaine，Coeur humain，Ectoplasme，Graisse de troll，Grelot-de-la-mort，Lys des cimes rouge，Nirnroot，Nirnroot cramoisie，Obscurcine，Oreille de Falmer，Petite ramure，Pied-de-lutin，Poisson de rivière，Queue de ragnard，Sels du Néant.
 **Pénalité de vigueur persistante**：
@@ -260,7 +262,7 @@ Liste par effets
 **Renfort d'arme à une main**：
     Griffes d'ours，Mousse barbue，Oeuf de fauvette，Petite perle，Plumes de faucon，Racine de canis.
 **Renfort d'armure lourde**：
-    Chapeau-blanc，Dent de smilodon，Dent de spectre de glace，Ecailles de poisson carnassier，Tige de chardon.
+    Chapeau-blanc，Dent de smilodon，Dent de spectre de glace，Écailles de poisson carnassier，Tige de chardon.
 **Renfort d'armure légère**：
     Aile de noctuelle，Plumes de faucon，Queue de ragnard，Rayons de miel，Ruche vide.
 **Renfort d'enchantement**：
@@ -284,7 +286,7 @@ Liste par effets
 **Renfort de marchandage**：
     Aile de papillon，Coton sauvage，Langue de dragon，Serre d'harfreuse.
 **Renfort de parade**：
-    Coeur de ronces，Coton sauvage，Couronne sanglante，Ecailles de poisson carnassier，Perle，Rayons de miel.
+    Coeur de ronces，Coton sauvage，Couronne sanglante，Écailles de poisson carnassier，Perle，Rayons de miel.
 **Renfort de portage**：
     Bec de faucon，Orteil de géant，Pholiote à écailles，Plantes grimpantes，Poisson de rivière，Voiles éthérés.
 **Renfort de précision**：
@@ -314,7 +316,7 @@ Liste par effets
 **Résistance à la foudre**：
     Aile de fléchette bleue，Bec de faucon，Champignon luisant，Givreboises，Mycène des marais，Oeuf de grive，Perle，Poussière luisante.
 **Résistance à la glace**：
-    Bec de faucon，Ecailles de poisson carnassier，Givreboises，Hivernelle，Lys des cimes violet，Perche argentée，Petite perle，Sels de givre，Sucrelune，Tige de chardon.
+    Bec de faucon，Écailles de poisson carnassier，Givreboises，Hivernelle，Lys des cimes violet，Perche argentée，Petite perle，Sels de givre，Sucrelune，Tige de chardon.
 **Résistance à la magie**：
     Coton sauvage，Couronne sanglante，Lavande，Nirnroot，Nirnroot cramoisie，Oeuf de poule，Sels du Néant，Serre d'harfreuse，Voiles éthérés.
 **Santé endommagée**：
@@ -345,7 +347,7 @@ Tableau des ingrédients par ordre du jeu (français)
 ---------------------------------------------------
 
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
-| INGREDIENT                      | Effet 1                       | Effet 2                       | Effet 3                         |       Effet 4                             |
+| INGRÉDIENT                      | Effet 1                       | Effet 2                       | Effet 3                         | Effet 4                                   |
 +=================================+===============================+===============================+=================================+===========================================+
 | Abeille                         | restauration de vigueur       | vigueur endommagée            | récupération de vigueur         | vulnérabilité à la foudre                 |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
@@ -401,7 +403,7 @@ Tableau des ingrédients par ordre du jeu (français)
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
 | Défense de Mammouth en poudre   | restauration de vigueur       | renfort de furtivité          | vulnérabilité au feu            | peur                                      |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
-| Ecailles de poisson carnassier  | résistance à la glace         | pénalité de santé persistante | renfort d'armure lourde         | renfort de parade                         |
+| Écailles de poisson carnassier  | résistance à la glace         | pénalité de santé persistante | renfort d'armure lourde         | renfort de parade                         |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
 | Ectoplasme                      | restauration de magie         | renfort de destruction        | renfort de magie                | pénalité de santé                         |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
@@ -534,7 +536,7 @@ Tableau des ingrédients par ordre alphabétique
 ----------------------------------------------
 
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
-| INGREDIENT                      | Effet 1                       | Effet 2                       | Effet 3                         |       Effet 4                             |
+| INGRÉDIENT                      | Effet 1                       | Effet 2                       | Effet 3                         | Effet 4                                   |
 +=================================+===============================+===============================+=================================+===========================================+
 | Abeille                         | restauration de vigueur       | vigueur endommagée            | récupération de vigueur         | vulnérabilité à la foudre                 |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
@@ -590,7 +592,7 @@ Tableau des ingrédients par ordre alphabétique
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
 | Défense de Mammouth en poudre   | restauration de vigueur       | renfort de furtivité          | vulnérabilité au feu            | peur                                      |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
-| Ecailles de poisson carnassier  | résistance à la glace         | pénalité de santé persistante | renfort d'armure lourde         | renfort de parade                         |
+| Écailles de poisson carnassier  | résistance à la glace         | pénalité de santé persistante | renfort d'armure lourde         | renfort de parade                         |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
 | Ectoplasme                      | restauration de magie         | renfort de destruction        | renfort de magie                | pénalité de santé                         |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
