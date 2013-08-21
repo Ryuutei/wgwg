@@ -31,6 +31,9 @@ The Elder Scrolls V: Skyrim
 :Date: 2013/08/15 19:50:44 +0200
 :Version: 1.0
 
+La section Alchimie a ete créé car les autres sources internet sont erronés, et la version francaise inclue beaucoup d'erreurs diverses et de classement (les 'é' sont rangés a la fin de la liste dans le jeu.)
+
+
 .. toctree::
     alchimie.rst
 

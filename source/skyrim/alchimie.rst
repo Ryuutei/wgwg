@@ -6,8 +6,6 @@ Alchimie
 
 :Update: 2013/08/21 23:39:17 +0200
 
-Liste et tableaux créés car les autres sources internet sont erronés, et la version francaise inclue beaucoup d'erreur ainsi que de classement (les 'é' sont rangés a la fin de la liste dans le jeu.)
-
 *******
 
     * `Potions`_
@@ -37,6 +35,8 @@ Liste et tableaux créés car les autres sources internet sont erronés, et la v
     * `Tableaux`_
         * `Tableau des ingrédients par ordre du jeu (français)`_
         * `Tableau des ingrédients par ordre alphabétique`_
+
+    * `Liens`_
 
 ..  .. toctree::
     tableaux.rst
@@ -723,3 +723,8 @@ Tableau des ingrédients par ordre alphabétique
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
 | Voiles éthérés                  | restauration de vigueur       | renfort de destruction        | renfort de portage              | résistance à la magie                     |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
+
+Liens
+=====
+
+`L'ALCHIMIE (2011-2013) par Lilou <http://www.nerevarine.fr/skyrim_alchimie.php>`_
