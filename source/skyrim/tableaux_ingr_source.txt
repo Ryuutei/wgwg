@@ -25,7 +25,6 @@ Couronne sanglante              , vulnérabilité au feu          , renfort de p
 Dent de smilodon                , restauration de vigueur       , renfort d'armure lourde       , renfort de forgeage           , vulnérabilité au poison
 Dent de spectre de glace        , vulnérabilité à la glace      , renfort d'armure lourde       , invisibilité                  , vulnérabilité au feu
 Défense de Mammouth en poudre   , restauration de vigueur       , renfort de furtivité          , vulnérabilité au feu          , peur
-Ecailles de poisson carnassier  , résistance à la glace         , pénalité de santé persistante , renfort d'armure lourde       , renfort de parade
 Ectoplasme                      , restauration de magie         , renfort de destruction        , renfort de magie              , pénalité de santé
 Farine d'os                     , pénalité de vigueur           , résistance au feu             , renfort de conjuration        , vigueur endommagée
 Genièvres                       , vulnérabilité au feu          , renfort de précision          , régénération de santé         , dégâts vigueur récupération
@@ -50,11 +49,11 @@ Nirnroot cramoisie              , pénalité de santé             , pénalité 
 Obscurcine                      , pénalité de santé             , dégâts magie récupération     ,pénalité de vigueur persistante, renfort de destruction
 Oeil de smilodon                , restauration de vigueur       , santé endommagée              , pénalité de magie             , restauration de santé
 Oeuf d'araignée                 , pénalité de vigueur           , dégâts magie récupération     , renfort de crochetage         , renfort de précision
-Oeuf de chaurus                 , vulnérabilité au poison       , renfort de vigueur            , pénalité de magie             , invisibilité
 Oeuf de fauvette                , restauration de santé         , renfort d'arme à une main     , pénalité de vigueur           , vulnérabilité à la magie
 Oeuf de grive                   , restauration de vigueur       , renfort de crochetage         , vulnérabilité au poison       , résistance à la foudre
 Oeuf de poisson carnassier      , résistance au poison          , renfort de vol à la tire      , pénalité de santé persistante , renfort de vigueur
 Oeuf de poule                   , résistance à la magie         , dégâts magie récupération     , respiration aquatique         , pénalité de vigueur persistante
+Oeufs de chaurus                , vulnérabilité au poison       , renfort de vigueur            , pénalité de magie             , invisibilité
 Oreille d'Elfe                  , restauration de magie         , renfort de précision          , vulnérabilité à la glace      , résistance au feu
 Oreille de Falmer               , pénalité de santé             , frénésie                      , résistance au poison          , renfort de crochetage
 Orteil de géant                 , pénalité de vigueur           , renfort de santé              , renfort de portage            , dégâts vigueur récupération
@@ -89,3 +88,4 @@ Thorax de Flammouche            , restauration de vigueur       , pénalité de 
 Tige de chardon                 , résistance à la glace         , vigueur endommagée            , résistance au poison          , renfort d'armure lourde
 Truffe de Namira                , pénalité de magie             , renfort de crochetage         , peur                          , régénération de santé
 Voiles éthérés                  , restauration de vigueur       , renfort de destruction        , renfort de portage            , résistance à la magie
+Écailles de poisson carnassier  , résistance à la glace         , pénalité de santé persistante , renfort d'armure lourde       , renfort de parade

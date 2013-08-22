@@ -57,7 +57,7 @@ Potions diverses
 ----------------
 
 **Invisibilité**：
-    Aile de noctuelle，Dent de spectre de glace，Nirnroot，Nirnroot cramoisie，Oeuf de chaurus，Poussière de vampire.
+    Aile de noctuelle，Dent de spectre de glace，Nirnroot，Nirnroot cramoisie，Oeufs de chaurus，Poussière de vampire.
 **Potion médicinale**：
     Chitine de vasard，Peau de ragnard carbonisé，Plumes de faucon，Poussière de vampire.
 **Respiration aquatique**：
@@ -109,7 +109,7 @@ Renfort de stats
 **Renfort de santé**：
     Blé，Champignon luisant，Griffes d'ours，Lys des cimes bleu，Mousse barbue，Orteil de géant.
 **Renfort de vigueur**：
-    Ail，Grande ramure，Lavande，Oeuf de chaurus，Oeuf de poisson carnassier，Thorax de Flammouche.
+    Ail，Grande ramure，Lavande，Oeufs de chaurus，Oeuf de poisson carnassier，Thorax de Flammouche.
 **Renfort de magie**：
     Carpe du Hist，Coeur de ronces，Coton sauvage，Ectoplasme，Lys des cimes rouge，Raisin jazbay，Sels du Néant.
 
@@ -185,9 +185,9 @@ Dégâts de régénération
 ----------------------
 
 **Dégâts vigueur récupération**：
-    Blé，Carpe du Hist，Coeur de Daedra，Genièvres，Grande ramure，Hivernelle，Orteil de géant，Perche argentée，Plantes grimpantes，Queue de ragnard.
+    Blé，Carpe  du Hist，Coeur de Daedra，Genièvres，Grande ramure，Hivernelle，Orteil de géant，Perche argentée，Plantes grimpantes，Queue de ragnard.
 **Dégâts magie récupération**：
-    Aile de papillon bleu，Coeur humain，Griffes d'ours，Lys des cimes bleu，Mousse barbue，Obscurcine，Oeuf d'araignée，Oeuf de poule，Poussière luisante，Sève de spriggan.
+    Aile de papi llon bleu，Coeur humain，Griffes d'ours，Lys des cimes bleu，Mousse barbue，Obscurcine，Oeuf d'araignée，Oeuf de poule，Poussière luisante，Sève de spriggan.
 
 Pénalité de stats
 -----------------
@@ -195,12 +195,14 @@ Pénalité de stats
 **Pénalité de santé**：
     Chair humaine，Coeur humain，Ectoplasme，Graisse de troll，Grelot-de-la-mort，Lys des cimes rouge，Nirnroot，Nirnroot cramoisie，Obscurcine，Oreille de Falmer，Petite ramure，Pied-de-lutin，Poisson de rivière，Queue de ragnard，Sels du Néant.
 **Pénalité de vigueur**：
-    Aile de papillon bleu，Cloquerille，Farine d'os，Nirnroot，Nirnroot cramoisie，Oeuf d'araignée，Oeuf de fauvette，Orteil de géant，Poisson-combattant de Cyrodiil，Racine de canis.
+    Aile de papi llon bleu，Cloquerille，Farine d'os，Nirnroot，Nirnroot cramoisie，Oeuf d'araignée，Oeuf de fauvette，Orteil de géant，Poisson-combattant de Cyrodiil，Racine de canis.
 **Pénalité de magie**：
-    Aile de noctuelle，Aile de papillon，Bernache nordique，Coeur de Daedra，Coeur humain，Mousse barbue，Oeil de smilodon，Oeuf de chaurus，Plumes d'harfreuse，Poussière luisante，Truffe de Namira.
+    Aile de noctuelle，Aile de papillon，Bernache nordique，Coeur de Daedra，Coeur humain，Mousse barbue，Oeil de smilodon，Oeufs de chaurus，Plumes d'harfreuse，Poussière luisante，Truffe de Namira.
 
 Pénalité de stats persistantes
 ------------------------------
+
+*NB: Dégâts infligés dans le temps.*
 
 **Pénalité de santé persistante**：
     Aile de fléchette orange，Écailles de poisson carnassier，Mora tapinella，Oeuf de poisson carnassier，Pied-de-lutin.
@@ -211,10 +213,11 @@ Pénalité de stats persistantes
 
 Vulnérabilité
 -------------
+
 **Vulnérabilité au feu**：
     Couronne sanglante，Dent de spectre de glace，Défense de Mammouth en poudre，Genièvres，Sels de givre，Sucrelune.
 **Vulnérabilité au poison**：
-    Abécéen à longue nageoire，Couronne sanglante，Dent de smilodon，Grelot-de-la-mort，Lichen géant，Oeuf de chaurus，Oeuf de grive，Petite ramure.
+    Abécéen à longue nageoire，Couronne sanglante，Dent de smilodon，Grelot-de-la-mort，Lichen géant，Oeufs de chaurus，Oeuf de grive，Petite ramure.
 **Vulnérabilité à la foudre**：
     Abeille，Lichen géant，Plumes d'harfreuse，Sels du Néant.
 **Vulnérabilité à la glace**：
@@ -233,7 +236,7 @@ Liste par effets
 **Frénésie**：
     Amanite tue-mouches，Cloquerille，Coeur humain，Graisse de troll，Oreille de Falmer，Plumes d'harfreuse.
 **Invisibilité**：
-    Aile de noctuelle，Dent de spectre de glace，Nirnroot，Nirnroot cramoisie，Oeuf de chaurus，Poussière de vampire.
+    Aile de noctuelle，Dent de spectre de glace，Nirnroot，Nirnroot cramoisie，Oeufs de chaurus，Poussière de vampire.
 **Langueur**：
     Grande ramure，Grelot-de-la-mort，Poisson de rivière，Tas de sel.
 **Magie endommagée**：
@@ -247,7 +250,7 @@ Liste par effets
 **Pénalité de magie persistante**：
     Blé，Lys des cimes violet，Mycène des marais，Serre d'harfreuse，Thorax de Flammouche.
 **Pénalité de magie**：
-    Aile de noctuelle，Aile de papillon，Bernache nordique，Coeur de Daedra，Coeur humain，Mousse barbue，Oeil de smilodon，Oeuf de chaurus，Plumes d'harfreuse，Poussière luisante，Truffe de Namira.
+    Aile de noctuelle，Aile de papillon，Bernache nordique，Coeur de Daedra，Coeur humain，Mousse barbue，Oeil de smilodon，Oeufs de chaurus，Plumes d'harfreuse，Poussière luisante，Truffe de Namira.
 **Pénalité de santé persistante**：
     Aile de fléchette orange，Écailles de poisson carnassier，Mora tapinella，Oeuf de poisson carnassier，Pied-de-lutin.
 **Pénalité de santé**：
@@ -297,7 +300,7 @@ Liste par effets
 **Renfort de santé**：
     Blé，Champignon luisant，Griffes d'ours，Lys des cimes bleu，Mousse barbue，Orteil de géant.
 **Renfort de vigueur**：
-    Ail，Grande ramure，Lavande，Oeuf de chaurus，Oeuf de poisson carnassier，Thorax de Flammouche.
+    Ail，Grande ramure，Lavande，Oeufs de chaurus，Oeuf de poisson carnassier，Thorax de Flammouche.
 **Renfort de vol à la tire**：
     Aile de fléchette bleue，Aile de fléchette orange，Bernache nordique，Oeuf de poisson carnassier.
 **Respiration aquatique**：
@@ -329,7 +332,7 @@ Liste par effets
 **Vulnérabilité au feu**：
     Couronne sanglante，Dent de spectre de glace，Défense de Mammouth en poudre，Genièvres，Sels de givre，Sucrelune.
 **Vulnérabilité au poison**：
-    Abécéen à longue nageoire，Couronne sanglante，Dent de smilodon，Grelot-de-la-mort，Lichen géant，Oeuf de chaurus，Oeuf de grive，Petite ramure.
+    Abécéen à longue nageoire，Couronne sanglante，Dent de smilodon，Grelot-de-la-mort，Lichen géant，Oeufs de chaurus，Oeuf de grive，Petite ramure.
 **Vulnérabilité à la foudre**：
     Abeille，Lichen géant，Plumes d'harfreuse，Sels du Néant.
 **Vulnérabilité à la glace**：
@@ -406,8 +409,6 @@ Tableau des ingrédients par ordre du jeu (français)
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
 | Défense de Mammouth en poudre   | restauration de vigueur       | renfort de furtivité          | vulnérabilité au feu            | peur                                      |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
-| Écailles de poisson carnassier  | résistance à la glace         | pénalité de santé persistante | renfort d'armure lourde         | renfort de parade                         |
-+---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
 | Ectoplasme                      | restauration de magie         | renfort de destruction        | renfort de magie                | pénalité de santé                         |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
 | Farine d'os                     | pénalité de vigueur           | résistance au feu             | renfort de conjuration          | vigueur endommagée                        |
@@ -448,7 +449,7 @@ Tableau des ingrédients par ordre du jeu (français)
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
 | Nirnroot                        | pénalité de santé             | pénalité de vigueur           | invisibilité                    | résistance à la magie                     |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
-| Nirnroot cramoisie              | pénalité de santé             | pénalité de vigueur           | invisibilité                    | résistance à la magie                     |
+| Nirnroot cramoisie [2]_         | pénalité de santé             | pénalité de vigueur           | invisibilité                    | résistance à la magie                     |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
 | Obscurcine                      | pénalité de santé             | dégâts magie récupération     | pénalité de vigueur persistante | renfort de destruction                    |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
@@ -464,7 +465,7 @@ Tableau des ingrédients par ordre du jeu (français)
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
 | Oeuf de poule                   | résistance à la magie         | dégâts magie récupération     | respiration aquatique           | pénalité de vigueur persistante           |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
-| Oeuf de chaurus                 | vulnérabilité au poison       | renfort de vigueur            | pénalité de magie               | invisibilité                              |
+| Oeufs de chaurus                | vulnérabilité au poison       | renfort de vigueur            | pénalité de magie               | invisibilité                              |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
 | Oreille d'Elfe                  | restauration de magie         | renfort de précision          | vulnérabilité à la glace        | résistance au feu                         |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
@@ -516,7 +517,7 @@ Tableau des ingrédients par ordre du jeu (français)
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
 | Sels de givre                   | vulnérabilité au feu          | résistance à la glace         | restauration de magie           | renfort de conjuration                    |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
-| Sels du Néant                   | vulnérabilité à la foudre     | résistance à la magie         | pénalité de santé               | renfort de magie                          |
+| Sels du Néant [1]_              | vulnérabilité à la foudre     | résistance à la magie         | pénalité de santé               | renfort de magie                          |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
 | Serre d'harfreuse               | résistance à la magie         | pénalité de magie persistante | renfort d'enchantement          | renfort de marchandage                    |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
@@ -533,6 +534,8 @@ Tableau des ingrédients par ordre du jeu (français)
 | Truffe de Namira                | pénalité de magie             | renfort de crochetage         | peur                            | régénération de santé                     |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
 | Voiles éthérés                  | restauration de vigueur       | renfort de destruction        | renfort de portage              | résistance à la magie                     |
++---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
+| Écailles de poisson carnassier  | résistance à la glace         | pénalité de santé persistante | renfort d'armure lourde         | renfort de parade                         |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
 
 Tableau des ingrédients par ordre alphabétique
@@ -637,7 +640,7 @@ Tableau des ingrédients par ordre alphabétique
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
 | Nirnroot                        | pénalité de santé             | pénalité de vigueur           | invisibilité                    | résistance à la magie                     |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
-| Nirnroot cramoisie              | pénalité de santé             | pénalité de vigueur           | invisibilité                    | résistance à la magie                     |
+| Nirnroot cramoisie [2]_         | pénalité de santé             | pénalité de vigueur           | invisibilité                    | résistance à la magie                     |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
 | Obscurcine                      | pénalité de santé             | dégâts magie récupération     | pénalité de vigueur persistante | renfort de destruction                    |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
@@ -645,7 +648,7 @@ Tableau des ingrédients par ordre alphabétique
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
 | Oeuf d'araignée                 | pénalité de vigueur           | dégâts magie récupération     | renfort de crochetage           | renfort de précision                      |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
-| Oeuf de chaurus                 | vulnérabilité au poison       | renfort de vigueur            | pénalité de magie               | invisibilité                              |
+| Oeufs de chaurus                | vulnérabilité au poison       | renfort de vigueur            | pénalité de magie               | invisibilité                              |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
 | Oeuf de fauvette                | restauration de santé         | renfort d'arme à une main     | pénalité de vigueur             | vulnérabilité à la magie                  |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
@@ -705,7 +708,7 @@ Tableau des ingrédients par ordre alphabétique
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
 | Sels de givre                   | vulnérabilité au feu          | résistance à la glace         | restauration de magie           | renfort de conjuration                    |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
-| Sels du Néant                   | vulnérabilité à la foudre     | résistance à la magie         | pénalité de santé               | renfort de magie                          |
+| Sels du Néant [1]_              | vulnérabilité à la foudre     | résistance à la magie         | pénalité de santé               | renfort de magie                          |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
 | Serre d'harfreuse               | résistance à la magie         | pénalité de magie persistante | renfort d'enchantement          | renfort de marchandage                    |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
@@ -723,6 +726,9 @@ Tableau des ingrédients par ordre alphabétique
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
 | Voiles éthérés                  | restauration de vigueur       | renfort de destruction        | renfort de portage              | résistance à la magie                     |
 +---------------------------------+-------------------------------+-------------------------------+---------------------------------+-------------------------------------------+
+
+.. [1] "Sels fins du Néant" est un exemplaire unique de "Sels du Néant".
+.. [2] "Nirnroot cramoisie" est rare mais identique à "Nirnroot".
 
 Liens
 =====
