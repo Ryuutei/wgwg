@@ -27,8 +27,7 @@
 Road Runner
 ===========
 
-75 Vies des le depart
----------------------
+**75 Vies des le depart**
 
 A la page de presentation gardez appuyés:
    ``←``  ``Select`` ``R`` ``Y`` ``Start``.

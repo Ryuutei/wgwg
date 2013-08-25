@@ -27,8 +27,9 @@
 Command & Conquer 3
 ===================
 
-Raccouci pour un MOD
---------------------
+**Server & Multiplayer**
+
+**Raccouci pour un MOD**
 
 
 Comment Créer un raccourci pour un MOD Command and Conquer 3 Les Guerres du Tiberium :

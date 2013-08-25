@@ -27,8 +27,7 @@
 Street Fighter 2 Turbo
 ======================
 
-Mode Turbo
-----------
+**Mode Turbo**
 
 a l’intro, juste apres le logo CAPCOM faire avec la 2eme manette :
     ``↓`` ``R`` ``↑`` ``L`` ``Y`` ``B``

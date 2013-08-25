@@ -1,15 +1,13 @@
 Alien 3
 =======
 
-Passwords:
-----------
+**Passwords:**
 
 Password du dernier niveau :
     OVER GAME
 
 
-Cheat Code:
------------
+**Cheat Code:**
 
 N’importe quand durant le jeu, maintenir sur la seconde manette
     A, B, X, Y et sur la premiere manette

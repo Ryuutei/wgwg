@@ -27,8 +27,15 @@
 Battlefield 2142
 ================
 
-Installation fonctionelle de Northern Strike
---------------------------------------------
+**Server & Multiplayer**
+
+
+Les ports a ouvrir pour le multijoueur sont:
+
+* 80
+
+
+**Installation fonctionelle de Northern Strike**
 
 Pour faire une installation fonctionelle de Northern Strike qui marchera sur les servers ranked:
 
@@ -44,8 +51,7 @@ Pour faire une installation fonctionelle de Northern Strike qui marchera sur les
     #. Patcher avec le patch ``1.4 to 1.5 incremental``.
 
 
-Auto-login
-----------
+**Auto-login**
 
 Pour se connecter automatiquement a son compte sur BF2142 ajoutez a la ligne de commande de lancement du jeu dans le raccourci (apres bf2142.exe):
 

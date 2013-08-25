@@ -27,8 +27,16 @@
 Battlefield 2
 =============
 
-Installation fonctionelle de BF2 Forces Spéciales
--------------------------------------------------
+**Server & Multiplayer**
+
+
+Les ports a ouvrir sont:
+
+* 80
+
+
+
+**Installation fonctionelle de BF2 Forces Spéciales**
 
 **NB: si vous possedez la Version Pack deluxe contenant : Battlefield 2, Special Forces, Armored Fury et Euro Forces, vous n’avez pas besoin de ce guide.**
 

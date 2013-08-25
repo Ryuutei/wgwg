@@ -27,8 +27,7 @@
 Pop’N’ Twinbee
 ==============
 
-stage select
-------------
+**stage select**
 
 Dans les options appuyez sur:
     ↑ ← ↑ ← ↑ ← ← ← → → → ↓ ← ↓ ← ↓ B
