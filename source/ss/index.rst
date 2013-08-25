@@ -40,6 +40,7 @@ PC Windows，GNU/Linux & Mac OSX
     doom3.rst
     dune2000.rst
     hammerwatch.rst
+    minecraft.rst
     neverWinterNights.rst
     quake3.rst
     rttcWolfenstein.rst
