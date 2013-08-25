@@ -12,4 +12,4 @@ Ports utilise par le multijoueur :
 
 * **TCP/UDP** 27660-27692
 
-autres infos, clients et server telechargeable sur ioquake3 http://ioquake3.org/
+autres infos, clients et server telechargeable sur `ioQuake3 <http://ioquake3.org/>`_

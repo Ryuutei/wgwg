@@ -31,3 +31,4 @@ Hammerwatch
 
 * **TCP** [*]_ 9995
 
+.. [*] A ce jour (2013/08/25) Etant donne tous les problemes de syncronisation que le je possede, il est probable que le protocol soit TCP. Ouvrez les deux protocol au cas ou.
