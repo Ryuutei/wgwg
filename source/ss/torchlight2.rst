@@ -30,7 +30,7 @@ Torchlight II
 **Server & Multiplayer**
 
 * **TCP** 4549
+* **UDP** 4171
 * **UDP** 4175
 * **UDP** 4179
-* **UDP** 4171
 
