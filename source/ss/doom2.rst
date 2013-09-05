@@ -22,30 +22,28 @@
     ^, for subsubsections
     ", for paragraphs
 
-.. index:: PC, MAC, Windows, GNU/Linux
+.. index:: fps
 
-PC Windows，GNU/Linux & Mac OSX
-===============================
+Doom II
+=======
 
-.. toctree::
-    avp.rst
-    bf2.rst
-    bf2142.rst
-    cNc3.rst
-    cNcG1.rst
-    cNcTS.rst
-    crysis.rst
-    demineur.rst
-    diablo2.rst
-    doom2.rst
-    doom3.rst
-    dune2000.rst
-    hammerwatch.rst
-    kali.rst
-    minecraft.rst
-    neverWinterNights.rst
-    quake3.rst
-    rttcWolfenstein.rst
-    starcraft.rst
-    torchlight2.rst
-    warcraft2.rst
+Cheat codes:
+
+==========  =========================================
+Code        Effet
+==========  =========================================
+IDDQD       God mode
+IFKFA       Toutes les armes, clés, munitions au max.
+IDCLEVλλ    Lance le niveau: λλ (01-31)
+IDBEHOLDR   Tenue anti-radiations
+IDCHOPPERS  Tronconneuse
+IDMYPOS     affiche la position
+IDBEHOLDλ   Obtenir l'objet λ (0-??)
+IDBEHOLDV   Invincible 30 sec
+IDBEHOLDS   Berserk Mode
+IDMUSλ      Joue la musique numero λ (0-??)
+IDDT        Mode Map ??
+IDBEHOLDA   Mode Map ??
+IDBEHOLDI   Invisible.
+==========  =========================================
+

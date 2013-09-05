@@ -28,22 +28,24 @@ PC Windows，GNU/Linux & Mac OSX
 ===============================
 
 .. toctree::
-
     avp.rst
     bf2.rst
     bf2142.rst
-    cNcTS.rst
     cNc3.rst
     cNcG1.rst
+    cNcTS.rst
     crysis.rst
+    demineur.rst
     diablo2.rst
+    doom2.rst
     doom3.rst
     dune2000.rst
     hammerwatch.rst
+    kali.rst
     minecraft.rst
     neverWinterNights.rst
     quake3.rst
     rttcWolfenstein.rst
     starcraft.rst
     torchlight2.rst
-    kali.rst
+    warcraft2.rst

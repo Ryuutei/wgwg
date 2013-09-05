@@ -22,30 +22,14 @@
     ^, for subsubsections
     ", for paragraphs
 
-.. index:: PC, MAC, Windows, GNU/Linux
+Demineur
+========
 
-PC Windows，GNU/Linux & Mac OSX
-===============================
+**Detecteur de mines:**
 
-.. toctree::
-    avp.rst
-    bf2.rst
-    bf2142.rst
-    cNc3.rst
-    cNcG1.rst
-    cNcTS.rst
-    crysis.rst
-    demineur.rst
-    diablo2.rst
-    doom2.rst
-    doom3.rst
-    dune2000.rst
-    hammerwatch.rst
-    kali.rst
-    minecraft.rst
-    neverWinterNights.rst
-    quake3.rst
-    rttcWolfenstein.rst
-    starcraft.rst
-    torchlight2.rst
-    warcraft2.rst
+taper:
+    ``xyzzy`` puis ``enter`` et ``shift``
+
+le pixel en haut a gauche deviens blanc si la case est vide, ou noir si une mine se trouve sur la case.
+
+*NB: teste sur windows95*

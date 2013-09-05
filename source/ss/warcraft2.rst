@@ -22,30 +22,47 @@
     ^, for subsubsections
     ", for paragraphs
 
-.. index:: PC, MAC, Windows, GNU/Linux
+.. index:: 
 
-PC Windows，GNU/Linux & Mac OSX
-===============================
+Warcraft II
+===========
 
-.. toctree::
-    avp.rst
-    bf2.rst
-    bf2142.rst
-    cNc3.rst
-    cNcG1.rst
-    cNcTS.rst
-    crysis.rst
-    demineur.rst
-    diablo2.rst
-    doom2.rst
-    doom3.rst
-    dune2000.rst
-    hammerwatch.rst
-    kali.rst
-    minecraft.rst
-    neverWinterNights.rst
-    quake3.rst
-    rttcWolfenstein.rst
-    starcraft.rst
-    torchlight2.rst
-    warcraft2.rst
+
+en ouvrant la console avec ``enter`` tapez:
+
+``make it so``
+    construction rapide
+
+``on screen``
+    toute la carte
+
+``glittering prizes``
+    pleins d'or, bois, petrol.
+
+``hatchet``
+    Les paysans coupe le bois en 2 coups de hache.
+
+``valdez``
+    5000 de petrol.
+
+``noglues``
+    desactive les pieges magiques.
+
+``showpath``
+    toute la carte devoile.
+
+``deck me out``
+    ameliore les constructions.
+
+``Title``
+    Les unites sont plus rapides.
+
+``unite the clans``
+    Victoire.
+
+``you pitiful worm``
+    Defaite.
+
+``never a winner``
+    Draw.
+
