@@ -1,0 +1,247 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Binary to BCD Converter &mdash; When Games Were Good data base</title>
+    
+    <link rel="stylesheet" href="../../_static/agogo.css" type="text/css" />
+    <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '../../',
+        VERSION:     '1',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="../../_static/jquery.js"></script>
+    <script type="text/javascript" src="../../_static/underscore.js"></script>
+    <script type="text/javascript" src="../../_static/doctools.js"></script>
+    <link rel="top" title="When Games Were Good data base" href="../../index.html" />
+    <link rel="up" title="Advanced Redstone" href="../advanced.html" />
+    <link rel="next" title="Schematics credits" href="../schematics.html" />
+    <link rel="prev" title="Binaire vers Decimal" href="../tech/ryuutei-bin2bdc.html" /> 
+  </head>
+  <body>
+    <div class="header-wrapper">
+      <div class="header">
+        <div class="headertitle"><a
+          href="../../index.html">When Games Were Good db</a></div>
+        <div class="rel">
+          <a href="../tech/ryuutei-bin2bdc.html" title="Binaire vers Decimal"
+             accesskey="P">previous</a> |
+          <a href="../schematics.html" title="Schematics credits"
+             accesskey="N">next</a> |
+          <a href="../../genindex.html" title="General Index"
+             accesskey="I">index</a>
+        </div>
+       </div>
+    </div>
+
+    <div class="content-wrapper">
+      <div class="content">
+        <div class="document">
+            
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="binary-to-bcd-converter">
+<span id="bin2bcd-by-john-loomis"></span><span id="index-0"></span><h1>Binary to BCD Converter<a class="headerlink" href="#binary-to-bcd-converter" title="Permalink to this headline">¶</a></h1>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Author:</th><td class="field-body"><a class="reference external" href="http://www.johnloomis.org/">John Loomis</a></td>
+</tr>
+<tr class="field-even field"><th class="field-name">source:</th><td class="field-body"><a class="reference external" href="http://www.johnloomis.org/ece314/notes/devices/binary_to_BCD/bin_to_bcd.html">http://www.johnloomis.org/ece314/notes/devices/binary_to_BCD/bin_to_bcd.html</a></td>
+</tr>
+<tr class="field-odd field"><th class="field-name">Reference:</th><td class="field-body">course materials from <a class="reference external" href="http://www.cse.secs.oakland.edu/haskell">Prof. Richard E. Haskell</a></td>
+</tr>
+<tr class="field-even field"><th class="field-name">Date:</th><td class="field-body">2004-01-04</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Shift and Add-3 Algorithm</strong></p>
+<ol class="arabic simple">
+<li>Shift the binary number left one bit.</li>
+<li>If 8 shifts have taken place, the BCD number is in the Hundreds, Tens, and Units column.</li>
+<li>If the binary value in any of the BCD columns is 5 or greater, add 3 to that value in that BCD column.</li>
+<li>Go to 1.</li>
+</ol>
+<table border="1" class="docutils">
+<colgroup>
+<col width="21%" />
+<col width="19%" />
+<col width="12%" />
+<col width="13%" />
+<col width="17%" />
+<col width="17%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head">Operation</th>
+<th class="head">Hundreds</th>
+<th class="head">Tens</th>
+<th class="head">Units</th>
+<th class="head" colspan="2">Binary</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td>HEX</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>F</td>
+<td>F</td>
+</tr>
+<tr class="row-odd"><td>Start</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1 1 1 1</td>
+<td>1 1 1 1</td>
+</tr>
+</tbody>
+</table>
+<hr class="docutils" />
+<p>Example 1: Convert hex E to BCD</p>
+<img alt="../../_images/bcd01.png" src="../../_images/bcd01.png" />
+<p>Example 2: Convert hex FF to BCD</p>
+<img alt="../../_images/bcd02.png" src="../../_images/bcd02.png" />
+<p>Truth table for Add-3 Module</p>
+<img alt="../../_images/bcd03.png" src="../../_images/bcd03.png" />
+<p>Here is a Verilog module for this truth table.</p>
+<div class="highlight-python"><pre>module add3(in,out);
+input [3:0] in;
+output [3:0] out;
+reg [3:0] out;
+
+always @ (in)
+    case (in)
+    4&#x27;b0000: out &lt;= 4&#x27;b0000;
+    4&#x27;b0001: out &lt;= 4&#x27;b0001;
+    4&#x27;b0010: out &lt;= 4&#x27;b0010;
+    4&#x27;b0011: out &lt;= 4&#x27;b0011;
+    4&#x27;b0100: out &lt;= 4&#x27;b0100;
+    4&#x27;b0101: out &lt;= 4&#x27;b1000;
+    4&#x27;b0110: out &lt;= 4&#x27;b1001;
+    4&#x27;b0111: out &lt;= 4&#x27;b1010;
+    4&#x27;b1000: out &lt;= 4&#x27;b1011;
+    4&#x27;b1001: out &lt;= 4&#x27;b1100;
+    default: out &lt;= 4&#x27;b0000;
+    endcase
+endmodule</pre>
+</div>
+<p><strong>Binary-to-BCD Converter Module</strong></p>
+<img alt="../../_images/bcd04.png" src="../../_images/bcd04.png" />
+<p>Here is a structural Verilog module corresponding to the logic diagram.</p>
+<div class="highlight-python"><pre>module binary_to_BCD(A,ONES,TENS,HUNDREDS);
+input [7:0] A;
+output [3:0] ONES, TENS;
+output [1:0] HUNDREDS;
+wire [3:0] c1,c2,c3,c4,c5,c6,c7;
+wire [3:0] d1,d2,d3,d4,d5,d6,d7;
+
+assign d1 = {1&#x27;b0,A[7:5]};
+assign d2 = {c1[2:0],A[4]};
+assign d3 = {c2[2:0],A[3]};
+assign d4 = {c3[2:0],A[2]};
+assign d5 = {c4[2:0],A[1]};
+assign d6 = {1&#x27;b0,c1[3],c2[3],c3[3]};
+assign d7 = {c6[2:0],c4[3]};
+add3 m1(d1,c1);
+add3 m2(d2,c2);
+add3 m3(d3,c3);
+add3 m4(d4,c4);
+add3 m5(d5,c5);
+add3 m6(d6,c6);
+add3 m7(d7,c7);
+assign ONES = {c5[2:0],A[0]};
+assign TENS = {c7[2:0],c5[3]};
+assign HUNDREDS = {c6[3],c7[3]};
+
+endmodule</pre>
+</div>
+<p><strong>General Binary-to-BCD Converter</strong></p>
+<p>The linked code is a general <a class="reference external" href="http://www.johnloomis.org/ece314/notes/devices/binary_to_BCD/binary_to_bcd_v.html">binary-to-BCD</a> Verilog module, but I have not personally tested the code.</p>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+        </div>
+        <div class="sidebar">
+          <h3>Table Of Contents</h3>
+          <ul>
+<li class="toctree-l1"><a class="reference internal" href="../../sans_drm.html">Liste des jeux sans DRM.</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../skyrim/skyrim_index.html">The Elder Scrolls V: Skyrim</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../index.html">Minecraft</a></li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../ss/index.html">PC Windows，GNU/Linux &amp; Mac OSX</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../nes/index.html">Nintendo Entertainment System</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../snes/index.html">Super Nintendo／Super Famicom</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../n64/index.html">Nintendo 64／Ultra 64</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../ngc/index.html">Nintendo Game Cube／Dolphin</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../ngb/index.html">Nintendo Game Boy</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../nds/index.html">Nintendo DS</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../ps2/index.html">PlayStation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../zxspectrum/index.html">ZX Spectrum</a></li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../snes/ar.html">Codes Action Replay Divers</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../skyrim/tableaux.html">Tableau des ingrédients par ordre du jeu (français)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../skyrim/tableaux.html#tableau-des-ingredients-par-ordre-alphabetique">Tableau des ingrédients par ordre alphabétique</a></li>
+</ul>
+
+          <h3 style="margin-top: 1.5em;">Search</h3>
+          <form class="search" action="../../search.html" method="get">
+            <input type="text" name="q" />
+            <input type="submit" value="Go" />
+            <input type="hidden" name="check_keywords" value="yes" />
+            <input type="hidden" name="area" value="default" />
+          </form>
+          <p class="searchtip" style="font-size: 90%">
+            Enter search terms or a module, class or function name.
+          </p>
+        </div>
+        <div class="clearer"></div>
+      </div>
+    </div>
+
+    <div class="footer-wrapper">
+      <div class="footer">
+        <div class="left">
+          <a href="../tech/ryuutei-bin2bdc.html" title="Binaire vers Decimal"
+             >previous</a> |
+          <a href="../schematics.html" title="Schematics credits"
+             >next</a> |
+          <a href="../../genindex.html" title="General Index"
+             >index</a>
+            <br/>
+            <a href="../../_sources/minecraft/tech/jl-bin2bdc.txt"
+               rel="nofollow">Show Source</a>
+        </div>
+
+        <div class="right">
+          
+    <div class="footer">
+        &copy; Copyright 2013, Sebastien BLANC ; Julien B..
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.1.3.
+    </div>
+        </div>
+        <div class="clearer"></div>
+      </div>
+    </div>
+
+  </body>
+</html>

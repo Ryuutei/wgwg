@@ -1,0 +1,206 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Command Block &mdash; When Games Were Good data base</title>
+    
+    <link rel="stylesheet" href="../_static/agogo.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '../',
+        VERSION:     '1',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="../_static/jquery.js"></script>
+    <script type="text/javascript" src="../_static/underscore.js"></script>
+    <script type="text/javascript" src="../_static/doctools.js"></script>
+    <link rel="top" title="When Games Were Good data base" href="../index.html" />
+    <link rel="up" title="Minecraft" href="index.html" />
+    <link rel="next" title="Advanced Redstone" href="advanced.html" />
+    <link rel="prev" title="B.A.BA du Redstone" href="redstone.html" /> 
+  </head>
+  <body>
+    <div class="header-wrapper">
+      <div class="header">
+        <div class="headertitle"><a
+          href="../index.html">When Games Were Good db</a></div>
+        <div class="rel">
+          <a href="redstone.html" title="B.A.BA du Redstone"
+             accesskey="P">previous</a> |
+          <a href="advanced.html" title="Advanced Redstone"
+             accesskey="N">next</a> |
+          <a href="../genindex.html" title="General Index"
+             accesskey="I">index</a>
+        </div>
+       </div>
+    </div>
+
+    <div class="content-wrapper">
+      <div class="content">
+        <div class="document">
+            
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="command-block">
+<span id="index-0"></span><h1>Command Block<a class="headerlink" href="#command-block" title="Permalink to this headline">¶</a></h1>
+<p><strong>Basics</strong></p>
+<blockquote>
+<div><ul class="simple">
+<li><tt class="docutils literal"><span class="pre">&#64;a</span></tt> : all players on the server.</li>
+<li><tt class="docutils literal"><span class="pre">&#64;p</span></tt> : nearest player</li>
+<li><tt class="docutils literal"><span class="pre">&#64;r</span></tt> : random player</li>
+</ul>
+</div></blockquote>
+<p><tt class="docutils literal"><span class="pre">give</span> <span class="pre">&lt;player&gt;</span> <span class="pre">&lt;object&gt;</span> <span class="pre">&lt;amount&gt;</span> <span class="pre">&lt;datavalue&gt;</span></tt></p>
+<p><tt class="docutils literal"><span class="pre">clear</span> <span class="pre">&lt;player&gt;</span> <span class="pre">&lt;object&gt;</span> <span class="pre">&lt;datavalue&gt;</span></tt></p>
+<p><em>difficulty</em></p>
+<blockquote>
+<div><ul class="simple">
+<li><tt class="docutils literal"><span class="pre">0</span></tt> : peaceful</li>
+<li><tt class="docutils literal"><span class="pre">1</span></tt> : easy</li>
+<li><tt class="docutils literal"><span class="pre">2</span></tt> : nornal</li>
+<li><tt class="docutils literal"><span class="pre">3</span></tt> : hard</li>
+</ul>
+</div></blockquote>
+<p><tt class="docutils literal"><span class="pre">gademode</span> <span class="pre">&lt;mode&gt;</span> <span class="pre">&lt;player&gt;</span></tt></p>
+<p><tt class="docutils literal"><span class="pre">say</span> <span class="pre">&lt;msg&gt;</span></tt>
+<tt class="docutils literal"><span class="pre">tell</span> <span class="pre">&lt;player&gt;</span> <span class="pre">&lt;msg&gt;</span></tt></p>
+<p><tt class="docutils literal"><span class="pre">spawnpoint</span> <span class="pre">&lt;player&gt;</span> <span class="pre">&lt;X&gt;</span> <span class="pre">&lt;Y&gt;</span> <span class="pre">&lt;Z&gt;</span></tt></p>
+<p><tt class="docutils literal"><span class="pre">time</span> <span class="pre">set</span> <span class="pre">&lt;value&gt;</span></tt>
+<tt class="docutils literal"><span class="pre">time</span> <span class="pre">add</span> <span class="pre">&lt;value&gt;</span></tt></p>
+<p><em>weather</em></p>
+<blockquote>
+<div><ul class="simple">
+<li>clear</li>
+<li>rain</li>
+<li>thunder</li>
+</ul>
+</div></blockquote>
+<p><tt class="docutils literal"><span class="pre">xp</span> <span class="pre">&lt;+/-value&gt;</span> <span class="pre">&lt;player&gt;</span></tt></p>
+<p><em>filtering</em></p>
+<p>[r=&lt;value&gt;]</p>
+<blockquote>
+<div><ul class="simple">
+<li><tt class="docutils literal"><span class="pre">r</span></tt> :  radius</li>
+<li><tt class="docutils literal"><span class="pre">rm</span></tt> :  radius min</li>
+<li><tt class="docutils literal"><span class="pre">l</span></tt> :  level</li>
+<li><tt class="docutils literal"><span class="pre">lm</span></tt> :  level min</li>
+<li><tt class="docutils literal"><span class="pre">m</span></tt> : game mode</li>
+<li><tt class="docutils literal"><span class="pre">c</span></tt> : count</li>
+<li><tt class="docutils literal"><span class="pre">x</span></tt></li>
+<li><tt class="docutils literal"><span class="pre">y</span></tt></li>
+<li><tt class="docutils literal"><span class="pre">z</span></tt></li>
+<li><tt class="docutils literal"><span class="pre">r</span></tt></li>
+</ul>
+</div></blockquote>
+<p><tt class="docutils literal"><span class="pre">testfor</span></tt></p>
+<p><strong>Advanced</strong></p>
+<p>cf. <a class="reference external" href="http://youtu.be/Ujls92b-hUw">sethbling</a></p>
+<p><tt class="docutils literal"><span class="pre">/setblock</span> <span class="pre">&lt;x&gt;</span> <span class="pre">&lt;y&gt;</span> <span class="pre">&lt;z&gt;</span> <span class="pre">&lt;TileName&gt;</span> <span class="pre">[dataValue]</span> <span class="pre">[oldBlockHandling]</span> <span class="pre">[dataTag]</span></tt></p>
+<p><tt class="docutils literal"><span class="pre">/testforblock</span> <span class="pre">&lt;x&gt;</span> <span class="pre">&lt;y&gt;</span> <span class="pre">&lt;z&gt;</span> <span class="pre">&lt;TileName&gt;</span> <span class="pre">[dataValue]</span> <span class="pre">[dataTag]</span></tt></p>
+<div class="highlight-python"><pre>/tellraw @a {&quot;text&quot;:&quot;Do you want an apple? &quot;, &quot;extra&quot;: [{&quot;text&quot;:&quot;[OK]&quot;,&quot;color&quot;:&quot;red&quot;,&quot;clickEvent&quot;: {&quot;action&quot;:&quot;run_command&quot;,&quot;value&quot;:&quot;/give @p 260&quot;}, &quot;hoverEvent&quot;:{&quot;action&quot;:&quot;show_text&quot;,&quot;value&quot;:&quot;I really do&quot;}}]}</pre>
+</div>
+<div class="highlight-python"><pre>/tellraw @a {&quot;text&quot;: &quot;Click on the item to buy it: &quot;, &quot;extra&quot;: [{&quot;text&quot;: &quot;Dinner&#x27;s Bone&quot;, &quot;clickEvent&quot;: {&quot;action&quot;: &quot;run_command&quot;, &quot;value&quot;: &quot;/give @p bone 1 0 {display:{Name:\&quot;Dinners Bone\&quot;}}&quot;}, &quot;hoverEvent&quot;: {&quot;action&quot;: &quot;show_item&quot;, &quot;value&quot;: &quot;{id:352s,Damage:0s,Count:1b,tag:{display:{Name:\&quot;Dinner&#x27;s Bone\&quot;}}}&quot;}}]}</pre>
+</div>
+<div class="section" id="score-board">
+<h2>Score Board<a class="headerlink" href="#score-board" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="https://www.youtube.com/watch?v=NTrViboaGgE">video explicative</a></p>
+<p><a class="reference external" href="http://www.minecraftwiki.net/wiki/Scoreboard">Plus d&#8217;infos</a></p>
+<p>/scoreboard objectives add [name for objective] [objective] [display name]
+/scoreboard objectives setdisplay [display location] [name for objective]
+/scoreboard players add / remove &#64;p [name for objective] [amount]
+/scoreboard players set &#64;p [name for objective] [amount]
+/scoreboard players reset &#64;a
+/testfor &#64;p[score_GameVar_min=2,score_GameVar=2,s­core_Lives_min=0,score_Lives=0]
+/scoreboard teams join team player
+/scoreboard teams leave team player
+/scoreboard teams empty team
+/scoreboard teams option [team] [friendlyfire|color] [value]</p>
+<p><a class="reference external" href="http://www.reddit.com/r/Minecraft/comments/1m8xcj/minecraft_snapshot_13w37a/">Changelog 13w37a</a></p>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+        </div>
+        <div class="sidebar">
+          <h3>Table Of Contents</h3>
+          <ul>
+<li class="toctree-l1"><a class="reference internal" href="../sans_drm.html">Liste des jeux sans DRM.</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../skyrim/skyrim_index.html">The Elder Scrolls V: Skyrim</a></li>
+<li class="toctree-l1"><a class="reference internal" href="index.html">Minecraft</a></li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../ss/index.html">PC Windows，GNU/Linux &amp; Mac OSX</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../nes/index.html">Nintendo Entertainment System</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../snes/index.html">Super Nintendo／Super Famicom</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../n64/index.html">Nintendo 64／Ultra 64</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../ngc/index.html">Nintendo Game Cube／Dolphin</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../ngb/index.html">Nintendo Game Boy</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../nds/index.html">Nintendo DS</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../ps2/index.html">PlayStation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../zxspectrum/index.html">ZX Spectrum</a></li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../snes/ar.html">Codes Action Replay Divers</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../skyrim/tableaux.html">Tableau des ingrédients par ordre du jeu (français)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../skyrim/tableaux.html#tableau-des-ingredients-par-ordre-alphabetique">Tableau des ingrédients par ordre alphabétique</a></li>
+</ul>
+
+          <h3 style="margin-top: 1.5em;">Search</h3>
+          <form class="search" action="../search.html" method="get">
+            <input type="text" name="q" />
+            <input type="submit" value="Go" />
+            <input type="hidden" name="check_keywords" value="yes" />
+            <input type="hidden" name="area" value="default" />
+          </form>
+          <p class="searchtip" style="font-size: 90%">
+            Enter search terms or a module, class or function name.
+          </p>
+        </div>
+        <div class="clearer"></div>
+      </div>
+    </div>
+
+    <div class="footer-wrapper">
+      <div class="footer">
+        <div class="left">
+          <a href="redstone.html" title="B.A.BA du Redstone"
+             >previous</a> |
+          <a href="advanced.html" title="Advanced Redstone"
+             >next</a> |
+          <a href="../genindex.html" title="General Index"
+             >index</a>
+            <br/>
+            <a href="../_sources/minecraft/commandblock.txt"
+               rel="nofollow">Show Source</a>
+        </div>
+
+        <div class="right">
+          
+    <div class="footer">
+        &copy; Copyright 2013, Sebastien BLANC ; Julien B..
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.1.3.
+    </div>
+        </div>
+        <div class="clearer"></div>
+      </div>
+    </div>
+
+  </body>
+</html>

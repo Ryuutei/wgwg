@@ -1,0 +1,1 @@
+../../../../db/Minecraft/MCEdit-schematics/credits.rst

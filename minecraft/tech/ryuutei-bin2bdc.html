@@ -1,0 +1,249 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Binaire vers Decimal &mdash; When Games Were Good data base</title>
+    
+    <link rel="stylesheet" href="../../_static/agogo.css" type="text/css" />
+    <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '../../',
+        VERSION:     '1',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="../../_static/jquery.js"></script>
+    <script type="text/javascript" src="../../_static/underscore.js"></script>
+    <script type="text/javascript" src="../../_static/doctools.js"></script>
+    <link rel="top" title="When Games Were Good data base" href="../../index.html" />
+    <link rel="up" title="Advanced Redstone" href="../advanced.html" />
+    <link rel="next" title="Binary to BCD Converter" href="../tech/jl-bin2bdc.html" />
+    <link rel="prev" title="Advanced Redstone" href="../advanced.html" /> 
+  </head>
+  <body>
+    <div class="header-wrapper">
+      <div class="header">
+        <div class="headertitle"><a
+          href="../../index.html">When Games Were Good db</a></div>
+        <div class="rel">
+          <a href="../advanced.html" title="Advanced Redstone"
+             accesskey="P">previous</a> |
+          <a href="../tech/jl-bin2bdc.html" title="Binary to BCD Converter"
+             accesskey="N">next</a> |
+          <a href="../../genindex.html" title="General Index"
+             accesskey="I">index</a>
+        </div>
+       </div>
+    </div>
+
+    <div class="content-wrapper">
+      <div class="content">
+        <div class="document">
+            
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="binaire-vers-decimal">
+<span id="bin2bdc"></span><h1>Binaire vers Decimal<a class="headerlink" href="#binaire-vers-decimal" title="Permalink to this headline">¶</a></h1>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Auteur:</th><td class="field-body">Sebastien Blanc Ryuutei</td>
+</tr>
+<tr class="field-even field"><th class="field-name">Date:</th><td class="field-body">2013-07-10</td>
+</tr>
+<tr class="field-odd field"><th class="field-name">Source:</th><td class="field-body"><a class="reference external" href="https://ryuutei.wordpress.com/2013/07/10/Minecraft-bin-to-bcd-converter">Minecraft, Bin to BCD converter</a> （anglais）</td>
+</tr>
+</tbody>
+</table>
+<p>Last year I used to build my stupid unfinished broken processor  in Minecraft (which I finally downgraded to a weird and big adder :D), I was working on a bin to BCD converter too. Then I found the awesome Hans Lemurson’s Binary to BCD converter (who has decimals digits). For my output I copied the visible “bin input to selection rows” and made my own “selection part” and output. Because it’s impossible to see anything in the video… Anyway the most interesting and complex part was done by Hans Lemurson and it’s visible in the video <a class="footnote-reference" href="#hlf" id="id1">[1]</a> . (my selector is certainly the same as him, because I don’t see any other way to make it in such a compact building.)</p>
+<div class="figure align-right">
+<img alt="../../_images/bin2bdc-3.png" src="../../_images/bin2bdc-3.png" />
+<p class="caption">First (upper) layer of the Binary to BCD converter</p>
+</div>
+<div class="section" id="input-algorithm-part">
+<h2>Input &amp; “Algorithm” part:<a class="headerlink" href="#input-algorithm-part" title="Permalink to this headline">¶</a></h2>
+<p>The upper layer is the main algorithm, that will permanently light the beneath layer when no input is done. (see why in the “selector” part)</p>
+<p>The 4 horizontal rows are the binary input. They are easily powered by a torch from above. From up to bottom they are the input of  <tt class="docutils literal"><span class="pre">0b0001</span></tt>, <tt class="docutils literal"><span class="pre">0b0010</span></tt>, <tt class="docutils literal"><span class="pre">0b0100</span></tt> &amp; <tt class="docutils literal"><span class="pre">0b1000</span></tt>.</p>
+<p>For example, the first input row will keep the selector rows 2, 4, 6 and 8 powered while the other will be shutdown. ⁖ When there is an input, the torchs will not provide power to the selector layer, while the repeaters will.</p>
+<div class="figure align-right">
+<img alt="../../_images/bin2bdc-2.png" src="../../_images/bin2bdc-2.png" />
+<p class="caption">Second (middle) layer of the Binary to BCD converter.</p>
+</div>
+</div>
+<div class="section" id="selector-part">
+<h2>”Selector” part:<a class="headerlink" href="#selector-part" title="Permalink to this headline">¶</a></h2>
+<p>all lines of this layer must be powered when there’s no input. When a line isn’t powered it will light the output (ie. it’s just a big inverted output.)</p>
+<p>From left to right the values of those columns are: 1001, 1000, 111, 110 101, 100, 11, 10, 1. This part is pretty easy to understand and it’s self explanatory.</p>
+<p>N.B. torches in this level mustn’t have a bloc above, at the risk of powering a line beside, it’s the blocs where sits the repeaters that will bring problems ; I made the mistake inadvertently twice. :p (stupid mistakes)</p>
+<div class="figure align-right">
+<img alt="../../_images/bin2bdc-1.png" src="../../_images/bin2bdc-1.png" />
+<p class="caption">Third (bottom) layer of the Binary to BCD converter</p>
+</div>
+</div>
+<div class="section" id="output-bcd-line">
+<h2>Output/BCD Line:<a class="headerlink" href="#output-bcd-line" title="Permalink to this headline">¶</a></h2>
+<p>This last layer may be the final binary coded decimal output or another converter if you want bigger input, but everything about this is really well explained in the John Loomis’ paper <a class="footnote-reference" href="#jlf" id="id2">[2]</a> .</p>
+<p>There’s nothing special in this layer that need an explanation.</p>
+<p>In conclusion this is a really smart construction that let’s you stack a in a neat way many convertors. And the pattern it’s not too complicated to remember.</p>
+<p><strong>References:</strong></p>
+<table class="docutils footnote" frame="void" id="hlf" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id1">[1]</a></td><td><a class="reference external" href="http://youtu.be/Z-JxYhm3EsI">video de Hans Lemurson.</a></td></tr>
+</tbody>
+</table>
+<table class="docutils footnote" frame="void" id="jlf" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id2">[2]</a></td><td><a class="reference internal" href="../tech/jl-bin2bdc.html#bin2bcd-by-john-loomis"><em>Binary to BCD Converter</em></a></td></tr>
+</tbody>
+</table>
+<hr class="docutils" />
+<img alt="../../_images/rs-bin2bdc-9285518334_187c93f510_c1.jpg" class="align-center" src="../../_images/rs-bin2bdc-9285518334_187c93f510_c1.jpg" />
+</div>
+</div>
+<hr class="docutils" />
+<div class="section" id="bin-to-bcd-converter">
+<h1>Bin to BCD converter<a class="headerlink" href="#bin-to-bcd-converter" title="Permalink to this headline">¶</a></h1>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Author:</th><td class="field-body">Sebastien Blanc Ryuutei</td>
+</tr>
+<tr class="field-even field"><th class="field-name">Date:</th><td class="field-body">2013-07-10</td>
+</tr>
+<tr class="field-odd field"><th class="field-name">Source:</th><td class="field-body"><a class="reference external" href="https://ryuutei.wordpress.com/2013/07/10/Minecraft-bin-to-bcd-converter">Minecraft, Bin to BCD converter</a></td>
+</tr>
+</tbody>
+</table>
+<p>Last year I used to build my stupid unfinished broken processor  in Minecraft (which I finally downgraded to a weird and big adder :D), I was working on a bin to BCD converter too. Then I found the awesome Hans Lemurson’s Binary to BCD converter (who has decimals digits). For my output I copied the visible “bin input to selection rows” and made my own “selection part” and output. Because it’s impossible to see anything in the video… Anyway the most interesting and complex part was done by Hans Lemurson and it’s visible in the video <a class="footnote-reference" href="#hl" id="id4">[3]</a> . (my selector is certainly the same as him, because I don’t see any other way to make it in such a compact building.)</p>
+<div class="figure align-right">
+<img alt="../../_images/bin2bdc-3.png" src="../../_images/bin2bdc-3.png" />
+<p class="caption">First (upper) layer of the Binary to BCD converter</p>
+</div>
+<div class="section" id="id5">
+<h2>Input &amp; “Algorithm” part:<a class="headerlink" href="#id5" title="Permalink to this headline">¶</a></h2>
+<p>The upper layer is the main algorithm, that will permanently light the beneath layer when no input is done. (see why in the “selector” part)</p>
+<p>The 4 horizontal rows are the binary input. They are easily powered by a torch from above. From up to bottom they are the input of  <tt class="docutils literal"><span class="pre">0b0001</span></tt>, <tt class="docutils literal"><span class="pre">0b0010</span></tt>, <tt class="docutils literal"><span class="pre">0b0100</span></tt> &amp; <tt class="docutils literal"><span class="pre">0b1000</span></tt>.</p>
+<p>For example, the first input row will keep the selector rows 2, 4, 6 and 8 powered while the other will be shutdown. ⁖ When there is an input, the torchs will not provide power to the selector layer, while the repeaters will.</p>
+<div class="figure align-right">
+<img alt="../../_images/bin2bdc-2.png" src="../../_images/bin2bdc-2.png" />
+<p class="caption">Second (middle) layer of the Binary to BCD converter.</p>
+</div>
+</div>
+<div class="section" id="id6">
+<h2>”Selector” part:<a class="headerlink" href="#id6" title="Permalink to this headline">¶</a></h2>
+<p>all lines of this layer must be powered when there’s no input. When a line isn’t powered it will light the output (ie. it’s just a big inverted output.)</p>
+<p>From left to right the values of those columns are: 1001, 1000, 111, 110 101, 100, 11, 10, 1. This part is pretty easy to understand and it’s self explanatory.</p>
+<p>N.B. torches in this level mustn’t have a bloc above, at the risk of powering a line beside, it’s the blocs where sits the repeaters that will bring problems ; I made the mistake inadvertently twice. :p (stupid mistakes)</p>
+<div class="figure align-right">
+<img alt="../../_images/bin2bdc-1.png" src="../../_images/bin2bdc-1.png" />
+<p class="caption">Third (bottom) layer of the Binary to BCD converter</p>
+</div>
+</div>
+<div class="section" id="id7">
+<h2>Output/BCD Line:<a class="headerlink" href="#id7" title="Permalink to this headline">¶</a></h2>
+<p>This last layer may be the final binary coded decimal output or another converter if you want bigger input, but everything about this is really well explained in the John Loomis’ paper <a class="footnote-reference" href="#jl" id="id8">[4]</a> .</p>
+<p>There’s nothing special in this layer that need an explanation.</p>
+<p>In conclusion this is a really smart construction that let’s you stack a in a neat way many convertors. And the pattern it’s not too complicated to remember.</p>
+<p><strong>References:</strong></p>
+<table class="docutils footnote" frame="void" id="hl" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id4">[3]</a></td><td><a class="reference external" href="http://youtu.be/Z-JxYhm3EsI">Hans Lemurson’s video.</a></td></tr>
+</tbody>
+</table>
+<table class="docutils footnote" frame="void" id="jl" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id8">[4]</a></td><td><a class="reference internal" href="../tech/jl-bin2bdc.html#bin2bcd-by-john-loomis"><em>Binary to BCD Converter</em></a></td></tr>
+</tbody>
+</table>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+        </div>
+        <div class="sidebar">
+          <h3>Table Of Contents</h3>
+          <ul>
+<li class="toctree-l1"><a class="reference internal" href="../../sans_drm.html">Liste des jeux sans DRM.</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../skyrim/skyrim_index.html">The Elder Scrolls V: Skyrim</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../index.html">Minecraft</a></li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../ss/index.html">PC Windows，GNU/Linux &amp; Mac OSX</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../nes/index.html">Nintendo Entertainment System</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../snes/index.html">Super Nintendo／Super Famicom</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../n64/index.html">Nintendo 64／Ultra 64</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../ngc/index.html">Nintendo Game Cube／Dolphin</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../ngb/index.html">Nintendo Game Boy</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../nds/index.html">Nintendo DS</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../ps2/index.html">PlayStation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../zxspectrum/index.html">ZX Spectrum</a></li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../snes/ar.html">Codes Action Replay Divers</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../skyrim/tableaux.html">Tableau des ingrédients par ordre du jeu (français)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../skyrim/tableaux.html#tableau-des-ingredients-par-ordre-alphabetique">Tableau des ingrédients par ordre alphabétique</a></li>
+</ul>
+
+          <h3 style="margin-top: 1.5em;">Search</h3>
+          <form class="search" action="../../search.html" method="get">
+            <input type="text" name="q" />
+            <input type="submit" value="Go" />
+            <input type="hidden" name="check_keywords" value="yes" />
+            <input type="hidden" name="area" value="default" />
+          </form>
+          <p class="searchtip" style="font-size: 90%">
+            Enter search terms or a module, class or function name.
+          </p>
+        </div>
+        <div class="clearer"></div>
+      </div>
+    </div>
+
+    <div class="footer-wrapper">
+      <div class="footer">
+        <div class="left">
+          <a href="../advanced.html" title="Advanced Redstone"
+             >previous</a> |
+          <a href="../tech/jl-bin2bdc.html" title="Binary to BCD Converter"
+             >next</a> |
+          <a href="../../genindex.html" title="General Index"
+             >index</a>
+            <br/>
+            <a href="../../_sources/minecraft/tech/ryuutei-bin2bdc.txt"
+               rel="nofollow">Show Source</a>
+        </div>
+
+        <div class="right">
+          
+    <div class="footer">
+        &copy; Copyright 2013, Sebastien BLANC ; Julien B..
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.1.3.
+    </div>
+        </div>
+        <div class="clearer"></div>
+      </div>
+    </div>
+
+  </body>
+</html>

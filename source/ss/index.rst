@@ -28,6 +28,8 @@ PC Windows，GNU/Linux & Mac OSX
 ===============================
 
 .. toctree::
+    :maxdepth: 1
+
     avp.rst
     bf2.rst
     bf2142.rst
@@ -40,12 +42,14 @@ PC Windows，GNU/Linux & Mac OSX
     doom2.rst
     doom3.rst
     dune2000.rst
+    ftl.rst
     hammerwatch.rst
     kali.rst
-    minecraft.rst
+    ../minecraft/index.rst
     neverWinterNights.rst
     quake3.rst
     rttcWolfenstein.rst
     starcraft.rst
+    terraria.rst
     torchlight2.rst
     warcraft2.rst

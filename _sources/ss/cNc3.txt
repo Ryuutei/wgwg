@@ -40,13 +40,13 @@ Pour éviter d’avoir a passer par le menu de gestion des mods de Command and C
 
 ::
 
-     C:\C&C3\cnc3.exe -modConfig "C:\Documents and Settings\<NOM D’UTILISATEUR>
-        \My Documents\Command & Conquer 3 Tiberium Wars\mods\<NOM DU MOD>\<NOM DU MOD>.skudef"
+     C:\C&C3\cnc3.exe -modConfig "C:\Documents and Settings\<NOM D’UTILISATEUR>\
+        My Documents\Command & Conquer 3 Tiberium Wars\mods\<NOM DU MOD>\<NOM DU MOD>.skudef"
 
 **Demarre dans** :
 
 ::
 
-    C:\Documents and Settings\<NOM D’UTILISATEUR>\My Documents
-        \Command & Conquer 3 Tiberium Wars\mods\<NOM DU MOD>\"
+    C:\Documents and Settings\<NOM D’UTILISATEUR>\My Documents\
+        Command & Conquer 3 Tiberium Wars\mods\<NOM DU MOD>\"
 

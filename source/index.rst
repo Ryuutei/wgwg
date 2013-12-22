@@ -9,12 +9,21 @@ When Games Were Good
 Bienvenue sur WGWG Data Base.
 Le site contient des trucs.
 
+Dossiers
+--------
+
+.. toctree::
+    :maxdepth: 1
+
+    sans_drm.rst
+    skyrim/skyrim_index.rst
+    minecraft/index.rst
 
 Table des Matieres:
 -------------------
 
 .. toctree::
-    skyrim/skyrim_index.rst
+    :maxdepth: 1
 
     ss/index.rst
 
@@ -29,6 +38,11 @@ Table des Matieres:
 
     zxspectrum/index.rst
 
+.. toctree::
+    :hidden:
+
+    snes/ar.rst
+    skyrim/tableaux.rst
 
 
 
@@ -52,4 +66,5 @@ Liens
 
     * `When Games Were Good <http://wgwgd.wordpress.com/>`_
     * `Ryuutei's Blog <http://ryuutei.wordpress.com/>`_
+    * `Pendant Ce Temps Dans L'Espace <http://www.pendantcetempsdanslespace.com>`_
 
