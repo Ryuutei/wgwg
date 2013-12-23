@@ -62,6 +62,7 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Awesomenauts <http://www.awesomenauts.com/html/shop.html>`_ |win| |osx| |lin|
 - `Beat Hazard Ultra <http://www.coldbeamgames.com/>`_ |win| |osx| |lin| |and|
 - `Beatbuddy <http://www.threaks.com/>`_ |win| |osx| |lin|
+- `Binding of Isaac（The） <http://edmundm.com/>`_  |win| |osx| |lin|
 - `Blocks That Matter <http://www.swingswingsubmarine.com/>`_ |win| |osx| |lin|
 - `Botanicula <http://www.botanicula.net/buy-botanicula.html>`_ |win| |osx| |lin|
 - `Bro Force <http://freelives.net/broforce-game>`_ [β]_ |win| |osx|
@@ -88,7 +89,7 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Gone Home <http://thefullbrightcompany.com/>`_ |win| |osx| |lin|
 - `Grim Dawn <http://grimdawn.com/>`_ [β]_ |win|
 - `Guacamelee <http://guacamelee.com/>`_ |win|
-- `Gun Godz <http://vlambeer.itch.io/gun-godz>` |win| |osx|
+- `Gun Godz <http://vlambeer.itch.io/gun-godz>`_ |win| |osx|
 - `Gunpoint <http://www.gunpointgame.com/>`_ |win|
 - `Hack, Slash, Loot <http://www.hackslashloot.com/purchase.html>`_ |win| |osx| |lin|
 - `HammerWatch <http://www.hammerwatch.com/>`_ |win| |osx|
@@ -107,6 +108,7 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Minecraft <http://www.minecraft.net>`_ |win| |osx| |lin|
 - `Mirror Moon EP <http://www.santaragione.com/>`_ |win| |osx| |lin|
 - `Monaco <http://www.monacoismine.com/>`_ [1]_ |win| |osx|
+- `Novelist（The） <http://www.thenovelistgame.com/>`_ |win| |osx|
 - `Offspring Fling <http://amandle.com/>`_ |win| |osx| |lin|
 - `Outlast <http://redbarrelsgames.com/>`_ |win|
 - `Overgrowth Alpha <http://www.wolfire.com/>`_ |win| |osx| |lin|
@@ -134,18 +136,16 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Super Hexagon <http://www.superhexagon.com/>`_ |win| |osx| |lin| |and|
 - `Super Meat Boy <http://www.supermeatboy.com/>`_ |win| |osx| |lin|
 - `Survivor Squad <http://www.survivor-squad.com/buy.html>`_ |win| |osx| |lin|
+- `Swapper（The） <http://facepalmgames.com/the-swapper/>`_ |win|
 - `Tetrobot and Co. <http://www.swingswingsubmarine.com/games/tetrobot-and-co/>`_ |win| |osx| |lin|
-- `The Binding of Isaac <http://edmundm.com/>`_  |win| |osx| |lin|
-- `The Novelist <http://www.thenovelistgame.com/>`_ |win| |osx|
-- `The Swapper <http://facepalmgames.com/the-swapper/>`_ |win|
-- `The Witcher 2 <http://www.thewitcher.com/>`_ |win| |osx|
-- `The Witcher 3 <http://www.thewitcher.com/>`_ |win| |osx|
-- `The Witcher <http://www.thewitcher.com/>`_ |win| |osx|
 - `Torchlight <http://www.torchlightgame.com/>`_ [2]_ |win| |osx| |lin|
 - `Vessel <http://www.strangeloopgames.com/>`_ |win| |osx| |lin|
 - `Volgarr The Viking <http://www.crazyvikingstudios.com/>`_ |win|
 - `Waking Mars <http://www.tigerstylegames.com/>`_ |win| |osx| |lin|
 - `War of the Overworld <http://wftogame.com/>`_ [β]_ |win| |osx|
+- `Witcher 2（The） <http://www.thewitcher.com/>`_ |win| |osx|
+- `Witcher 3（The） <http://www.thewitcher.com/>`_ |win| |osx|
+- `Witcher（The） <http://www.thewitcher.com/>`_ |win| |osx|
 - `Worms Reloaded & Worms 2: Armageddon (Bundle) <http://www.team17.com/>`_  |win| |osx| |lin| |and|
 - `Xenonauts <http://www.goldhawkinteractive.com/>`_ |win|
 - `YOU DON’T KNOW JACK <http://jackboxgames.com/>`_  |win| |osx| |lin|
