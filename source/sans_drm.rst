@@ -88,6 +88,7 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Gone Home <http://thefullbrightcompany.com/>`_ |win| |osx| |lin|
 - `Grim Dawn <http://grimdawn.com/>`_ [β]_ |win|
 - `Guacamelee <http://guacamelee.com/>`_ |win|
+- `Gun Godz <http://vlambeer.itch.io/gun-godz>` |win| |osx|
 - `Gunpoint <http://www.gunpointgame.com/>`_ |win|
 - `Hack, Slash, Loot <http://www.hackslashloot.com/purchase.html>`_ |win| |osx| |lin|
 - `HammerWatch <http://www.hammerwatch.com/>`_ |win| |osx|
@@ -137,11 +138,14 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `The Binding of Isaac <http://edmundm.com/>`_  |win| |osx| |lin|
 - `The Novelist <http://www.thenovelistgame.com/>`_ |win| |osx|
 - `The Swapper <http://facepalmgames.com/the-swapper/>`_ |win|
+- `The Witcher 2 <http://www.thewitcher.com/>`_ |win| |osx|
+- `The Witcher 3 <http://www.thewitcher.com/>`_ |win| |osx|
+- `The Witcher <http://www.thewitcher.com/>`_ |win| |osx|
 - `Torchlight <http://www.torchlightgame.com/>`_ [2]_ |win| |osx| |lin|
 - `Vessel <http://www.strangeloopgames.com/>`_ |win| |osx| |lin|
 - `Volgarr The Viking <http://www.crazyvikingstudios.com/>`_ |win|
 - `Waking Mars <http://www.tigerstylegames.com/>`_ |win| |osx| |lin|
-- `War of the Overlord <http://wftogame.com/>`_ [β]_ |win| |osx|
+- `War of the Overworld <http://wftogame.com/>`_ [β]_ |win| |osx|
 - `Worms Reloaded & Worms 2: Armageddon (Bundle) <http://www.team17.com/>`_  |win| |osx| |lin| |and|
 - `Xenonauts <http://www.goldhawkinteractive.com/>`_ |win|
 - `YOU DON’T KNOW JACK <http://jackboxgames.com/>`_  |win| |osx| |lin|
