@@ -107,7 +107,7 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Machinarium <http://amanita-design.net/games/machinarium.html>`_ |win| |osx| |lin|
 - `Minecraft <http://www.minecraft.net>`_ |win| |osx| |lin|
 - `Mirror Moon EP <http://www.santaragione.com/>`_ |win| |osx| |lin|
-- `Monaco <http://www.monacoismine.com/>`_ [1]_ |win| |osx|
+- `Monaco <http://www.monacoismine.com/>`_ [1]_ |win| |osx| （ `NO LAN <https://plus.google.com/+RyuuteiSebastienBLANC/posts/3ddGhWGoCiK>`_ ）
 - `Novelist（The） <http://www.thenovelistgame.com/>`_ |win| |osx|
 - `Offspring Fling <http://amandle.com/>`_ |win| |osx| |lin|
 - `Outlast <http://redbarrelsgames.com/>`_ |win|
@@ -137,6 +137,7 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Super Meat Boy <http://www.supermeatboy.com/>`_ |win| |osx| |lin|
 - `Survivor Squad <http://www.survivor-squad.com/buy.html>`_ |win| |osx| |lin|
 - `Swapper（The） <http://facepalmgames.com/the-swapper/>`_ |win|
+- `Sword & Sworcery EP <http://www.swordandsworcery.com/>`_ |win| |osx| |lin|
 - `Tetrobot and Co. <http://www.swingswingsubmarine.com/games/tetrobot-and-co/>`_ |win| |osx| |lin|
 - `Torchlight <http://www.torchlightgame.com/>`_ [2]_ |win| |osx| |lin|
 - `Vessel <http://www.strangeloopgames.com/>`_ |win| |osx| |lin|
