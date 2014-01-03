@@ -85,6 +85,7 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `FOTONICA <http://www.santaragione.com/>`_ |win| |osx| |lin|
 - `FTL: Faster Than Light <http://www.ftlgame.com/>`_ |win| |osx| |lin|
 - `Frozen Synapse <http://www.frozensynapse.com/>`_  |win| |osx| |lin| |and|
+- `Galaxy on Fire 2™ Full HD <http://www.fishlabs.net/>`_ |win|
 - `Game Dev Tycoon <http://www.greenheartgames.com/app/game-dev-tycoon/>`_ |win| |osx| |lin|
 - `Gone Home <http://thefullbrightcompany.com/>`_ |win| |osx| |lin|
 - `Grim Dawn <http://grimdawn.com/>`_ [β]_ |win|
@@ -97,6 +98,7 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Hotline Miami <http://www.dennaton.com/>`_ |win| |osx| |lin|
 - `Incredipede <http://northwaygames.com/>`_  |win| |osx| |lin| |and|
 - `Ittle Dew <http://www.ittledew.com/>`_ |win| |osx| |lin|
+- `KRUNCH <http://krunchgame.com/>`_ |win| |osx| |lin|
 - `Kentuky Route Zero <http://kentuckyroutezero.com/>`_ |win| |osx| |lin|
 - `King Arthur's Gold <http://kag2d.com/en/download>`_ |win| |osx| |lin|
 - `Legend of Dungeon <http://www.robotloveskitty.com/LoD/buy.php>`_ |win| |osx| |lin|
@@ -150,7 +152,6 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Worms Reloaded & Worms 2: Armageddon (Bundle) <http://www.team17.com/>`_  |win| |osx| |lin| |and|
 - `Xenonauts <http://www.goldhawkinteractive.com/>`_ |win|
 - `YOU DON’T KNOW JACK <http://jackboxgames.com/>`_  |win| |osx| |lin|
-
 
 .. - ` <>`_ |win| |osx| |lin|
 
