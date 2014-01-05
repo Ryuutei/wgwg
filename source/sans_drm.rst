@@ -74,6 +74,7 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Cube World <https://picroma.com/>`_ |win| |osx|
 - `DLC Quest <http://goingloudstudios.com/games/dlc-quest/>`_ |win| |osx|
 - `Dear Esther <http://dear-esther.com/>`_  |win| |osx| |lin|
+- `Delver <http://www.delvergame.com/>`_ |win| |osx| |lin| |and|
 - `Derrick the Deathfin <http://derrickthedeathfin.com/buy.html>`_ |win| |osx|
 - `Don't Starve <http://www.dontstarvegame.com/>`_ |win| |osx| |lin|
 - `Dungeon Defenders <http://dungeondefenders.com/>`_  |win| |osx| |lin| |and|
@@ -96,6 +97,7 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `HammerWatch <http://www.hammerwatch.com/>`_ |win| |osx|
 - `Harvest: Massive Encounter <http://www.oxeyegames.com/harvest-massive-encounter/>`_ |win| |osx|
 - `Hotline Miami <http://www.dennaton.com/>`_ |win| |osx| |lin|
+- `Hyper Light Drifter <http://www.heart-machine.com/>`_  |win| |osx| |lin|
 - `Incredipede <http://northwaygames.com/>`_  |win| |osx| |lin| |and|
 - `Ittle Dew <http://www.ittledew.com/>`_ |win| |osx| |lin|
 - `KRUNCH <http://krunchgame.com/>`_ |win| |osx| |lin|
