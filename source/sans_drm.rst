@@ -47,7 +47,7 @@ Liste des jeux sans DRM.
 
 :Author: Ryuutei
 :Edition: |date| à |time|
-:Version: 1.0
+:Version: 1.2
 
 Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazon, toutefois ils sont aussi vendus sur le `Humble Store <https://www.humblebundle.com/store>`_.
 
@@ -63,6 +63,9 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Beat Hazard Ultra <http://www.coldbeamgames.com/>`_ |win| |osx| |lin| |and|
 - `Beatbuddy <http://www.threaks.com/>`_ |win| |osx| |lin|
 - `Binding of Isaac（The） <http://edmundm.com/>`_  |win| |osx| |lin|
+- `Bit.Trip Bit <http://gaijingames.com/>`_ [HS]_ |win| |osx| |lin|
+- `Bit.Trip Runner <http://gaijingames.com/>`_ [HS]_ |win| |osx| |lin|
+- `Bit.Trip Void <http://gaijingames.com/>`_ [HS]_ |win| |osx| |lin|
 - `Blocks That Matter <http://www.swingswingsubmarine.com/>`_ |win| |osx| |lin|
 - `Botanicula <http://www.botanicula.net/buy-botanicula.html>`_ |win| |osx| |lin|
 - `Bro Force <http://freelives.net/broforce-game>`_ [β]_ |win| |osx|
@@ -77,6 +80,7 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Delver <http://www.delvergame.com/>`_ |win| |osx| |lin| |and|
 - `Derrick the Deathfin <http://derrickthedeathfin.com/buy.html>`_ |win| |osx|
 - `Don't Starve <http://www.dontstarvegame.com/>`_ |win| |osx| |lin|
+- `Door Kickers <http://inthekillhouse.com/>`_ |win| |osx| |lin|
 - `Dungeon Defenders <http://dungeondefenders.com/>`_  |win| |osx| |lin| |and|
 - `Dungeon of Elements <http://frogdice.com/>`_ |win| |osx| |lin|
 - `Dust Force <http://dustforce.com/buy>`_ |win| |osx| |lin|
@@ -129,6 +133,7 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Sang-Froid - Tales of Werewolves <http://www.sangfroidgame.com/>`_  |win|
 - `Scoregam <http://www.charliesgames.com/Scoregasm/>`_ |win| |osx| |lin|
 - `Scrolls <https://scrolls.com/>`_ |win| |osx|
+- `Secrets of Rætikon <http://brokenrul.es/>`_ [β]_ |win| |osx| |lin|
 - `Shadow Warrior <http://flyingwildhog.com/games>`_ （remake）  |win|
 - `Shadowrun Returns <http://harebrained-schemes.com/>`_ |win| |osx| |lin|
 - `Shank 2 <http://kleientertainment.com/>`_ |win| |osx| |lin|
@@ -154,8 +159,9 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Worms Reloaded & Worms 2: Armageddon (Bundle) <http://www.team17.com/>`_  |win| |osx| |lin| |and|
 - `Xenonauts <http://www.goldhawkinteractive.com/>`_ |win|
 - `YOU DON’T KNOW JACK <http://jackboxgames.com/>`_  |win| |osx| |lin|
-
 .. - ` <>`_ |win| |osx| |lin|
+
+.. DEBUT DE LA LISTE LIGNE     55
 
 Avec DRM mais sans Steam
 ------------------------
@@ -166,6 +172,8 @@ Parce que certains DRM peuvent etre acceptables, mais pas Steam.
 `Torchlight 2 <http://www.torchlight2game.com/>`_ |win| |osx|
 
 ****
+
+.. [HS] La version sans DRM du jeu n'est accessible que sur `the Humble Store <https://www.humblebundle.com/store>`_ au moment de l'ajout de l'entrée.
 
 .. [1] Attention, le jeu sans DRM possede moins d'options que celle avec.
 
