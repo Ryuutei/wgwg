@@ -45,7 +45,7 @@
 Liste des jeux sans DRM.
 ========================
 
-:Author: Ryuutei
+:Author: `Ryuutei <https://twitter.com/Ryuutei>`_
 :Edition: |date| à |time|
 :Version: 1.2
 
@@ -87,6 +87,7 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Dust: An Elysian Tail <http://www.noogy.com/main.html>`_  |win| |osx| |lin|
 - `Euro Truck Simulator 2 <http://www.scssoft.com/eurotrucksimulator2.php>`_  |win| |lin|
 - `FEZ <http://polytroncorporation.com/what-is-fez>`_  |win| |osx| |lin|
+- `FIST OF AWESOME <http://fistofawesome.com/>`_ |and|
 - `FOTONICA <http://www.santaragione.com/>`_ |win| |osx| |lin|
 - `FTL: Faster Than Light <http://www.ftlgame.com/>`_ |win| |osx| |lin|
 - `Frozen Synapse <http://www.frozensynapse.com/>`_  |win| |osx| |lin| |and|
@@ -113,9 +114,10 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Limbo <http://limbogame.org/>`_  |win| |osx| |lin|
 - `Luxuria Superbia <http://www.tale-of-tales.com/>`_ |win| |osx| |lin| |and|
 - `Machinarium <http://amanita-design.net/games/machinarium.html>`_ |win| |osx| |lin|
+- `Mcpixel <http://sos.gd/>`_ |win| |osx| |lin| |and|
 - `Minecraft <http://www.minecraft.net>`_ |win| |osx| |lin|
 - `Mirror Moon EP <http://www.santaragione.com/>`_ |win| |osx| |lin|
-- `Monaco <http://www.monacoismine.com/>`_ [1]_ |win| |osx| （ `NO LAN <https://plus.google.com/+RyuuteiSebastienBLANC/posts/3ddGhWGoCiK>`_ ）
+- `Monaco <http://www.monacoismine.com/>`_ [2]_ |win| |osx| （ `NO LAN <https://plus.google.com/+RyuuteiSebastienBLANC/posts/3ddGhWGoCiK>`_ ）
 - `Novelist（The） <http://www.thenovelistgame.com/>`_ |win| |osx|
 - `Offspring Fling <http://amandle.com/>`_ |win| |osx| |lin|
 - `Outlast <http://redbarrelsgames.com/>`_ |win|
@@ -124,6 +126,7 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Particulars <http://www.seethroughstudios.com/>`_ |win| |osx| |lin|
 - `Prison Architect <http://www.introversion.co.uk/>`_ |win| |osx| |lin|
 - `Psychonauts <http://www.doublefine.com/>`_  |win| |osx| |lin|
+- `Race the Sun <http://flippfly.com/>`_ |win| |osx| |lin|
 - `Ravensword: Shadowlands <http://crescentmoongames.com/>`_ |win| |osx| |lin|
 - `Receiver <http://www.wolfire.com/>`_ |win| |osx| |lin|
 - `Retro City Rampage <http://www.vblank.com/>`_ |win|
@@ -139,6 +142,7 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Shank 2 <http://kleientertainment.com/>`_ |win| |osx| |lin|
 - `Sir, You are being Hunted <http://www.big-robot.com/2012/03/12/sir-you-are-being-hunted/>`_ |win| |osx| |lin|
 - `Solar 2 <http://murudai.com/>`_ |win| |osx| |lin|
+- `Spirits <http://www.spacesofplay.com/>`_ |win| |osx| |lin| |and|
 - `Spud's Quest <http://www.spudsquest.com/>`_ |win| |osx| |lin|
 - `Starbound <http://playstarbound.com/>`_ [β]_ |win| |osx| |lin|
 - `Stardew Valley <http://stardewvalley.net/>`_ |win|
@@ -148,7 +152,8 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Swapper（The） <http://facepalmgames.com/the-swapper/>`_ |win|
 - `Sword & Sworcery EP <http://www.swordandsworcery.com/>`_ |win| |osx| |lin|
 - `Tetrobot and Co. <http://www.swingswingsubmarine.com/games/tetrobot-and-co/>`_ |win| |osx| |lin|
-- `Torchlight <http://www.torchlightgame.com/>`_ [2]_ |win| |osx| |lin|
+- `Tiny & Big: Grandpa's Leftovers <http://blackpants.de/>`_ |win| |osx| |lin|
+- `Torchlight <http://www.torchlightgame.com/>`_ [3]_ |win| |osx| |lin|
 - `Vessel <http://www.strangeloopgames.com/>`_ |win| |osx| |lin|
 - `Volgarr The Viking <http://www.crazyvikingstudios.com/>`_ |win|
 - `Waking Mars <http://www.tigerstylegames.com/>`_ |win| |osx| |lin|
@@ -160,6 +165,7 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Xenonauts <http://www.goldhawkinteractive.com/>`_ |win|
 - `YOU DON’T KNOW JACK <http://jackboxgames.com/>`_  |win| |osx| |lin|
 .. - ` <>`_ |win| |osx| |lin|
+.. - ` <>`_ |win| |osx| |lin| |and|
 
 .. DEBUT DE LA LISTE LIGNE     55
 
@@ -175,11 +181,13 @@ Parce que certains DRM peuvent etre acceptables, mais pas Steam.
 
 .. [HS] La version sans DRM du jeu n'est accessible que sur `the Humble Store <https://www.humblebundle.com/store>`_ au moment de l'ajout de l'entrée.
 
-.. [1] Attention, le jeu sans DRM possede moins d'options que celle avec.
+.. [1] ⚠ le jeu sans DRM possède moins d'options que celle avec.
 
-.. [2] Manque d'infos／le jeu etait autrefois avec un DRM mais est maintenant sur GNU/Linux ou Mac OSX
+.. [2] ⚠ la version du jeu sur Mac OSX ou GNU/Linux possède moins d'options que celle avec.
 
-.. [β] La beta necessite Steam, mais la version complete est／sera sans DRM et ne necessite pas Steam.
+.. [3] Manque d'infos／le jeu etait autrefois avec un DRM mais est maintenant sur GNU/Linux ou Mac OSX Sans.
+
+.. [β] ⚠ La beta necessite Steam, mais la version complete est／sera sans DRM et ne necessite pas Steam.
 
 
 .. |lin| image:: img/linux.svg
