@@ -47,7 +47,7 @@ Liste des jeux sans DRM.
 
 :Author: `Ryuutei <https://twitter.com/Ryuutei>`_
 :Edition: |date| à |time|
-:Version: 1.2
+:Version: 1.3
 
 Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazon, toutefois ils sont aussi vendus sur le `Humble Store <https://www.humblebundle.com/store>`_.
 
@@ -99,7 +99,7 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Gun Godz <http://vlambeer.itch.io/gun-godz>`_ |win| |osx|
 - `Gunpoint <http://www.gunpointgame.com/>`_ |win|
 - `Hack, Slash, Loot <http://www.hackslashloot.com/purchase.html>`_ |win| |osx| |lin|
-- `HammerWatch <http://www.hammerwatch.com/>`_ |win| |osx|
+- `HammerWatch`_ [1]_ [ε]_ |win| |osx|
 - `Harvest: Massive Encounter <http://www.oxeyegames.com/harvest-massive-encounter/>`_ |win| |osx|
 - `Hotline Miami <http://www.dennaton.com/>`_ |win| |osx| |lin|
 - `Hyper Light Drifter <http://www.heart-machine.com/>`_  |win| |osx| |lin|
@@ -117,7 +117,7 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Mcpixel <http://sos.gd/>`_ |win| |osx| |lin| |and|
 - `Minecraft <http://www.minecraft.net>`_ |win| |osx| |lin|
 - `Mirror Moon EP <http://www.santaragione.com/>`_ |win| |osx| |lin|
-- `Monaco <http://www.monacoismine.com/>`_ [2]_ |win| |osx| （ `NO LAN <https://plus.google.com/+RyuuteiSebastienBLANC/posts/3ddGhWGoCiK>`_ ）
+- `Monaco`_ [1]_ [ε]_ |win| |osx|
 - `Novelist（The） <http://www.thenovelistgame.com/>`_ |win| |osx|
 - `Offspring Fling <http://amandle.com/>`_ |win| |osx| |lin|
 - `Outlast <http://redbarrelsgames.com/>`_ |win|
@@ -153,17 +153,18 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Sword & Sworcery EP <http://www.swordandsworcery.com/>`_ |win| |osx| |lin|
 - `Tetrobot and Co. <http://www.swingswingsubmarine.com/games/tetrobot-and-co/>`_ |win| |osx| |lin|
 - `Tiny & Big: Grandpa's Leftovers <http://blackpants.de/>`_ |win| |osx| |lin|
-- `Torchlight <http://www.torchlightgame.com/>`_ [3]_ |win| |osx| |lin|
+- `Torchlight`_ [1]_ [ε]_ |win| |osx| |lin|
 - `Vessel <http://www.strangeloopgames.com/>`_ |win| |osx| |lin|
 - `Volgarr The Viking <http://www.crazyvikingstudios.com/>`_ |win|
 - `Waking Mars <http://www.tigerstylegames.com/>`_ |win| |osx| |lin|
 - `War of the Overworld <http://wftogame.com/>`_ [β]_ |win| |osx|
+- `Witcher  （The） <http://www.thewitcher.com/>`_ |win| |osx|
 - `Witcher 2（The） <http://www.thewitcher.com/>`_ |win| |osx|
 - `Witcher 3（The） <http://www.thewitcher.com/>`_ |win| |osx|
-- `Witcher（The） <http://www.thewitcher.com/>`_ |win| |osx|
 - `Worms Reloaded & Worms 2: Armageddon (Bundle) <http://www.team17.com/>`_  |win| |osx| |lin| |and|
 - `Xenonauts <http://www.goldhawkinteractive.com/>`_ |win|
 - `YOU DON’T KNOW JACK <http://jackboxgames.com/>`_  |win| |osx| |lin|
+
 .. - ` <>`_ |win| |osx| |lin|
 .. - ` <>`_ |win| |osx| |lin| |and|
 
@@ -175,22 +176,74 @@ Avec DRM mais sans Steam
 Parce que certains DRM peuvent etre acceptables, mais pas Steam.
 
 
-`Torchlight 2 <http://www.torchlight2game.com/>`_ |win| |osx|
+`Torchlight 2`_ [ε]_ |win| |osx|
 
 ****
 
 .. [HS] La version sans DRM du jeu n'est accessible que sur `the Humble Store <https://www.humblebundle.com/store>`_ au moment de l'ajout de l'entrée.
 
-.. [1] ⚠ le jeu sans DRM possède moins d'options que celle avec.
-
-.. [2] ⚠ la version du jeu sur Mac OSX ou GNU/Linux possède moins d'options que celle avec.
-
-.. [3] Manque d'infos／le jeu etait autrefois avec un DRM mais est maintenant sur GNU/Linux ou Mac OSX Sans.
+.. [1] le jeu sans DRM ou OSX/Linux possède moins d'options que celle avec. cf. article.
 
 .. [β] ⚠ La beta necessite Steam, mais la version complete est／sera sans DRM et ne necessite pas Steam.
+
+.. [ε] L'editeur de niveau ne fonctionne que sur Windows.
 
 
 .. |lin| image:: img/linux.svg
 .. |osx| image:: img/osx.svg
 .. |win| image:: img/windows.svg
 .. |and| image:: img/android.svg
+
+****
+
+Avertissements
+--------------
+
+HammerWatch
+___________
+
+`<http://www.hammerwatch.com/>`_ |win| |osx| |lin|
+
+- Le LAN fonctionne en UPnP, il n'est donc pas possible de faire un ou des portforward.
+
+- L'éditeur de niveau ne fonctionne que sur Windows.
+
+- Les développeurs ont présenté leurs aversion a porter le jeu sur OSX et GNU/Linux il est donc a prévoir qu'il n'y aura pas de mise a jour ou d'ajout.
+
+NB: l'éditeur de niveau est tellement bordélique sur Windows qu'essayer de le faire fonctionner sur OSX ou GNU/Linux pourraient demander du travail supplémentaire (en plus d'installer Wine)
+
+NB+: L'éditeur de niveau et la possibilité de Modding sont présent, cependant comme précédemment souligne: c'est BORDÉLIQUE. Tout est en XML, l'amélioration/optimisation d'une map nécessite des connaissances en XML (je serai tente de dire également des connaissances en programmation pour utiliser un parser et ainsi économiser beaucoup de temps.)
+
+
+
+Monaco
+______
+
+`<http://www.monacoismine.com/>`_ |win| |osx|
+
+
+- La version Mac OSX et GNU/Linux ne possèdent pas de mode LAN, elles forcent l'utilisateur a installer Steam pour leurs ouvrir l'option multijoueur.（ ⁖ La version Windows possède un paramètre LAN/Steam dans les options, et le menu de création de partie propose la connexion au LAN ou a Steam.） `NO LAN en images <https://plus.google.com/+RyuuteiSebastienBLANC/posts/3ddGhWGoCiK>`_
+
+- L'éditeur de niveau ne fonctionne que sur Windows.
+
+
+Torchlight
+__________
+
+`<http://www.torchlightgame.com/>`_ |win| |osx| |lin|
+
+- Manque d'infos／le jeu était autrefois avec un DRM mais a été disponible sur GNU/Linux et Mac OSX Sans DRM via Humble Indie Bundle.
+
+- Runic Games a sous traite le développement du jeu pour OSX et GNU/Linux, *il faut donc compter qu'il n'y aura plus jamais de mise a jour ou d'ajouts*.
+
+- L'éditeur de niveau ne fonctionne que sur Windows.
+
+
+Torchlight 2
+____________
+
+`<http://www.torchlight2game.com/>`_ |win| |osx|
+
+- L'éditeur de niveau ne fonctionne que sur Windows.
+
+- Le jeu a été annonce pour Windows et Mac OSX, cependant a ce jour（2014/01/11 12:10:09 +0100）Runic Games n'a toujours pas fini le port OSX.（cela ne sert a rien de l'acheter sur steam.）

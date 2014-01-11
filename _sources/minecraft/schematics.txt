@@ -65,8 +65,10 @@ Farms
     〔2013〕
 
 .. figure:: ../img/farm-lvl12.jpg
+    :width: 800px
+    :align: center
 
-    :download:`Mob farm Level 12 <schematics/farm-mob_lvl12.schematic>` ：
+    :download:`Mob farm Level 12 <schematics/farm-mob-lvl12.schematic>` ：
     by Ryuutei
     〔2013〕—— this is an automatic Mob farm for Minecraft 1.7, with 3072 spawn points for mobs.
 
