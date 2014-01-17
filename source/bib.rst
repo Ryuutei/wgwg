@@ -1,12 +1,27 @@
 .. template for ReST
-    *emphasise*
-    **Bold**
-    ``inline literal``
+    toctree:
+    Entries (titles directly)
+    :maxdepth: 2
+    :numbered:
+    :titlesonly:
+    :glob:  (files and folders)
+    :hidden:
+
+    .. math:: (a + b)^2 = a^2 + 2ab + b^2
+        :label: truc \n
+    some other paragraph with :eq:`truc` which ref. or :math:`inline maths`
+
     `hyperlink <http://stuff.com>`_
+    hyperlink_
+    .. _hyperlink: http://stuff.com
+
     footnote ref[n]_.
         .. [n] footnote stuff with no : after "[n]"
+
+    :download:`title <file>`
     :ref:`text : to be linked` # will link to :
     .. _text \: to be linked:
+
     Word
         to define.
     r"""raw python like line"""
@@ -22,12 +37,7 @@
     ^, for subsubsections
     ", for paragraphs
 
-.. index:: SHMUP,
+Bibliographie
+=============
 
-Pop’N’ Twinbee
-==============
-
-**stage select**
-
-Dans les options appuyez sur:
-    ↑ ← ↑ ← ↑ ← ← ← → → → ↓ ← ↓ ← ↓ B
+- Trucs & Astuces Super Nintendo（1993），Player ONE POCKET〔2-910104-05-2〕

@@ -57,6 +57,9 @@ Table des Matieres:
 Indices and tables
 ==================
 
+.. toctree::
+    bib.rst
+
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`

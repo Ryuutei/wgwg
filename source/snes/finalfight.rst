@@ -1,12 +1,27 @@
 .. template for ReST
-    *emphasise*
-    **Bold**
-    ``inline literal``
+    toctree:
+    Entries (titles directly)
+    :maxdepth: 2
+    :numbered:
+    :titlesonly:
+    :glob:  (files and folders)
+    :hidden:
+
+    .. math:: (a + b)^2 = a^2 + 2ab + b^2
+        :label: truc \n
+    some other paragraph with :eq:`truc` which ref. or :math:`inline maths`
+
     `hyperlink <http://stuff.com>`_
+    hyperlink_
+    .. _hyperlink: http://stuff.com
+
     footnote ref[n]_.
         .. [n] footnote stuff with no : after "[n]"
+
+    :download:`title <file>`
     :ref:`text : to be linked` # will link to :
     .. _text \: to be linked:
+
     Word
         to define.
     r"""raw python like line"""
@@ -22,12 +37,12 @@
     ^, for subsubsections
     ", for paragraphs
 
-.. index:: SHMUP,
+.. index:: Beat them all,
 
-Pop’N’ Twinbee
-==============
+Final Fight
+===========
 
-**stage select**
+Tableau d'options:
+    Maintenez sur ``L`` & ``R`` au demarrage pendant le logo CAPCOM
 
-Dans les options appuyez sur:
-    ↑ ← ↑ ← ↑ ← ← ← → → → ↓ ← ↓ ← ↓ B
+

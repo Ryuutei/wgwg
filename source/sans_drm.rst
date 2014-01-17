@@ -91,6 +91,7 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `FOTONICA <http://www.santaragione.com/>`_ |win| |osx| |lin|
 - `FTL: Faster Than Light <http://www.ftlgame.com/>`_ |win| |osx| |lin|
 - `Frozen Synapse <http://www.frozensynapse.com/>`_  |win| |osx| |lin| |and|
+- `Full Mojo Rampage <http://www.overthetopgames.com/>`_ [β]_ |win|
 - `Galaxy on Fire 2™ Full HD <http://www.fishlabs.net/>`_ |win|
 - `Game Dev Tycoon <http://www.greenheartgames.com/app/game-dev-tycoon/>`_ |win| |osx| |lin|
 - `Gone Home <http://thefullbrightcompany.com/>`_ |win| |osx| |lin|
@@ -148,6 +149,7 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Stardew Valley <http://stardewvalley.net/>`_ |win|
 - `Super Hexagon <http://www.superhexagon.com/>`_ |win| |osx| |lin| |and|
 - `Super Meat Boy <http://www.supermeatboy.com/>`_ |win| |osx| |lin|
+- `Super Splatters <http://spikysnail.com/>`_ |win| |osx|
 - `Survivor Squad <http://www.survivor-squad.com/buy.html>`_ |win| |osx| |lin|
 - `Swapper（The） <http://facepalmgames.com/the-swapper/>`_ |win|
 - `Sword & Sworcery EP <http://www.swordandsworcery.com/>`_ |win| |osx| |lin|
