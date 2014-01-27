@@ -30,7 +30,10 @@ Super Nintendo／Super Famicom
 .. toctree::
     aladdin.rst
     alien3.rst
+    anotherworld.rst
     battletoadsIB.rst
+    finalfight.rst
+    lemmings.rst
     popntwinbee.rst
     roadrunner.rst
     sf2t.rst

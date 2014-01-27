@@ -60,6 +60,7 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Anomaly 2 <http://www.11bitstudios.com/>`_ |win| |osx| |lin| |and|
 - `Audiosurf <http://www.audio-surf.com/>`_ |win|
 - `Awesomenauts <http://www.awesomenauts.com/html/shop.html>`_ |win| |osx| |lin|
+- `Bag it! <http://www.hiddenvariable.com/>`_ |and|
 - `Beat Hazard Ultra <http://www.coldbeamgames.com/>`_ |win| |osx| |lin| |and|
 - `Beatbuddy <http://www.threaks.com/>`_ |win| |osx| |lin|
 - `Binding of Isaac（The） <http://edmundm.com/>`_  |win| |osx| |lin|
@@ -85,6 +86,7 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Dungeon of Elements <http://frogdice.com/>`_ |win| |osx| |lin|
 - `Dust Force <http://dustforce.com/buy>`_ |win| |osx| |lin|
 - `Dust: An Elysian Tail <http://www.noogy.com/main.html>`_  |win| |osx| |lin|
+- `Eldritch <http://www.minorkeygames.com/>`_ |win| |osx| |lin|
 - `Euro Truck Simulator 2 <http://www.scssoft.com/eurotrucksimulator2.php>`_  |win| |lin|
 - `FEZ <http://polytroncorporation.com/what-is-fez>`_  |win| |osx| |lin|
 - `FIST OF AWESOME <http://fistofawesome.com/>`_ |and|
@@ -125,7 +127,7 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Overgrowth Alpha <http://www.wolfire.com/>`_ |win| |osx| |lin|
 - `Papers, Please <http://papersplea.se/>`_ |win| |osx|
 - `Particulars <http://www.seethroughstudios.com/>`_ |win| |osx| |lin|
-- `Prison Architect <http://www.introversion.co.uk/>`_ |win| |osx| |lin|
+- `Prison Architect <http://www.introversion.co.uk/>`_ [β]_ |win| |osx| |lin|
 - `Psychonauts <http://www.doublefine.com/>`_  |win| |osx| |lin|
 - `Race the Sun <http://flippfly.com/>`_ |win| |osx| |lin|
 - `Ravensword: Shadowlands <http://crescentmoongames.com/>`_ |win| |osx| |lin|
@@ -139,6 +141,7 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Scrolls <https://scrolls.com/>`_ |win| |osx|
 - `Secrets of Rætikon <http://brokenrul.es/>`_ [β]_ |win| |osx| |lin|
 - `Shadow Warrior <http://flyingwildhog.com/games>`_ （remake）  |win|
+- `Shadowgrounds <http://frozenbyte.com/>`_ |win| |osx| |lin|
 - `Shadowrun Returns <http://harebrained-schemes.com/>`_ |win| |osx| |lin|
 - `Shank 2 <http://kleientertainment.com/>`_ |win| |osx| |lin|
 - `Sir, You are being Hunted <http://www.big-robot.com/2012/03/12/sir-you-are-being-hunted/>`_ |win| |osx| |lin|
@@ -156,6 +159,7 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Tetrobot and Co. <http://www.swingswingsubmarine.com/games/tetrobot-and-co/>`_ |win| |osx| |lin|
 - `Tiny & Big: Grandpa's Leftovers <http://blackpants.de/>`_ |win| |osx| |lin|
 - `Torchlight`_ [1]_ [ε]_ |win| |osx| |lin|
+- `Trine <http://frozenbyte.com/>`_ |win| |osx| |lin|
 - `Vessel <http://www.strangeloopgames.com/>`_ |win| |osx| |lin|
 - `Volgarr The Viking <http://www.crazyvikingstudios.com/>`_ |win|
 - `Waking Mars <http://www.tigerstylegames.com/>`_ |win| |osx| |lin|
@@ -169,6 +173,8 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 
 .. - ` <>`_ |win| |osx| |lin|
 .. - ` <>`_ |win| |osx| |lin| |and|
+
+.. ⁇ - `A S T R O I D S <http://astroids.tv>`_ |win|
 
 .. DEBUT DE LA LISTE LIGNE     55
 

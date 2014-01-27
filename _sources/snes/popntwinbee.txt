@@ -22,7 +22,7 @@
     ^, for subsubsections
     ", for paragraphs
 
-.. index:: SHMUP, 
+.. index:: SHMUP,
 
 Pop’N’ Twinbee
 ==============
