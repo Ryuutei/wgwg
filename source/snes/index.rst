@@ -32,8 +32,10 @@ Super Nintendo／Super Famicom
     alien3.rst
     anotherworld.rst
     battletoadsIB.rst
+    dbz2.rst
     finalfight.rst
     lemmings.rst
+    ../mortal_kombat/02.rst
     popntwinbee.rst
     roadrunner.rst
     sf2t.rst

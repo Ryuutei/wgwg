@@ -69,6 +69,7 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Bit.Trip Void <http://gaijingames.com/>`_ [HS]_ |win| |osx| |lin|
 - `Blocks That Matter <http://www.swingswingsubmarine.com/>`_ |win| |osx| |lin|
 - `Botanicula <http://www.botanicula.net/buy-botanicula.html>`_ |win| |osx| |lin|
+- `Bridge Constructor <http://www.mergegames.com/>`_ [HS]_ |win| |osx| |lin|
 - `Bro Force <http://freelives.net/broforce-game>`_ [β]_ |win| |osx|
 - `Brütal Legend <http://www.doublefine.com/>`_  |win| |osx| |lin|
 - `Capsized <http://www.capsizedgame.com/>`_  |win| |osx| |lin|
@@ -78,11 +79,13 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Cube World <https://picroma.com/>`_ |win| |osx|
 - `DLC Quest <http://goingloudstudios.com/games/dlc-quest/>`_ |win| |osx|
 - `Dear Esther <http://dear-esther.com/>`_  |win| |osx| |lin|
+- `Delve Deeper <http://www.lunargiant.com/>`_ |win|
 - `Delver <http://www.delvergame.com/>`_ |win| |osx| |lin| |and|
 - `Derrick the Deathfin <http://derrickthedeathfin.com/buy.html>`_ |win| |osx|
 - `Don't Starve <http://www.dontstarvegame.com/>`_ |win| |osx| |lin|
-- `Door Kickers <http://inthekillhouse.com/>`_ |win| |osx| |lin|
+- `Door Kickers <http://inthekillhouse.com/>`_ [β]_ |win| |osx| |lin|
 - `Dungeon Defenders <http://dungeondefenders.com/>`_  |win| |osx| |lin| |and|
+- `Dungeon Hearts <http://cube-roots.com/>`_ |win| |osx| |lin|
 - `Dungeon of Elements <http://frogdice.com/>`_ |win| |osx| |lin|
 - `Dust Force <http://dustforce.com/buy>`_ |win| |osx| |lin|
 - `Dust: An Elysian Tail <http://www.noogy.com/main.html>`_  |win| |osx| |lin|
@@ -108,6 +111,7 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Hyper Light Drifter <http://www.heart-machine.com/>`_  |win| |osx| |lin|
 - `Incredipede <http://northwaygames.com/>`_  |win| |osx| |lin| |and|
 - `Ittle Dew <http://www.ittledew.com/>`_ |win| |osx| |lin|
+- `Jazzpunk <http://necrophonegames.com/>`_ |win| |osx| |lin|
 - `KRUNCH <http://krunchgame.com/>`_ |win| |osx| |lin|
 - `Kentuky Route Zero <http://kentuckyroutezero.com/>`_ |win| |osx| |lin|
 - `King Arthur's Gold <http://kag2d.com/en/download>`_ |win| |osx| |lin|
@@ -122,12 +126,14 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Mirror Moon EP <http://www.santaragione.com/>`_ |win| |osx| |lin|
 - `Monaco`_ [1]_ [ε]_ |win| |osx|
 - `Novelist（The） <http://www.thenovelistgame.com/>`_ |win| |osx|
+- `Octodad <http://www.octodadgame.com/press/>`_ |win| |osx| |lin|
 - `Offspring Fling <http://amandle.com/>`_ |win| |osx| |lin|
 - `Outlast <http://redbarrelsgames.com/>`_ |win|
 - `Overgrowth Alpha <http://www.wolfire.com/>`_ |win| |osx| |lin|
 - `Papers, Please <http://papersplea.se/>`_ |win| |osx|
 - `Particulars <http://www.seethroughstudios.com/>`_ |win| |osx| |lin|
 - `Prison Architect <http://www.introversion.co.uk/>`_ [β]_ |win| |osx| |lin|
+- `Probably Archery <http://southeastgames.com/>`_ [HS]_ |win| |osx| |lin|
 - `Psychonauts <http://www.doublefine.com/>`_  |win| |osx| |lin|
 - `Race the Sun <http://flippfly.com/>`_ |win| |osx| |lin|
 - `Ravensword: Shadowlands <http://crescentmoongames.com/>`_ |win| |osx| |lin|
@@ -135,6 +141,7 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Retro City Rampage <http://www.vblank.com/>`_ |win|
 - `Risk of Rain <http://riskofraingame.com/team/>`_ |win|
 - `Rogue Legacy <http://roguelegacy.com/>`_ |win| |osx| |lin|
+- `SPAZ <http://minmax-games.com/SpacePiratesAndZombies/SPAZ1.php>`_ |win| |osx| |lin|
 - `Samurai Gunn <http://maxistentialism.com/samuraigunn/>`_ |win|
 - `Sang-Froid - Tales of Werewolves <http://www.sangfroidgame.com/>`_  |win|
 - `Scoregam <http://www.charliesgames.com/Scoregasm/>`_ |win| |osx| |lin|
@@ -150,6 +157,7 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Spud's Quest <http://www.spudsquest.com/>`_ |win| |osx| |lin|
 - `Starbound <http://playstarbound.com/>`_ [β]_ |win| |osx| |lin|
 - `Stardew Valley <http://stardewvalley.net/>`_ |win|
+- `SteamWorld Dig <http://imageform.se/games/>`_ [HS]_ |win| |osx| |lin|
 - `Super Hexagon <http://www.superhexagon.com/>`_ |win| |osx| |lin| |and|
 - `Super Meat Boy <http://www.supermeatboy.com/>`_ |win| |osx| |lin|
 - `Super Splatters <http://spikysnail.com/>`_ |win| |osx|
@@ -157,6 +165,8 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Swapper（The） <http://facepalmgames.com/the-swapper/>`_ |win|
 - `Sword & Sworcery EP <http://www.swordandsworcery.com/>`_ |win| |osx| |lin|
 - `Tetrobot and Co. <http://www.swingswingsubmarine.com/games/tetrobot-and-co/>`_ |win| |osx| |lin|
+- `The Floor is Jelly <http://www.ianiselsewhere.com/>`_ |win| |osx|
+- `The Sun at Night <http://necrophonegames.com/>`_ [β]_ [HS]_ |win|
 - `Tiny & Big: Grandpa's Leftovers <http://blackpants.de/>`_ |win| |osx| |lin|
 - `Torchlight`_ [1]_ [ε]_ |win| |osx| |lin|
 - `Trine <http://frozenbyte.com/>`_ |win| |osx| |lin|
@@ -170,11 +180,13 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Worms Reloaded & Worms 2: Armageddon (Bundle) <http://www.team17.com/>`_  |win| |osx| |lin| |and|
 - `Xenonauts <http://www.goldhawkinteractive.com/>`_ |win|
 - `YOU DON’T KNOW JACK <http://jackboxgames.com/>`_  |win| |osx| |lin|
+- `rymdkapsel <http://grapefrukt.com/>`_ |win| |osx| |lin|
 
 .. - ` <>`_ |win| |osx| |lin|
 .. - ` <>`_ |win| |osx| |lin| |and|
 
 .. ⁇ - `A S T R O I D S <http://astroids.tv>`_ |win|
+.. - `Space Pirates and Zombies 2 （SPAZ2） <http://minmax-games.com/>`_ |win| |osx| |lin|
 
 .. DEBUT DE LA LISTE LIGNE     55
 

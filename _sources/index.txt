@@ -18,6 +18,7 @@ Dossiers
     sans_drm.rst
     skyrim/skyrim_index.rst
     minecraft/index.rst
+    mortal_kombat/index.rst
 
 Table des Matieres:
 -------------------

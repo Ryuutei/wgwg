@@ -1,0 +1,705 @@
+=======================================                                        
+  M O R T A L   K O M B A T   2 0 1 1                                          
+                                                                               
+       Scorpion Character Guide                                                
+                                                                               
+              by ELC1837                                                       
+=======================================                                        
+Version History /                                                              
+----------------                                                               
+                                                                               
+05/26/2011 - Ver. 0.8                                                          
+...FAQ is written.                                                             
+...Matchup and Trivia sections are blank.                                      
+...No Meter-based Kombos in Advanced Kombos.                                   
+...Damage values and frame data missing.                                       
+                                                                               
+08/01/2011 - Ver. 0.81                                                         
+...Updated descriptions of move properties.                                    
+                                                                               
+=======================================                                        
+Table of Contents /                                                            
+------------------                                                             
+                                                                               
+[0001] About ELC1837                                                           
+[0002] About Mortal Kombat (2011)                                              
+[0003] About Scorpion                                                          
+                                                                               
+[0004] Scorpion's Moves                                                        
+...[0004.1] Normals                                                            
+...[0004.2] Specials                                                           
+...[0004.3] Basic Kombos                                                       
+...[0004.4] Advanced Kombos                                                    
+...[0004.5] Fast Tags                                                          
+...[0004.6] Tag Kombos                                                         
+...[0004.7] Tag Specials                                                       
+...[0004.8] X-Ray                                                              
+...[0004.9] Finishers                                                          
+                                                                               
+[0005] Scorpion's Style                                                        
+                                                                               
+[0006] Scorpion's Matchups                                                     
+...[0006.1] Baraka                                                             
+...[0006.2] Cyber Sub-Zero                                                     
+...[0006.3] Cyrax                                                              
+...[0006.4] Ermac                                                              
+...[0006.5] Jade                                                               
+...[0006.6] Jax                                                                
+...[0006.7] Johnny Cage                                                        
+...[0006.8] Kabal                                                              
+...[0006.9] Kano                                                               
+...[0006.A] Kitana                                                             
+...[0006.B] Kratos                                                             
+...[0006.C] Kung Lao                                                           
+...[0006.D] Liu Kang                                                           
+...[0006.E] Mileena                                                            
+...[0006.F] Nightwolf                                                          
+...[0006.G] Noob Saibot                                                        
+...[0006.H] Quan Chi                                                           
+...[0006.I] Raiden                                                             
+...[0006.J] Reptile                                                            
+...[0006.K] Sektor                                                             
+...[0006.L] Shang Tsung                                                        
+...[0006.M] Sheeva                                                             
+...[0006.N] Sindel                                                             
+...[0006.O] Smoke                                                              
+...[0006.P] Sonya                                                              
+...[0006.Q] Stryker                                                            
+...[0006.R] Sub-Zero                                                           
+                                                                               
+[0007] Frequently Asked Questions                                              
+[0008] Trivia                                                                  
+[0009] Krypt Unlockables                                                       
+[0010] Closing                                                                 
+                                                                               
+=======================================                                        
+[0001] About ELC1837 /                                                         
+---------------------                                                          
+                                                                               
+ELC1837 (aka ELC or EpicLevelCommoner) is a gamer. Not a very good gamer, to be
+ quite honest, at least not in practical situations. But he makes up for that  
+ short-coming with keen insight in gaming theory. Basically, more of an        
+ astronomer than an astronaut, but definitely not an astrologist.              
+                                                                               
+Oh, and the [####.#] tags? They're there so you can use your browser's find    
+ function to jump through the FAQ. If you need to return to the Table of       
+ Contents, just return to the top of the page.                                 
+                                                                               
+=======================================                                        
+[0002] About Mortal Kombat (2011) /                                            
+----------------------------------                                             
+                                                                               
+Mortal Kombat (2011) is the series reincarnation, with klassic 2D gameplay     
+ mixed with a hint of the more recent 3D elements.                             
+                                                                               
+Strangely enough, Medium hits are the overhead attacks, not High hits. Of      
+ course, some High hits will whiff on a ducking opponent; this will be noted   
+ for each High attack.                                                         
+                                                                               
+For this FAQ, the following notation will be implemented:                      
+                                                                               
+  Command          Notation   PS3      XBOX 360                                
+  ---------------------------------------------                                
+  Forward          F                                                           
+  Back             B                                                           
+  Up               U                                                           
+  Down             D                                                           
+  ---------------------------------------------                                
+  Front Punch      1          []       X                                       
+  Back Punch       2          /\       Y                                       
+  Front Kick       3          X        A                                       
+  Back Kick        4          O        B                                       
+  ---------------------------------------------                                
+  Block            BL         R2       RT                                      
+  Throw            H          R1       RB                                      
+  Flip Stance      FS         L2       LT                                      
+  Tag              T          L1       LB                                      
+  X-Ray            XR         L2+R2    LT+RT                                   
+  ---------------------------------------------                                
+  Neutral Jump     nj.                                                         
+  Jump In          jin.                                                        
+  Jump Out         jout.                                                       
+  Jump Over        jover.                                                      
+                                                                               
+=======================================                                        
+[0003] About Scorpion /                                                        
+----------------------                                                         
+                                                                               
+ Real Name: Hanzo Hasashi                                                      
+ Origin: Earthrealm, Japan                                                     
+ Resides: Netherrealm                                                          
+ Alignment: Neutral                                                            
+ Allies: Shirai Ryu                                                            
+ Enemies: Lin Kuei                                                             
+ Race: Spectre (formerly Human)                                                
+                                                                               
+---------------------------------------                                        
+Biography /                                                                    
+----------                                                                     
+                                                                               
+Hanzo Hasashi was once a member of the Japanese Shirai Ryu ninja clan. Given   
+ the name Scorpion for his blindingly fast and deadly fighting skill, his life 
+ was blessed with glorious kombat in the name of his Grand Master. But when he,
+ his family and his clan were brutally exterminated by Sub-Zero and the Lin    
+ Kuei, Scorpion's existence became eternal torment. Resurrected by the         
+ malevolent necromancer Quan Chi, he entered the Mortal Kombat tournament to   
+ slay Sub-Zero and avenge the murders of his kin.                              
+                                                                               
+=======================================                                        
+[0004] Scorpion's Moves /                                                      
+---------------------------------------                                        
+[0004.1] Normals /                                                             
+-----------------                                                              
+                                                                               
+   1 - Universal Front Punch; High; whiffs on ducking opponent; Poke           
+   2 - Universal Back Punch; High;                                             
+   3 - Universal Front Kick; High; Poke                                        
+   4 - Universal Back Kick                                                     
+ D+1 - Universal Low Front Punch                                               
+ D+2 - Universal Uppercut; High; Launcher (cannot combo out of)                
+ D+3 - Universal Low Front Kick                                                
+ D+4 - Universal Low Back Kick                                                 
+ B+4 - Universal Sweep; Low; Knockdown                                         
+nj.P - Universal Neutral Jump Punch; Medium; Launcher                          
+nj.K - Universal Neutral Jump Kick; High; Knockdown                            
+ j.P - Universal Jump Punch; Medium                                            
+ j.K - Universal Jump Kick; High                                               
+ F+2 - High; hits ducking opponent                                             
+ B+2 - Medium; Launcher; Anti-Air against close-low opponents                  
+ F+3 - Medium; Knockdown; OTG                                                  
+ F+4 – Low; Poke                                                               
+   H - Throw; air-ok                                                           
+                                                                               
+---------------------------------------                                        
+[0004.2] Specials /                                                            
+------------------                                                             
+                                                                               
+Spear (B,B,1) - Scorpion flings his trademark spear across the screen. On hit, 
+ he reels the stunned opponent in. Hits High; can be Ducked and Jumped.        
+ Slightly unsafe on block; extremely unsafe on whiff; Anti-Air against far-low 
+ opponents.                                                                    
+                                                                               
+Flame Spear (B,B,1+BL) - Same as spear, except Scorpion has one hit of Super   
+ Armor and it does more damage.                                                
+                                                                               
+Demon Fire (D,B,2) - Scorpion summons hellish flames at his opponent's feet.   
+ Unblockable on ground; no effect on opponents in air; tracks location; can be 
+ used as anti-wakeup if timed; unsafe on whiff if opponent can punish.         
+                                                                               
+Hell Fire (D,B,2+BL) - Same as Demon Fire, except has a slightly taller hit-box
+ to prevent escape in certain situations, and hits OTG, making it an excellent 
+ anti-wakeup tool.                                                             
+                                                                               
+Teleport (D,B,3) - Scorpion vanishes in a blaze of glory before reappearing    
+ behind his opponent. Hits High; air-ok; unsafe on block or whiff; allows for  
+ safe jin.P or jover.P on hit.                                                 
+                                                                               
+Flameport (D,B,3+BL) - Same as Teleport, except Scorpion adds an extra         
+ uppercut. Both hits High; air-ok; safe on block; unsafe on whiff; continues   
+ or starts a juggle on anti-air hit.                                           
+                                                                               
+Takedown (D,B,4) - Scorpion does some kind of breakdancing move and trips  his 
+ opponent. Both hits Low; unsafe on block or whiff; knockdown.                 
+                                                                               
+Takeout (D,B,4+BL) - Same as Takedown, except for a very minor increase in     
+ damage and a minor increase in range. Not recommended for use.                
+                                                                               
+---------------------------------------                                        
+[0004.3] Basic Kombos /                                                        
+----------------------                                                         
+                                                                               
+Note: all Basic Kombos with Specials can be used with either normal or EX      
+ versions.                                                                     
+                                                                               
+1,1 - Safe string that keeps you close to your opponent. Both hits High; able  
+ to pressure after hit.                                                        
+                                                                               
+1,B,B,1 - Kombo into Spear. Spear unsafe on block.                             
+                                                                               
+1,1,1 - Safe string that allows a safe jin.P on hit and pushes the opponent    
+ away from you. All hits High; able to pressure after hit.                     
+                                                                               
+1,1,4 - Safe string that pushes the opponent away on block and further away on 
+ hit. All hits High; knockdown on hit.                                         
+                                                                               
+1,1,B,B,1 - Kombo into Spear. Spear unsafe on block; can hit-confirm on first  
+ hit before going for Spear.                                                   
+                                                                               
+1,1,D,B,4 - Kombo into Takedown. Takedown unsafe on block; can hit-confirm on  
+ first hit before going for Takedown.                                          
+                                                                               
+2,1 - Safe string that pushes the opponent away from you. Both hits High; able 
+ to pressure after hit.                                                        
+                                                                               
+2,1,2 - Safe string that pushes the opponent away. Last hit Medium; knockdown  
+ on hit.                                                                       
+                                                                               
+2,1,B,B,1 - Kombo into Spear. Spear unsafe on block; can hit-confirm on first  
+ hit before going for Spear.                                                   
+                                                                               
+2,1,D,B,4 - Kombo into Takedown. Takedown unsafe on block; can hit-confirm on  
+ first hit before going for Takedown.                                          
+                                                                               
+2,1+2 - Launcher. Second hit medium and unsafe on block.                       
+                                                                               
+F+2,1 - Safe string with minimal recoil. Both hits High.                       
+                                                                               
+F+2,1,4 - Kombo that on hit or block pushes opponent far away. All hits High;  
+ Knockdown on third hit; safe on block; third hit unsafe on whiff.             
+                                                                               
+F+2,1,B,B,1 - Kombo into Spear. Spear unsafe on block; can hit-confirm on first
+ hit before going for Spear.                                                   
+                                                                               
+F+2,1,D,B,3 - Kombo into Teleport. Teleport unsafe on block; can hit-confirm on
+ first hit before going for Teleport.                                          
+                                                                               
+F+2,1,D,B,4 - Kombo into Takedown. Takedown unsafe on block; can hit-confirm on
+ first hit before going for Takedown.                                          
+                                                                               
+3,3 - Safe string with minimal recoil and good range. Both hits High; able to  
+ pressure after hit.                                                           
+                                                                               
+3,3,4 - Safe blockstring that keeps you close to opponent. Knockdown on hit;   
+ all hits High.                                                                
+                                                                               
+3,3,B,B,1 - Kombo into Spear. Spear unsafe on block; can hit-confirm on first  
+ hit before going for Spear.                                                   
+                                                                               
+3,3,D,B,4 - Kombo into Takedown. Takedown unsafe on block; can hit-confirm on  
+ first hit before going for Takedown.                                          
+                                                                               
+F+4,3 - Kombo that allows for safe jin.P on hit. First hit Low; second hit     
+ High; unsafe on block.                                                        
+                                                                               
+F+4,B,B,1 - Kombo into Spear. Timing is precise; Spear unsafe on block.        
+                                                                               
+F+4,D,B,4 - Kombo into Takedown. Timing is precise; Takedown unsafe on block.  
+                                                                               
+j.P/j.K,H – All-purpose Anti-Air; knockdown at full-screen distance.           
+                                                                               
+j.P/j.K,D,B,3 – Anti-air against middle-high opponents; An extra-damage staple 
+ for advanced kombos. Timing is precise, but allows for a juggle after         
+ teleport. j.P is easier to land and j.K deals more damage.                    
+                                                                               
+j.P Mix-Up - After a jin.P or jover.P hits a grounded opponent, you can follow 
+ with any normal or any basic kombo other than B+4, D+2, j.P, j.K, nj.P, and   
+ nj.K. Can hit-confirm on j.P for basic kombos and fast tags with an unsafe    
+ second hit. NOTE: As of writing this there is a glitch where after going for a
+ j.P Mix-Up and are blocked, you won’t be able to block as soon as if you went 
+ for the kombo without the j.P.                                                
+                                                                               
+---------------------------------------                                        
+[0004.4 Advanced Kombos /                                                      
+------------------------                                                       
+                                                                               
+Advanced Kombos are really nothing more than Basic Kombos combined by juggling,
+ dashing, and stunning the opponent for more damage. Here are the pieces       
+ Scorpion uses:                                                                
+                                                                               
+Naked/Basic Kombo Spear - Juggle set-up; F+4,B,B,1 is notable as a Low for     
+ Medium-Low Mix-Ups.                                                           
+                                                                               
+jin.P/jover.P/nj.P,B+2 - Juggle starter. B+2 after j.P floats lower, making it 
+ more difficult to do more damage. B+2 itself is notable as a Medium for       
+ Medium-Low Mix-Ups.                                                           
+                                                                               
+2,1+2 - Juggle starter. Second hit can be hit-confirmed after jin.P. Must      
+ follow with either a Naked Spear or Naked Teleport to continue combo. Cannot  
+ use other juggle starters after this.                                         
+                                                                               
+jin.K,D,B,3 - Anti-air starter and Kombo follow-up. Timing is precise, and thus
+ more difficult to deal more damage. jin.K is optional if timing is too        
+ difficult.                                                                    
+                                                                               
+D,B,3 - Juggle follow-up. Use after 2,1+2 launch instead of jin.K,D,B,3.       
+                                                                               
+1,1,1,B,B,1 - Kombo follow-up. Juggles opponent in air before landing Spear.   
+ Third 1 is optional if opponent is too high in air.                           
+                                                                               
+jover.P Mix-Up - Kombo finisher. If you used a juggle starter and, at some     
+ point, followed with a Spear, then use this to finish the Kombo.              
+                                                                               
+Basic Kombo - Kombo finisher. If you used a Naked or Basic Kombo Spear to start
+ your Advanced Kombo, use this to finish your Kombo.                           
+                                                                               
+Spear-Teleport Kombo Note - If use both Spear and Teleport once in a Kombo, you
+ cannot juggle an opponent with either Juggle starter off of Spear.            
+                                                                               
+Juggle-Spear Kombo Note - If you use a Juggle starter before Spear, you cannot 
+ juggle an opponent with the other Juggle starter off of Spear.                
+                                                                               
+No Loop Note - Both Juggle starters and Spear cannot be used twice in the same 
+ Kombo to keep the kombo going.                                                
+                                                                               
+Demon Fire Note - Although Demon Fire cannot be comboed into or out of, you can
+ use it instead of a safe jin.P for almost-guaranteed damage.                  
+                                                                               
+Meterless Examples:                                                            
+                                                                               
+ jin.P,B+2,                                                                    
+  jin.K,D,B,3,                                                                 
+   F,F,1,1,1,B,B,1,                                                            
+    jover.P,F+2,1,D,B,3                                                        
+                                                                               
+ jin.P,3,3,B,B,1,                                                              
+  nj.P,F,F,B+2,                                                                
+   jin.K,D,B,3,                                                                
+    F,F,F+2,1,4                                                                
+                                                                               
+ jin.K,D,B,3,                                                                  
+  F,F,1,1,1,B,B,1,                                                             
+   jover.P,F+2,1,D,B,3                                                         
+                                                                               
+ jin.P,2,1+2,                                                                  
+  D,B,3,                                                                       
+   F,F,1,1,1,B,B,1,                                                            
+    jover.P,F+2,1,D,B,3                                                        
+                                                                               
+And, for those who play against players that do not block, here's a            
+ safe jin.P Mix-up Fake-Loop formula:                                          
+                                                                               
+ jin.P--->Basic Kombo Spear--->jover.P                                         
+   ^                              |                                            
+   |                              V                                            
+   |_______________Basic Kombo Teleport                                        
+                                                                               
+---------------------------------------                                        
+[0004.5] Fast Tags /                                                           
+-------------------                                                            
+                                                                               
+2,1+2,T - Juggle-starter for your partner. Second hit unsafe on block.         
+                                                                               
+B+2,T - Juggle-starter for your partner. First hit unsafe on block.            
+                                                                               
+---------------------------------------                                        
+[0004.6] Tag Kombos /                                                          
+--------------------                                                           
+                                                                               
+When called in for a Tag Kombo, Scorpion will end the combo with a medium      
+ knockdown attack.                                                             
+                                                                               
+1,1,T - Kombo that tags your other character in. Can hit-confirm on first hit  
+ before going for Tag.                                                         
+                                                                               
+2,1,T - Kombo that tags your other character in. Can hit-confirm on first hit  
+ before going for Tag.                                                         
+                                                                               
+F+2,1,T - Kombo that tags your other character in. Can hit-confirm on first hit
+ before going for Tag.                                                         
+                                                                               
+3,3,T - Kombo that tags your othe character in. Can hit-confirm on first hit   
+ before going for Tag.                                                         
+                                                                               
+---------------------------------------                                        
+[0004.7] Tag Specials /                                                        
+----------------------                                                         
+                                                                               
+D,B,T - When called for a Tag Assist, Scorpion will use Demon Fire.            
+                                                                               
+D,F,T - When called for a Tag Attack, Scorpion will use Flameport.             
+                                                                               
+---------------------------------------                                        
+[0004.8] X-Ray /                                                               
+---------------                                                                
+                                                                               
+Scorpion Sting - Scorpion quickly sinks into the ground before zooming behind  
+ the opponent and punching them. During the X-Ray animation, Scorpion breaks   
+ his opponent's jaw and stomps on their chest before hopping back from them.   
+                                                                               
+---------------------------------------                                        
+Pros /                                                                         
+-----                                                                          
+                                                                               
+ Start-up safe against attacks that whiff on a ducking opponent.               
+ Punishes unsafe strings and jumps.                                            
+ Can be comboed into.                                                          
+ One hit of Super Armor.                                                       
+                                                                               
+---------------------------------------                                        
+Cons /                                                                         
+-----                                                                          
+                                                                               
+ Entry hit is High.                                                            
+ Cannot be comboed out of.                                                     
+                                                                               
+---------------------------------------                                        
+[0004.9] Finishers /                                                           
+-------------------                                                            
+                                                                               
+Split Decision - F,D,F,2 (close)                                               
+ Scorpion slashes the opponent twice, separating legs from torso and torso from
+ head, before kicking the torso away and vertically slicing the opponent's     
+ head.                                                                         
+                                                                               
+Nether-Gate - B,F,B,3 (close)                                                  
+ Scorpion ties a noose around the opponent's neck. After Netherrealm portal    
+ appears, Scorpion kicks his opponent through it while holding onto his spear. 
+ The opponent then drops from a portal above, their skeleton dangling above the
+ floor.                                                                        
+                                                                               
+Toasty! - D,U,U,2 (jump) (MK1 Costume Required)                                
+ Scorpion removes his mask, revealing a burning skull. He then spits fire at   
+ the opponent's feet and burns them alive.                                     
+                                                                               
+Stage Fatality - F,U,U,1 (close-sweep)                                         
+ Varies with each stage.                                                       
+                                                                               
+Babality - D,B,F,D,4 (jump)                                                    
+ When performed on Scorpion, Scorpion will turn towards the opponent, yell "Get
+ over here!" in his baby voice before throwing his spear. The momentum causes  
+ him to fall on his face, where he proceeds to throw a tantrum.                
+                                                                               
+=======================================                                        
+[0005] Scorpion's Style /                                                      
+---------------------------------------                                        
+As Scorpion /                                                                  
+------------                                                                   
+                                                                               
+Scorpion has a strong anti-air game, but a weak anti-ground game. He also has  
+ no way to escape any strong pressure. Thus, you want your opponent to jump,   
+ and you want to keep them either far away or close to you. The best way to    
+ keep your opponent away to zone/bait with Demon Fire while they're at         
+ far-range, then at close-range go for throw or F+2,1,4 to send them away. If  
+ they start jumping blindly to avoid damage off of Demon Fire, use Spear, B+2, 
+ or jin.K,D,B,3 for a Kombo. Speaking of Kombos, always try to end your Kombos 
+ with a standard Teleport on a grounded opponent; this will allow for a safe   
+ jin.P Mix-up. If you want to keep your opponent close to you, use the Demon   
+ Fire zoning/baiting tactic as before, but when your opponent gets in          
+ close-range, use the variety of pokes and strings you have available to apply 
+ pressure and possibly hit-confirm into a kombo.                               
+                                                                               
+---------------------------------------                                        
+Against Scorpion /                                                             
+-----------------                                                              
+                                                                               
+Unless you have an air-ok movement option, never jump while Scorpion is idle.  
+ No matter where you are, he can hit you with an Anti-Air attack for a kombo.  
+ Demon Fire is more of a pest than a threat; jump it on reaction if you can,   
+ but don't worry if you get hit by it. Once you get on him, just keep applying 
+ safe pressure while guarding against his safe pressure. Most of his specials  
+ can be heavily punished on block, whiff, or both, so practice dodging Demon   
+ Fire, Spear, and EX Teleport and blocking regular Teleport and Takedown just  
+ in case of spammers.                                                          
+                                                                               
+---------------------------------------                                        
+Pros /                                                                         
+-----                                                                          
+                                                                               
+ Strong anti-air game.                                                         
+ Unblockable zoning/baiting.                                                   
+ Projectile that stuns and pulls.                                              
+ Air-ok Teleport which can be used to bait and punish with                     
+  high-risk-high-reward anti-air attacks.                                      
+ Super-Armor on EX Spear.                                                      
+ Juggle on EX Teleport.                                                        
+ X-Ray Teleport.                                                               
+ Safe jin.P Mix-up Fake-Loop.                                                  
+ Variety of safe pokes and strings.                                            
+ Can safely hit-confirm a Basic Kombo Spear with most strings.                 
+                                                                               
+---------------------------------------                                        
+Cons /                                                                         
+-----                                                                          
+                                                                               
+ Weak anti-ground game.                                                        
+ No unique way to escape pressure.                                             
+ All specials and EX specials unsafe on block, whiff, or both.                 
+ Most specials and EX specials are slow and easily read.                       
+ Dependent on baiting for some kombos.                                         
+ Poor mix-up options without jin.P.                                            
+                                                                               
+=======================================                                        
+[0006] Scorpion's Matchups /                                                   
+---------------------------------------                                        
+[0006.1] Baraka /                                                              
+----------------                                                               
+                                                                               
+---------------------------------------                                        
+[0006.2] Cyber Sub-Zero /                                                      
+------------------------                                                       
+                                                                               
+---------------------------------------                                        
+[0006.3] Cyrax /                                                               
+---------------                                                                
+                                                                               
+---------------------------------------                                        
+[0006.4] Ermac /                                                               
+---------------                                                                
+                                                                               
+---------------------------------------                                        
+[0006.5] Jade /                                                                
+--------------                                                                 
+                                                                               
+---------------------------------------                                        
+[0006.6] Jax /                                                                 
+-------------                                                                  
+                                                                               
+---------------------------------------                                        
+[0006.7] Johnny Cage /                                                         
+---------------------                                                          
+                                                                               
+---------------------------------------                                        
+[0006.8] Kabal /                                                               
+---------------                                                                
+                                                                               
+---------------------------------------                                        
+[0006.9] Kano /                                                                
+--------------                                                                 
+                                                                               
+---------------------------------------                                        
+[0006.A] Kitana /                                                              
+----------------                                                               
+                                                                               
+---------------------------------------                                        
+[0006.B] Kratos /                                                              
+----------------                                                               
+                                                                               
+---------------------------------------                                        
+[0006.C] Kung Lao /                                                            
+------------------                                                             
+                                                                               
+---------------------------------------                                        
+[0006.D] Liu Kang /                                                            
+------------------                                                             
+                                                                               
+---------------------------------------                                        
+[0006.E] Mileena /                                                             
+-----------------                                                              
+                                                                               
+---------------------------------------                                        
+[0006.F] Nightwolf /                                                           
+-------------------                                                            
+                                                                               
+---------------------------------------                                        
+[0006.G] Noob Saibot /                                                         
+---------------------                                                          
+                                                                               
+---------------------------------------                                        
+[0006.H] Quan Chi /                                                            
+------------------                                                             
+                                                                               
+---------------------------------------                                        
+[0006.I] Raiden /                                                              
+----------------                                                               
+                                                                               
+---------------------------------------                                        
+[0006.J] Reptile /                                                             
+-----------------                                                              
+                                                                               
+---------------------------------------                                        
+[0006.K] Sektor /                                                              
+----------------                                                               
+                                                                               
+---------------------------------------                                        
+[0006.L] Shang Tsung /                                                         
+---------------------                                                          
+                                                                               
+---------------------------------------                                        
+[0006.M] Sheeva /                                                              
+----------------                                                               
+                                                                               
+---------------------------------------                                        
+[0006.N] Sindel /                                                              
+----------------                                                               
+                                                                               
+---------------------------------------                                        
+[0006.O] Smoke /                                                               
+---------------                                                                
+                                                                               
+---------------------------------------                                        
+[0006.P] Sonya /                                                               
+---------------                                                                
+                                                                               
+---------------------------------------                                        
+[0006.Q] Stryker /                                                             
+-----------------                                                              
+                                                                               
+---------------------------------------                                        
+[0006.R] Sub-Zero /                                                            
+------------------                                                             
+                                                                               
+=======================================                                        
+[0007] Frequently Asked Questions /                                            
+----------------------------------                                             
+                                                                               
+Q: Demon Fire is broken. Nerf please.                                          
+A: Not a question, and not directed to me, but I'll give you some advice. Demon
+    Fire (and Hell Fire) takes the formula for other unblockable moves and     
+    throws it out the window. Demon Fire has a quick, though noticeable        
+    startup, and on whiff or hit, leaves Scorpion and the opponent on equal    
+    footing. It will whiff if used too early as an anti-wake-up or if jumped on
+    reaction. If you get hit by it, mash dash-blocking so that you can edge    
+    closer in case of spam. Never blind jump, as that is punishable with       
+    anti-air kombos. And, finally, if you're close enough, just poke Scorpion  
+    when he tries to start it up.                                              
+                                                                               
+Q: TL;DR of that?                                                              
+A: Demon Fire, although hard to avoid, is more of a pest than a threat. Don't  
+    let Scorpion bait you into blind-jumping!                                  
+                                                                               
+=======================================                                        
+[0008] Trivia /                                                                
+--------------                                                                 
+                                                                               
+=======================================                                        
+[0009] Krypt Unlockables /                                                     
+-------------------------                                                      
+                                                                               
+ DL20  - Scorpion Shadow Render                                                
+ DL35  - Scorpion Fatality Sketch                                              
+ DL44  - Scorpion Reveal Render                                                
+ DL51  - Scorpion Costume 1 Concept                                            
+ DL118 - Retro Scorpion Render                                                 
+ DL119 - Scorpion Costume 2                                                    
+ BM72  - Scorpion Fatality 2                                                   
+ BM74  - Scorpion Fatality Sketch                                              
+ MD46  - Scorpion Damage Concept 1                                             
+ MD55  - Scorpion Render                                                       
+                                                                               
+=======================================                                        
+[0010] Closing /                                                               
+---------------------------------------                                        
+Credits /                                                                      
+--------                                                                       
+                                                                               
+Myself, for compiling and formatting this FAQ.                                 
+                                                                               
+res0, for putting my theory to the test and collaborating with me on this FAQ. 
+ Mass respect, dude.                                                           
+                                                                               
+TH3 SYN, for our debates on Demon Fire. Without your opposing arguments, I     
+ would have never had any idea how to counter Demon Fire or how to use it      
+ effectively.                                                                  
+                                                                               
+japongt, for inspiring the kontent covered in the FAQ with his Kitana FAQ.     
+                                                                               
+Karmoon, for informing me of Takeout's extra range.                            
+                                                                               
+Netherrealm Studios and Warner Bros., for making MK (2011).                    
+                                                                               
+www.testyourmight.com and www.shoryuken.com, for giving me info to build this  
+ FAQ off of.                                                                   
+                                                                               
+GameFAQs, for hosting this FAQ.                                                
+                                                                               
+You, for reading and contributing to this FAQ.                                 
+                                                                               
+---------------------------------------                                        
+Contacts /                                                                     
+---------                                                                      
+                                                                               
+ ELC1837 - redrain.raven1837@yahoo.com                                         
+                                                                               
+---------------------------------------                                        
+Legal Information /                                                            
+------------------                                                             
+                                                                               
+Copyright 2011 Aaron Wilbers.                                                  
+                                                                               
+This may be not be reproduced under any circumstances except for personal,     
+ private use. It may not be placed on any web site other than GameFAQs and its 
+ associates or otherwise distributed publicly without advance written          
+ permission. Use of this guide on any other web site or as a part of any public
+ display is strictly prohibited, and a violation of copyright.                 
+                                                                               
+=======================================                                        

@@ -1,0 +1,476 @@
+
+    ===    === ======= ======= =======  ===   ===
+    ¦  \  /  ¦ ¦     ¦ ¦     ¦ ¦     ¦  ¦ ¦   ¦ ¦
+    ¦   \/   ¦ ¦ --- ¦ ¦     ¦ === === ¦   ¦  ¦ ¦
+    ¦ ¦\  /¦ ¦ ¦ ¦ ¦ ¦ ¦  ===/   ¦ ¦   ¦ ¦ ¦  ¦ ¦
+    ¦ ¦ \/ ¦ ¦ ¦ ¦ ¦ ¦ ¦   \     ¦ ¦   ¦ ¦ ¦  ¦ ¦
+    ¦ ¦    ¦ ¦ ¦ --- ¦ ¦ ¦\ \    ¦ ¦  ¦ ___ ¦ ¦ ===
+    ¦ ¦    ¦ ¦ ¦     ¦ ¦ ¦ \ \   ¦ ¦  ¦ ¦ ¦ ¦ ¦   ¦
+    ===    === ======= ===  ===  ===  === === ===== 
+                       ===   === ======= ===    === =======   ===   =======
+                       ¦ ¦  / /  ¦     ¦ ¦  \  /  ¦ ¦ __  /   ¦ ¦   ¦     ¦
+                       ¦ ¦ / /   ¦ --- ¦ ¦   \/   ¦ ¦ ¦/ /   ¦   ¦  === ===
+                       ¦ ¦/ /    ¦ ¦ ¦ ¦ ¦ ¦\  /¦ ¦ ¦   /    ¦ ¦ ¦    ¦ ¦
+                       ¦   /     ¦ ¦ ¦ ¦ ¦ ¦ \/ ¦ ¦ ¦ ==     ¦ ¦ ¦    ¦ ¦
+                       ¦   \     ¦ --- ¦ ¦ ¦    ¦ ¦ ¦   \   ¦ ___ ¦   ¦ ¦
+                       ¦ ¦\ \    ¦     ¦ ¦ ¦    ¦ ¦ ¦ ¦\ \  ¦ ¦ ¦ ¦   ¦ ¦
+                       ¦ ¦ \ \   ======= ===    === ¦ --  \ === ===   ===
+                       ¦ ¦  \ \                     =======
+                       ===   ===
+
+==============================================================================
+                                 KRYPT GUIDE                                 
+==============================================================================
+
+==============================================================================
+¦ The aim of this file is to provide you with ALL information on             ¦
+¦ the Krypt of Mortal Kombat, aka Mortal Kombat 9 (the 2011 release)         ¦
+¦ on the X-Box 360.          May it serve you well !     - Mister Sinister   ¦
+==============================================================================
+
+                                                (Dedicated to )
+
+Table of Contents
+
+      1.     Introduction and Overview of the Krypt
+      2.     Basic Controls
+      3.     The Four Sections
+      4.     The Krypt Unlockables
+      5.     Credits
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+¦                                   SECTION ONE                              ¦
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+                                      OVERVIEW
+
+The Krypt is presented to players as a series of unlockable objects stored 
+within the game.  Using Koins (the currency of the game) gained through 
+victory in Kombat, players may buy objects in the Krypt, furnishing them with
+additional costumes for existing characters, additional fatalities for 
+kombatants, hidden artwork (concept sketches, renders, speed paintings and
+so on).
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+¦                                   SECTION TWO                              ¦
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+                                   BASIC CONTROLS
+
+Navigating around the Krypt is very simple - you just move the left thumbstick
+in the direction you wish to travel, and the camera pans in that direction.
+
+If you press the Y Button, you will be taken to a map of the entire Krypt, and
+you can use this map to speedily move from one section to the next, should you
+have need.
+
+If you, like me when I played, simply wanted to obtain all the objects in the
+Krypt, then the quickest way to do this is as follows :-
+
+1) Enter the Krypt
+2) Purchase your Item
+3) Press Y to return to the map
+4) Press A to return to the next object for purchasing.
+
+Rinse and repeat, until you either have every item (which costs a total of 
+299,880 Koins if my maths is correct), or you run out, and have to go and win
+some more.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+¦                                 SECTION THREE                              ¦
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+                                THE FOUR SECTIONS
+
+The Krypt is divided up into four main areas, plus the Nekropolis which stands
+at the back (and which is where you can access all the unlocked objects you
+win IN the Krypt).  The four main areas are as follows :-
+
+THE DEADLANDS
+=============
+The Deadlands are a series of gravestones and mausoleums, filled with the
+dead and undead.  You will hear the pitter-patter of tiny feet, and shall 
+intermittently be scared WITLESS by a screaming zombie that sees fit to jump
+up in front of the screen and SCREAM at you at the top of his lungs. *SHIVER*.
+
+All Deadlands Objects are prefixed with "DL" (Deadlands) to denote you are
+in this area.
+
+THE HOLLOW OF INFESTATION
+=========================
+Incidentally this is also referred to in various objects as the HALLOW of 
+Infestation (but I think Hollow is correct).  It is a forest, where unwitting
+travellers have fallen foul to parasites that hang from the trees.  They have
+been ensnared about the throat, and now dangle helpless (and soon to be
+lifeless), awaiting their demise.
+
+All Hollow of Infestation Objects are prefixed with "HI" (Hollow of 
+Infestation) to denote you are in this area.
+
+THE BLOODMARSH
+==============
+The Bloodmarsh is a bog filled with the floating and bloated corpses of fallen
+warriors.  Some fall foul of the fish that inhabit the bog; others the ravens
+that fly about, gorging themselves on the flesh of the dead.  Others just 
+explode (!!)
+
+All Bloodmarsh Objects are prefixed with "BM" (Bloodmarsh) to denote you are
+in this area.
+
+THE MEADOW OF DESPAIR
+=====================
+The Meadow of Despair is a large, open plain filled with poor victims bound to
+torture devices.  Some are to be stretched on the rack until they snap; others
+to be quartered; and yet more to be impaled in an Iron Maiden.  Lush. =[
+
+All Meadow of Despair Objects are prefixed with "MD" (Meadow of Despair) to
+denote you are in this area.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+¦                                 SECTION FOUR                               ¦
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+                             THE KRYPT UNLOCKABLES
+
+So !  Onto the MEAT of this thing.
+
+I am going to present you with a list of all the unlockables, in the order of
+areas as presented above.
+
+Here we go !
+
+THE DEADLANDS
+=============
+DL1   Tombstone 0 Koins - Headless Kombat 808-808
+DL2   Tombstone 680 Koins - Temple Music 
+DL3   Tombstone 1100 Koins - Cage Fatality Sketch 
+DL4   Tombstone 900 Koins - Dead Pool Concept Sketch 
+DL5   Tombstone 1140 Koins - Jade Half Mast Fatality Back, Down, Back, Down, B
+DL6   Tombstone 800 Koins - Stryker Primary Costume Concept 
+DL7   Tombstone 1160 Koins - Reptile Alternate Costume Concept 
+DL8   Tombstone 900 Koins - Pit (Night) Concept 
+DL9   Tombstone 1020 Koins - Wasteland Music 
+DL10  Tombstone 1200 Koins - Blocking Disabled 020-020
+DL11  Tombstone 900 Koins - Cyber Sub-Zero Concept 
+DL12  Tombstone 800 Koins - Jumping Disabled 831-831
+DL13  Tombstone 1150 Koins - Evil Monastery Concept 
+DL14  Tombstone 1000 Koins - Kitana Primary Costume Concept 
+DL15  Tombstone 1200 Koins - Johnny Cage Alternate Costume Concept 
+DL16  Tombstone 800 Koins - Rooftop (Dawn) Concept 
+DL17  Tombstone 1020 Koins - No Blood 900-900
+DL18  Tombstone 960 Koins - Hell Speed Painting 2 
+DL19  Tombstone 1100 Koins - Sonya Fatality Sketch 
+DL20  Tombstone 900 Koins - Scorpion Shadow Render 
+DL21  Tombstone 920 Koins - Ermac Pest Control Fatality
+                                             Towards, Back, Towards, Down, B
+DL22  Tombstone 750 Koins - Tormentor Model 
+DL23  Tombstone 1150 Koins - Sektor Fatality Sketch 
+DL24  Tombstone 880 Koins - Noob Primary Costume Concept Sketch 
+DL25  Tombstone 1020 Koins - Dark Kombat 022-022
+DL26  Tombstone 1100 Koins - Armory Music 
+DL27  Tombstone 1040 Koins - Sonya Primary Costume Concept 
+DL28  Tombstone 1200 Koins - Sheeva Alternate Costume Concept 
+DL29  Tombstone 750 Koins - TaiGore Model 
+DL30  Tombstone 1000 Koins - Kano Fatality Sketch 
+DL31  Tombstone 880 Koins - Raiden Render 
+DL32  Tombstone 1060 Koins - Hyper Fighting 091-091
+DL33  Tombstone 980 Koins - Armory Concept 
+DL34  Tombstone 900 Koins - Baraka Alternate Damage Concept 
+DL35  Tombstone 1200 Koins - Scorpion Fatality Sketch 
+DL36  Tombstone 1160 Koins - Mileena Reveal Render 
+DL37  Tombstone 1040 Koins - Kabal It Takes Guts Fatality 
+                                                 Down, Down, Back, Towards, RT
+DL38  Tombstone 900 Koins - Courtyard (Night) Concept 
+DL39  Tombstone 1000 Koins - Jax Primary Costume Sketch 
+DL40  Tombstone 1080 Koins - Baraka Alternate Costume Concept 
+DL41  Tombstone 880 Koins - Sindel Render 
+DL42  Tombstone 1140 Koins - Flesh Pits Concept 
+DL43  Tombstone 1100 Koins - Health Recovery 012-012
+DL44  Tombstone 800 Koins - Scorpion Reveal Render 
+DL45  Mausoleum 1060 Koins - Dead Pool Victim Concepts 
+DL46  Tombstone 950 Koins - Ermac Primary Costume Concept 
+DL47  Tombstone 1100 Koins - Sektor Alternate Costume Concept 
+DL48  Tombstone 980 Koins - Courtyard (Night) Music 
+DL49  Tombstone 1020 Koins - Courtyard Speed Painting 2 
+DL50  Tombstone 1020 Koins - Kombos Disabled 931-931
+DL51  Tombstone 920 Koins - Scorpion Primary Costume Concept 
+DL52  Tombstone 1000 Koins - Kano Primary Costume Concept 
+DL53  Tombstone 1100 Koins - Hell Fatality Sketch 
+DL54  Tombstone 860 Koins - Shao Kahn's Throne Room Concept 
+DL55  Mausoleum 1060 Koins - DeadPool Speed Painting 1 
+DL56  Tombstone 800 Koins - Stryker Alternate Costume Concept 
+DL57  Tombstone 880 Koins - Desert Speed Painting 2 
+DL58  Tombstone 1080 Koins - Rooftop (Dusk) Music 
+DL59  Tombstone 1100 Koins - Armory Speed Painting 2 
+DL60  Tombstone 820 Koins - Graveyard Speed Painting 1 
+DL61  Tombstone 900 Koins - Desert Music 
+DL62  Tombstone 1020 Koins - Sindel Primary Costume Concept 
+DL63  Tombstone 1500 Koins - Quan Chi Alternate Costume Concept 
+DL64  Tombstone 1180 Koins - Kabal Fatality Sketch 
+DL65  Tombstone 900 Koins - Shao Kahn Render 
+DL66  Tombstone 820 Koins - DeadPool Speed Painting 2 
+DL67  Tombstone 940 Koins - Pit (Day) Concept 
+DL68  Tombstone 820 Koins - Koliseum Speed Painting 2 
+DL69  Tombstone 1200 Koins - Kitana Alternate Costume Concept 
+DL70  Tombstone 1000 Koins - Kabal's Primary Costume Concept 
+DL71  Tombstone 740 Koins - Graveyard Music 
+DL72  Tombstone 1140 Koins - Desert Speed Painting 1 
+DL73  Tombstone 1160 Koins - Disable Foreground Objects 001-001
+DL74  Tombstone 1200 Koins - Sub-Zero Render 
+DL75  Tombstone 800 Koins - Flesh Pits Speed Painting 1 
+DL76  Tombstone 970 Koins - Kabal Fatality Sketch 
+DL77  Tombstone 1100 Koins - Goro's Lair Speed Painting 1 
+DL78  Tombstone 1120 Koins - Jade Render 
+DL79  Tombstone 1300 Koins - Johnny Cage And The Winner Is ... Fatality 
+                                               Down, Towards, Down, Towards, B
+DL80  Tombstone 1200 Koins - Retro Sub-Zero Render 
+DL81  Tombstone 1120 Koins - Flesh Pits Speed Painting 2 
+DL82  Tombstone 1000 Koins - Sonya Alternate Damage Concept 
+DL83  Tombstone 1080 Koins - Power Bars Disabled 404-404
+DL84  Tombstone 820 Koins - Shao Kahn Concept 
+DL85  Tombstone 740 Koins - Soul Chamber Music 
+DL86  Tombstone 1140 Koins - Sheeva Primary Damage Concept 
+DL87  Tombstone 1180 Koins - Mileena Primary Costume Concept 
+DL88  Tombstone 1200 Koins - Kabal Alternate Costume Concept 
+DL89  Tombstone 1060 Koins - Noob Primary Damage Concept 
+DL90  Tombstone 1140 Koins - Courtyard (Day) Concept 
+DL91  Tombstone 1060 Koins - Smoke Primary Costume Concept 
+DL92  Tombstone 1040 Koins - Jax Three Points Fatality 
+                                               Towards, Towards, Back, Down, A
+DL93  Tombstone 900 Koins - Ermac Alternate Damage Concept 
+DL94  Tombstone 640 Koins - Shao Kahn's Throne Room Music 
+DL95  Tombstone 920 Koins - Bell Tower Speed Painting 1 
+DL96  Tombstone 740 Koins - Psycho Kombat 707-707
+DL97  Tombstone 1100 Koins - Bell Tower Speed Painting 2 
+DL98  Tombstone 980 Koins - Hell Music 
+DL99  Tombstone 1040 Koins - Raiden Alternate Damage Concept 
+DL100 Tombstone 1040 Koins - Raiden Primary Costume Concept 
+DL101 Tombstone 920 Koins - Shang Tsung Alternate Costume Concept 
+DL102 Tombstone 1020 Koins - Rooftop (Dusk) Concept 
+DL103 Tombstone 1100 Koins - Kano Alternate Damage Concept 
+DL104 Tombstone 1000 Koins - Cerberus Model 
+DL105 Tombstone 1100 Koins - Unlimited Super Meter 466-466
+DL106 Tombstone 1100 Koins - Sub-Zero Reveal Render 
+DL107 Tombstone 1020 Koins - Goro's Lair Concept 
+DL108 Tombstone 980 Koins - Shang Tsung's Garden (Night) Concept 
+DL109 Tombstone 840 Koins - Sindel Alternate Damage Concept 
+DL110 Tombstone 1060 Koins - Nightwolf Alternate Costume Concept 
+DL111 Tombstone 920 Koins - Courtyard Speed Painting 1 
+DL112 Tombstone 840 Koins - Graveyard Speed Painting 2 
+DL113 Tombstone 1280 Koins - Dream Kombat 222-555
+DL114 Tombstone 740 Koins - Evil Monastery Music 
+DL115 Tombstone 980 Koins - Mileena Primary Damage Concept 
+DL116 Tombstone 1240 Koins - Explosive Kombat 227-227
+DL117 Tombstone 880 Koins - Sheeva Alternate Damage Concept 
+DL118 Tombstone 1000 Koins - Retro Scorpion Render 
+DL119 Mausoleum 1500 Koins - Scorpion Alternate Costume Concept 
+DL120 Mausoleum 1020 Koins - Cyrax Nothing But Net Fatality 
+                                                  Back, Down, Back, Towards, X
+DL121 Tombstone 1000 Koins - Living Forest Speed Painting 1 
+
+THE HOLLOW OF INFESTATION
+=========================
+HI1   Hanging Man 980 Koins - Koliseum Concept 
+HI2   Hanging Man 1000 Koins - Kung Lao Primary Costume Concept 
+HI3   Hanging Man 1080 Koins - Koliseum Speed Painting 1 
+HI4   Hanging Man 920 Koins - Baraka Take A Spin Fatality 
+                                               Towards, Towards, Down, Down, A
+HI5   Hanging Man 760 Koins - Living Forest Concept 
+HI6   Hanging Man 940 Koins - Street Music 
+HI7   Hanging Man 880 Koins - Shao Kahn Damage Concept 
+HI8   Hanging Man 980 Koins - Liu Kang Alternate Costume Concept 
+HI9   Hanging Man 1100 Koins - Cyrax Alternate Damage Concept 
+HI10  Hanging Man 900 Koins - Rooftop (Day) Concept 
+HI11  Hanging Man 1120 Koins - Graveyard Concept 
+HI12  Hanging Man 1080 Koins - Shang Tsung Identity Theft Fatality 
+                                                  Down, Down, Back, Towards, Y
+HI13  Hanging Man 820 Koins - Shang Tsung Alternate Damage Concept 
+HI14  Hanging Man 780 Koins - Armory Speed Painting 1 
+HI15  Hanging Man 1140 Koins - Enhance Moves Disabled 051-150
+HI16  Hanging Man 780 Koins - Soul Chamber Concept 
+HI17  Hanging Man 1000 Koins - Jade Primary Costume Concept 
+HI18  Hanging Man 1100 Koins - Kano Eat Your Heart Out Fatality 
+                                                  Down, Down, Towards, Back, B
+HI19  Hanging Man 960 Koins - Goro's Lair Speed Painting 2 
+HI20  Hanging Man 920 Koins - Sheeva Primary Costume Concept 
+HI21  Hanging Man 750 Koins - Subway Speed Painting 2 
+HI22  Hanging Man 800 Koins - Sonya Alternate Costume Concept 
+HI23  Hanging Man 1060 Koins - Shang Tsung's Throne Room Speed Painting 2 
+HI24  Hanging Man 1050 Koins - XRays Disabled 242-242
+HI25  Hanging Man 960 Koins - Executioner Concepts 
+HI26  Hanging Man 1020 Koins - Bell Tower Music 
+HI27  Hanging Man 820 Koins - Shang Tsung's Garden (Day) Concept 
+HI28  Hanging Man 1180 Koins - Liu Kang The Beast Within Fatality 
+                                                  Down, Down, Towards, Down, B
+HI29  Hanging Man 860 Koins - Bell Tower Concept 
+HI30  Hanging Man 1020 Koins - Quan Chi Fatality Sketch 
+HI31  Hanging Man 1180 Koins - Reptile Alternate Damage Concept 
+HI32  Hanging Man 1140 Koins - Sektor Primary Damage Concept 
+HI33  Hanging Man 1140 Koins - Mileena Alternate Costume Concept 
+HI34  Hanging Man 1120 Koins - Shang Tsung Primary Costume Concept 
+HI35  Hanging Man 940 Koins - Courtyard (Day) Music 
+HI36  Hanging Man 840 Koins - Johnny Cage Primary Damage Concept 
+HI37  Hanging Man 1200 Koins - Quick Uppercut Recovery 303-303
+HI38  Hanging Man 940 Koins - Goro's Lair Music 
+HI39  Hanging Man 1340 Koins - Quan Chi On Your Knees Fatality 
+                                                Down, Towards, Down, Towards, B
+HI40  Hanging Man 880 Koins - Sindel Primary Damage Concept 
+
+THE BLOODMARSH
+==============
+BM1   Floating Man 1080 Koins - Living Forest Speed Painting 2 
+BM2   Floating Man 920 Koins - Mileena Rip Off Fatality 
+                                                   Back, Towards, Back, Down, A
+BM3   Floating Man 800 Koins - Shang Tsung's Throne Room Concept A 
+BM4   Floating Man 750 Koins - Evil Monastery Speed Painting 2 
+BM5   Floating Man 1040 Koins - Noob Alternate Costume Concept 
+BM6   Floating Man 980 Koins - Sonya Render 
+BM7   Floating Man 900 Koins - Noob Alternate Damage Concept 
+BM8   Floating Man 1100 Koins - Noob Saibot As One Fatality 
+                                                     Down, Down, Back, Down, RT
+BM9   Floating Man 880 Koins - Dragon Concept 
+BM10  Floating Man 1120 Koins - Retro Ermac Render 
+BM11  Floating Man 1100 Koins - Rainbow Kombat 234-234
+BM12  Floating Man 940 Koins - Kung Lao Alternate Damage Concept 
+BM13  Floating Man 1040 Koins - Sektor Primary Costume Concept 
+BM14  Floating Man 1220 Koins - Raiden Transplant Fatality 
+                                                Back, Towards, Towards, Down, B
+BM15  Floating Man 900 Koins - Shang Tsung Primary Damage Concept 
+BM16  Floating Man 940 Koins - Shang Tsung's Throne Room Music 
+BM17  Floating Man 750 Koins - Temple Speed Painting 2 
+BM18  Floating Man 960 Koins - Jax Primary Damage Concept Sketch 
+BM19  Floating Man 1200 Koins - Sindel Alternate Costume Concept 
+BM20  Floating Man 1020 Koins - Dead Pool Music 
+BM21  Floating Man 1200 Koins - Sub-Zero Primary Costume Concept 
+BM22  Floating Man 920 Koins - Rooftop (Dusk) Speed Painting 2 
+BM23  Floating Man 980 Koins - Kitana Splitting Headache Fatality 
+                                                Towards, Down, Towards, Back, A
+BM24  Floating Man 1000 Koins - Street Concept 
+BM25  Floating Man 1080 Koins - Shao Kahn's Throne Room Speed Painting 1 
+BM26  Floating Man 900 Koins - Smoke Tremor Fatality 
+                                                   Back, Back, Down, Towards, Y
+BM27  Floating Man 960 Koins - Nightwolf Primary Costume Concept 
+BM28  Floating Man 900 Koins - Soul Chamber Speed Painting 1 
+BM29  Floating Man 950 Koins - Ermac Primary Damage Concept 
+BM30  Floating Man 990 Koins - Sans Power 044-440
+BM31  Floating Man 860 Koins - Liu Kang Primary Costume Concept 
+BM32  Floating Man 950 Koins - Sonya Primary Damage Concept 
+BM33  Floating Man 920 Koins - Shang Tsung's Garden Speed Painting 2 
+BM34  Floating Man 900 Koins - Liu Kang Alternate Damage Concept 
+BM35  Floating Man 1300 Koins - Sonya Blade Kut-Throat Fatality 
+                                                   Down, Back, Towards, Back, B
+BM36  Floating Man 960 Koins - Soul Chamber Speed Painting 2 
+BM37  Floating Man 1100 Koins - Mileena Shadow Render 
+BM38  Floating Man 1200 Koins - Kung Lao Alternate Costume Concept 
+BM39  Floating Man 1000 Koins - Street Speed Painting 2 
+BM40  Floating Man 920 Koins - Nekropolis Concept 2 
+BM41  Floating Man 1140 Koins - Silent Kombat 300-300
+BM42  Floating Man 860 Koins - Living Forest Music 
+BM43  Floating Man 940 Koins - Parasite Victims 
+BM44  Floating Man 1300 Koins - Sindel Mouthful Fatality Back, Towards, Up, Y
+BM45  Floating Man 1000 Koins - Liu Kang Render 
+BM46  Floating Man 940 Koins - Deadlands Concept 2 
+BM47  Floating Man 1200 Koins - Specials Disabled 731-731
+BM48  Floating Man 1140 Koins - Liu Kang Primary Damage Concept 
+BM49  Floating Man 940 Koins - Meadow of Despair Concept 1 
+BM50  Floating Man 1000 Koins - Jade Alternate Costume Concept 
+BM51  Floating Man 1150 Koins - Temple Speed Painting 1 
+BM52  Floating Man 860 Koins - Jade Primary Damage Concept 
+BM53  Floating Man 1150 Koins - Evil Monastery Speed Painting 1 
+BM54  Floating Man 990 Koins - Super Recovery 123-123
+BM55  Floating Man 880 Koins - Nightwolf Alternate Damage Concept 
+BM56  Floating Man 850 Koins - Wasteland Speed Painting 2 
+BM57  Floating Man 900 Koins - Stryker Have A Blast Fatality 
+                                             Down, Towards, Down, Towards, RT
+BM58  Floating Man 920 Koins - Baraka Primary Costume Concept 
+BM59  Floating Man 900 Koins - Nekropolis Concept 1 
+BM60  Floating Man 1190 Koins - Throwing Encouraged 010-010
+BM61  Floating Man 1150 Koins - Temple Concept 
+BM62  Floating Man 820 Koins - Shang Tsung's Garden (Night) Music 
+BM63  Floating Man 1450 Koins - Cyber Sub-Zero Brain Freeze Fatality 
+                                                    Down, Down, Back, Down, X
+BM64  Floating Man 1010 Koins - Tournament Mode 111-111
+BM65  Floating Man 750 Koins - Subway Speed Painting 1 
+BM66  Floating Man 1150 Koins - Reptile Fatality Sketch 
+BM67  Floating Man 1000 Koins - Goro Damage Concept 
+BM68  Floating Man 1200 Koins - Ermac Alternate Costume Concept 
+BM69  Floating Man 1020 Koins - Wasteland Concept 
+BM70  Floating Man 940 Koins - Meadow of Despair Concept 3 
+BM71  Floating Man 1120 Koins - Shang Tsung's Throne Room Speed Painting 1 
+BM72  Floating Man 920 Koins - Scorpion Nether-Gate Fatality 
+                                                       Back, Towards, Back, A
+BM73  Floating Man 960 Koins - Hallow of Infestation Concept 1 
+BM74  Floating Man 1080 Koins - Scorpion Fatality Sketch 
+BM75  Floating Man 960 Koins - Cyrax Render 
+BM76  Floating Man 860 Koins - Reptile Primary Damage Concept 
+BM77  Floating Man 1300 Koins - Zombie Kombat 666-666
+BM78  Floating Man 1150 Koins - Subway Concept 
+BM79  Floating Man 920 Koins - Rooftop (Day) Speed Painting 1 
+BM80  Floating Man 840 Koins - Koliseum Music 
+BM81  Floating Man 980 Koins - Reptile Primary Costume Concept 
+BM82  Floating Man 960 Koins - Smoke Alternate Costume Concept 
+BM83  Floating Man 820 Koins - Mileena Alternate Damage Concept 
+
+THE MEADOW OF DESPAIR
+=====================
+MD1   Rack 820 Koins - Rooftop (Dusk) Speed Painting 1 
+MD2   Iron Maiden 1260 Koins - Nightwolf Ascension Fatality 
+                                                  Down, Down, Towards, Back, X
+MD3   Guillotine 1060 Koins - Living Forest Trees 
+MD4   Guillotine 880 Koins - Flesh Pits Music 
+MD5   Guillotine 840 Koins - Nekropolis Concept 6 
+MD6   Iron Maiden 1200 Koins - Cyrax Alternate Costume Concept 
+MD7   Guillotine 1050 Koins - Cyrax Primary Costume Concept 
+MD8   Rack 920 Koins - Nekropolis Concept 3 
+MD9   Quartered 1260 Koins - Armless Kombat 911-911
+MD10  Guillotine 760 Koins - Rooftop (Dawn) Speed Painting 1 
+MD11  Guillotine 1280 Koins - Sektor The Scarecrow Fatality 
+                                                  Down, Down, Towards, Back, X
+MD12  Guillotine 1000 Koins - Jax Alternate Damage Concept 
+MD13  Iron Maiden 1060 Koins - Meadow of Despair Concept 2 
+MD14  Rack 940 Koins - Raiden Alternate Costume Concept 
+MD15  Iron Maiden 940 Koins - Street Speed Painting 1 
+MD16  Guillotine 840 Koins - Rooftop (Dawn) Speed Painting 2 
+MD17  Rack 900 Koins - Breakers Disabled 090-090
+MD18  Iron Maiden 800 Koins - Pit Bottom Concept 
+MD19  Guillotine 960 Koins - Hallow of Infestation Concept 2 
+MD20  Quartered 1100 Koins - Johnny Cage Primary Costume Concept 
+MD21  Quartered 1300 Koins - Sheeva Lend A Hand Fatality 
+                                                Towards, Back, Towards, Back, B
+MD22  Guillotine 1080 Koins - Desert Concept 
+MD23  Iron Maiden 1180 Koins - Kitana Alternate Damage Concept 
+MD24  Rack 1120 Koins - Jade Alternate Damage Concept 
+MD25  Iron Maiden 1200 Koins - Kano Alternate Costume Concept 
+MD26  Quartered 940 Koins - Rooftop (Day) Speed Painting 2 
+MD27  Rack 800 Koins - Retro Reptile Render 
+MD28  Iron Maiden 1010 Koins - Throwing Disabled 100-100
+MD29  Guillotine 840 Koins - Shang Tsung's Throne Room Concept B 
+MD30  Rack 1100 Koins - Shang Tsung's Garden Speed Painting 1 
+MD31  Iron Maiden 960 Koins - Kung Lao Razor's Edge Fatality 
+                                                   Down, Down, Towards, Back, X
+MD32  Quartered 1040 Koins - Kitana Primary Damage Concept 
+MD33  Rack 1000 Koins - Subway Music 
+MD34  Guillotine 920 Koins - Kano Primary Damage Concept 
+MD35  Guillotine 880 Koins - Baraka Primary Damage Concept 
+MD36  Iron Maiden 1200 Koins - Jax Alternate Costume Concept 
+MD37  Quartered 1000 Koins - Goro Render 
+MD38  Iron Maiden 1060 Koins - Early Krypt Entrance Concept 3 
+MD39  Iron Maiden 1200 Koins - Invisible Kombat 770-770
+MD40  Guillotine 900 Koins - Jax Render 
+MD41  Quartered 820 Koins - Blood Marsh Concept 2 
+MD42  Guillotine 1280 Koins - Reptile Weight Loss Fatality 
+                                                   Down, Down, Towards, Back, X
+MD43  Guillotine 840 Koins - Hell Concept 
+MD44  Iron Maiden 1000 Koins - Shao Kahn's Throne Room Speed Painting 2 
+MD45  Iron Maiden 1280 Koins - Vampire Kombat 424-424
+MD46  Quartered 1120 Koins - Scorpion Primary Damage Concept 
+MD47  Quartered 1200 Koins - Double Dash 391-193
+MD48  Guillotine 940 Koins - Kitana Render 
+MD49  Guillotine 1100 Koins - Skeletal Statues 
+MD50  Guillotine 1040 Koins - Sub-Zero Shadow Render 
+MD51  Iron Maiden 1140 Koins - Sub-Zero Spinal Smash Fatality 
+                                                   Down, Back, Down, Towards, Y
+MD52  Iron Maiden 920 Koins - Pit (Night) Music 
+MD53  Iron Maiden 1100 Koins - Ermac Render 
+MD54  Iron Maiden 1000 Koins - Sub-Zero Alternate Costume Concept 
+MD55  Rack 880 Koins - Scorpion Render

@@ -1,0 +1,2137 @@
+Mortal Kombat Moves List Version 1.45 (06.28.2011)                            
+
+*Kharacter Select Version(Kharacters are listed here in the order 
+where Kharacter is located in the Kharacter Select Screen followed by 
+Hidden Unlockable Kharactes and DLC)*
+
+What's new in this version:
+-New DLC info about Kenshi, who will be released on July 5th.
+-A kombo for a new kharacter Skarlet
+
+
+Key Legends:
+F: Forward
+B: Back
+U: Up
+D: Down
+1: Attack 1 (Square(PS3), X(X-Box 360))
+2. Attack 2 (Triangle(PS3), Y(X-Box 360))
+3. Attack 3 (X(PS3), A(X-Box 360))
+4. Attack 4 (O(PS3), B(X-Box 360)
+
+Universal Attack for All Fighters:
+-Leg Sweep: B+4
+-Throws: Front: F + RB(X-Box 360) / F + R1(PS3), or, F + 1 + 3
+-Throws: Back: B +RB(X-Box 360) / B + R1(PS3), or, B + 1 + 3
+-Throw Escape: Attack 1 or 3 as soon as the characters are locked in 
+a throwing animation with each other
+-Dash in: After an attack, F, F while the animation of your attack is hitting
+your opponent. Vital if you want to perform some of the more complex 
+kombos in the game.
+-Uppercut: D+2
+
+----------------------------------------------------------------
+Alternate Costume:
+As before, the game features alternate costumes for every kharacter. In 
+order to select the chosen fighter's Alternate Costume, simply hit 
+'START' then cycle through the alternate costumes(provided that you 
+have unlocked it from the Necropolis.Then either hitting 'Start' again, or 
+Attack 3 will select the kharacter with it.
+Alternate Costumes are unlocked either via Krypt, or by beating the 
+ladder with the particular character. When you beat the Arcade ladder 
+with that kharacter once, go to Necropolis, and claim it, by moving to 
+that character and select him/her.
+----------------------------------------------------------------
+----------------------------------------------------------------
+Stage Select:
+For the 2 player VS mode(in which you can select by moving  your 
+controller all the way up to 1 Player and moving your stick/direction
+to either left or right, then going down to VS), when you are choosing
+your kharacter, hit Attack 2(Y on 360, and Triangle on PS3), then you get
+to cycle through the arenas you want to fight in.
+----------------------------------------------------------------
+
+
+**NOTE: Babalities must be done at least a Jumps length, and it won't 
+work if you used any blocks in the final round, just like in the old days. 
+HOWEVER, X-ray attacks, which involves Block, ARE allowed**
+
+Power/Super Meters:
+On the bottom of the screen, you will see a meter for you and your 
+opponent. As you attack and take damage, that meter will fill up. 
+
+1 bar filled: Enhanced: Your fighter can perform a longer, more 
+powerful, ENHANCED Special moves. The meter will say 'Enhanced' to 
+let you know that you can perform them. Simply perform your Special 
+Move of your choice but hold the Block along with your attack button.
+2 bars filled: Breaker: When your opponent attacks, if you have the 2 
+bars filled on your meter, holding block and move forward will break 
+your opponent's attack, giving you a breather and a chance to counter.
+3 bars filled: X-Ray: A big X will appear on the side of your meter. 
+Signaling you that you can perform your kharacter's most vicious 
+super attack, called X-Ray. Simply hit your 2 bottom bumpers(LT + RT 
+on X-Box 360, or L2 + R2 on PS3) Simultaneously, or simply hold Block,
+and Attack 3 and 4 together to perform the X-ray attack when you have 
+full meter.
+
+Fatality Distance:
+*Just like in the old 2D days, All Fatalities now require a different 
+distance per fatality in order for them to work*
+
+-Close: Stand next to the opponent
+-Sweep: About 1 to 1 1/2 steps away from your opponent
+-Jumps: The distance where, if you stand next to your opponent, and 
+jump back once.
+-Far/Full Screen: You and your opponent must be at the opposite 
+corner of the screen
+
+----KHARACTER MOVE SETS AND KOMBOS----
+
+---------------------------------------------------------------
+////Scorpion//// 
+---------------------------------------------------------------
+Intro: 'Vengence will be Mine!'
+Alternate Kostume: More spinny looking, and more aggressive look
+Third: DLC of his original MK1 version(Either as a Pre-Order bonus or 
+as in a DLC Pack 1)
+
+Special Moves:
+1) Spear: B,B, 1
+2) Demon Fire: D,B, 2
+3) Teleport: D,B, 3
+4) Takedown: D,B, 4
+
+X-Ray: Scorpion Sting: Punches the jaw of the opponent who drops to 
+the floor, then walk in, and smashes their ribs with a powerful stomp. 
+Does 3 Hits, 30% Damage. Blockable. 
+
+Fatality:
+1) Split Decision: From close, F,D,F, 2 (Scorpion takes out his sword, 
+cuts the victim's thigh horizontally, then the neck, kicks the torso away 
+and splits the falling head in two) 
+2) Hangman: From Sweeps, B,F,B, 3(Scorpion takes out his spear, 
+strikes it on the victim's neck, wraps it around their neck and kicks 
+them into the portal that opens behind them. They go through it and 
+reappear from the second portal in a ripped skin, skeleton form. Their 
+head is hung on the spear)
+3) Klassic: Toasty: From Jumps Length, D,U,U, 2 (Scorpion takes off his
+mask, breathes fire from his skull face that sets the opponent on fire 
+just like his old signature Fatality) (Must have the DLC Costume and 
+Fatality Downloaded in order for this to work) 
+4) Stage: F,U,U, 1
+5) Babality: D,B,F,D, 2
+
+Kombos:
+1) B+2, D,B+3, B,B+1, 1, 1, 1, D,B+4 (7 Hits) 21%
+2) Jump Kick, D,B+3, Dash in, 1, 1, B,B+1, D,B+4 (9 Hits)
+3) B+2, Dash in, D,B+3+Blk(when you have the bar filled), D,B+3, B,B+1,
+2, 1, 1+2 (10 Hits) 
+4) Jump Punch, F+2, 1, B,B+1, Jump Punch, 2, 1+2, D,B+3, Dash in, 1, 1
+, D,B+3, D+1, B,B+1+Blk(when you have the bar filled) (13 Hits)
+5) B+2, Dash in, 1, 1, D,B+3, Dash in, Uppercut (5 Hits)
+6) B,B+1, 3, 3, D,B+4 (5 Hits)
+7) 1, 1, B,B+1, Dash in, B+2, Dash in, 2, 1, 2(8 Hits) 30% Damage
+8) 1, 1, B,B+1, U+1, Dash in, B+2, Dash in, 3, 3, 4 (8 Hits) 28% Damage
+9) 1, 1, B,B+1, U+1, Dash in, 1, 1, X-Ray 
+10) 3, 3, B,B+1, U+1, Dash in, B+2, Jumping 3, Air Throw (8 Hits) 33% 
+Damage
+
+Win Pose: Teleports through the ground and into the hell then looks at 
+you
+
+---------------------------------------------------------------
+////Liu Kang////
+---------------------------------------------------------------
+Intro: 'Show Me What You Can Do'
+Alternate Kostume: No longer topless, Shaolin Warrior Costume  
+
+Special Moves:
+1) High Fireball: B,F, 1
+2) Low Fireball: B,F, 3
+3) Flying Dragon Kick: B,F, 2
+4) Bicycle Kick: B,B,F, 4
+5) Parry: D,B, 1
+
+X-Ray: Chin Up: Uppercuts you then quickly follows with his kick to 
+your neck. 4 Hits, 30% damage. Doesn't do as much damage as most 
+other kharacters.
+
+Fatality:
+1) Fist of Flame: From Sweeps, F,B,D,D, 3(Liu Kang shoves his hand 
+deep into the victim's chest, takes out a still beating heart, much like 
+what Kano had in MK1)
+2) The Beast Within: From Jumps, D,D,F,D, 4(Liu Kang turns into a giant
+dragon, and like he did back in MK2, bites off the torso of the victim and
+this time swallows it.)
+3) Stage: D,D,D, 1
+4) Babality: D,D,D, 4 
+
+Kombos: 
+1) B+3, 1, 2, B,B,F+4 (9 Hits) 25% Damage
+2) B+3, 1, 2, B,B,F+4+Blk(If you have the meter) (11 Hits) 30% Damage
+3) F+4, 3, B,F+2+Blk(If you have the meter) (3 Hits) 17% Damage
+4) Jumping 2, 2, 1, 3, B,B,F+4+Blk(If you have the meter) (12 Hits) 30% 
+Damage 
+5) 1, 2, B+1, Jump Kick, Air Fire (5 Hits) 21% Damage
+6) 1, 2, B+1, Dash in, B+3, 1, 2, B,B,F+4 (12 Hits) 29% Damage
+7) 1, 2, B+1, Dash in, B+3, 1, 2, B,B,F+4+Blk(If you have the meter) (14 
+Hits) 33% Damage
+8) B+3, 1, 2, Move in, B+3, 1, 2, Move in, B+3, 1, 2, Move in, B+3, 1, 2 (12
+Hits) 38% Damage
+9) B+3, 1, 2, Dash in, F+2, 4, X-ray (9 Hits) 41% Damage
+
+Win Pose: Creates a miniature dragon on this hand.
+
+----------------------------------------------------------------
+////Kung Lao////
+----------------------------------------------------------------
+
+Intro: 'For the Shaolin!'
+Alternate Kostume: Sleeveless Shirt rather than a vest
+
+Special Moves:
+1) Hat Toss: B,F, 2
+2) Ground Roll: D,B, 2
+3) Spin: D,F, 1
+4) Dive Kick: D+4 in air
+5) Teleport: D,U
+
+X-Ray: Fist of Shaolin: Strikes his palm down on your neck that make 
+you bend your head in agony then he strikes his palm down again on 
+your back neck. Does 4 Hits, 31% Damage
+
+Fatality:
+1) Hat Trick: From Jumps, B,F,F,B, 2(Kung Lao throws his hat that goes 
+past the victim and comes back like a boomerang that cuts off the 
+victim's head to the ground. Kung Lao that catches his hat and slices 
+the headless victim down the middle in half.)
+2) Razor's Edge: From Sweeps, D,D,F,B, 1(Kung Lao kicks the 
+opponent down, who faces up on the ground. Takes off his hat and 
+plants it on the ground in between the victim's legs. Kung Lao then 
+grabs victims legs, and slowly pulls them toward him, slicing them in 
+half, he then grabs the 2 piece and holds it side by side as a trophy)
+3) Stage: D,F,D, Block
+4) Babality: D,F,D, 2 
+
+Kombos:
+1) 1, 1, 2, D,F+1, Jump Kick, Dive Kick, F+3, D,F+1 (8 Hits) 26% Damage
+2) 1, 1, 2, D,F+1, Dive Kick, Dash in, 1, Dash in, 2, 4, 1+2 (9 Hits) 27% 
+Damage
+3) D,U+3, 2, 1, 2, 1, 2 (8 Hits) 25% Damage
+4) D,U+3, 1, 1, 2, D,F+1, Jump Kick, Dive Kick, F+3, X-Ray, Dash in, 2, 4,
+1+3 (15 Hits) 52% Damage
+5) B+3, 3, D,F+1, Dive Kick, Dash in, 1, Dash in, 2, 4, 1+3 (8 Hits) 24% 
+Damage
+6) 2, 4, D,F+1, Dive Kick, Dash in, 1, B,F+2+Blk(If you have the meter), 
+Dash in, 1, Dash in, 2, 4, 1+3 (10 Hits) 
+34% Damage
+7) 1, 1, 2, D,F+1, Jump Kick, Dive Kick, F+3,  X-Ray, Dash in, 2, 4, 1+3 
+(14 Hits) 46% Damage
+8) 2,1,2,1,2, D,F+1, Jump Kick,  Dive Kick, F+3 (10 Hits) 24% Damage
+9) 1, 1, 2, D,F+1, Dive Kick, Dash in, 1, B,F+2+Blk(If you have the meter), 
+Dash in, 1, Dash in, 2, 4, 1+2 (11 Hits) 33% Damage
+10) D,U+3, 1, 1, 2, D,F+1. Dive Kick, Dash in, 1, Dash in, 2, 4, 1+3 (10 
+Hits) 33% Damage
+11) Jump Punch, 1, 1, 2, D,F+1, Dash in, 1, Dash in, 1, 1, 2, B,F+2+Blk(If 
+you have the meter), Dash in, 1, Jump Kick, Enhanced Dive Kick(If you 
+have the meter) (15 Hits)
+12) Jump Kick, Enhanced Dive Kick(if you have the meter), Dash in, 2, 4,
+ 1+2, 2 (8 Hits)
+
+Win Pose: His same MK2-MK3 win pose. 
+
+Note: Kung Lao is one of the few character who can duck to avoid 
+Shao Kahns' Hammer Throw
+
+----------------------------------------------------------------
+////Sub-Zero////
+----------------------------------------------------------------
+
+Intro: 'This Fight will be your last'
+Alternate Kostume: Sleeveless Ninja Costume
+Third: DLC of his original MK1 version(Either as a Pre-Order bonus or 
+as in a DLC Pack 1)
+
+Special Moves:
+1) Iceball: D,F, 3
+2) Slide: B,F, 4
+3) Ice Clone: D,B, 1
+4) Ice Puddle: D,B, 3
+
+X-Ray: Deep Freeze: Magically grabs their internal organ that actually 
+gets frozen, then headbutts the opponent. Does 3 Hits, 33% Damage
+
+Fatality:
+1) Have An Ice Day: From Sweep, B,F,D,F, 4(Sub-Zero freezes the 
+lower part of the victim's body, then rips off their torso)
+2) Spinal Smash: From Sweeps, D,B,D,F, 2(Sub-Zero rips out the 
+spine cord from the victim, freezes the victim with the other hand, and 
+strikes it that shatters it. He still hold the spine in his hand after that)
+3) Klassic: From Close, F,D,F, 2 (Must have the DLC Costume and 
+Fatality Downloaded in order for this to work) 
+4) Stage: F,D,B, 2
+5) Babality: D,B,D, 4
+
+Kombos:
+1) 1, D,F+3, 2, 1, 4, B,F+4 (6 Hits)
+2) 2, 2, D,F+3, F+3, 4 (5 Hits)
+3) D,B+3, B+1, 2, 1 (4 Hits)
+
+Win Pose: Faces the screen and shoot the iceball that freezes the 
+screen and then cracks.
+
+----------------------------------------------------------------
+////Sindel////
+----------------------------------------------------------------
+
+Intro: 'You are Pathetic and weak!'
+Alternate Kostume: Black Costume with more of an evil-queen look like 
+Costume, with the ponytailed hair.
+
+Special Moves:
+1) Fireball: D,F, 1
+2) Low Fireball: D,F, 3
+3) Yell: D,B, 2
+4) Levitate: D,D,U
+5) Hair Whip: D,F, 2
+6) Step Up: D,F, 4
+
+X-Ray: Queen B: Using her long hair, grabs one of victim's legs and 
+strikes her elbows down on it. Does 4 Hits 31% Damage. must be blocked 
+low.
+
+Fatality:
+1) Migrain: From Sweeps, B,F,D,F, 1(Sindel yells right into the victim's 
+ears. Victim's eyes gets widened and explode seconds later)
+2) Mouthful: From Sweeps, B,F,U, 2(Sindel Screams and creates some
+kind of purple spear on her hand, which she shoves it into the mouth 
+of the victim, whose head pops up) 
+3) Stage: D,D,D, 1
+4) Babality: D,D,D,U
+
+Kombos: 
+1) B+1, 2, Dash in, F+1, 2, D,F+2 (6 Hits) 22% Damage
+2) B+3, F+2, Dash in, F+1, 2, 4 (5 Hits) 23% Damage
+3) 4, 4, B+1, 2, Dash in, 1, 1, 1, D,F, 2 (9 Hits) 27% Damage
+4) B+1, 2, D,B+2, Dash in, B1, 2, Dash in, D,F+2+Blk(If you have the 
+meter filled) (10 Hits) 27% Damage
+5) Jumping 1, B+3, F+2, Dash in, 2, 2, D,F+2 (9 Hits) 31% Damage
+6) B+3, F+2, Dash in, F+1, 2, X-Ray(If the meter is full) (7 Hits) 39% 
+Damage
+7) B+1, 2, Dash in, F+1, 2, X-Ray(If the meter is full) (7 Hits) 37% 
+Damage
+8) Jump Punch, 2, 1, D,B+2, 4, 4, 2, 2, Dash in, 2, 2, 2, D,F+2+Blk(If you 
+have the meter) (16 Hits)
+9) B+3, F+2, Jump Punch, 2, 1, D,F+4+Blk(If you have the meter) (10 Hits)
+
+Win Pose: Floats in air
+
+----------------------------------------------------------------
+////Ermac////
+----------------------------------------------------------------
+
+Intro: 'We are Many, You are but One'
+Alternate Kostume: More black in color, with a hood on his head.
+Third: DLC of his original MK1 version(Either as a Pre-Order bonus or 
+as in a DLC Pack 1)
+
+Special Moves:
+1) Forceball: D,B, 2
+2) Airblast: D,B, 2 in air
+3) Force Port: D,B, 4
+4) Force Lift: D,B, 3
+5) Hover Slam: D,D,U
+6) Force Push: B,F, 3
+
+X-Ray: Cannonball Slam: Lifts you up and slams you head first onto the
+ground, floats in air, and stomps on your 
+back hard. 3 Hits, 35% Damage. 
+
+Fatality:
+1) Mind Over Splatter: From Jumps, D,U,D,D, Block(Ermac 
+telekinectically lifts the vicitm, tears their arms and legs, then smashes 
+them on the ground head first)
+2) Pest Control: From Jumps, F,B,F,D, 4(Ermac shrinks the victim down,
+then steps on them and shoves it off like a cigarette butt)
+3) Stage: D,U,D,D, 3
+4) Babality: D,D,B,D, 2
+
+Kombos:
+1) B+1, D,B+3, Dash in, B+1, 1, D,B+3 (10 Hits) 24% Damage
+2) 3, 1, D,B+1, D,B+4, B,F+1 (7 Hits)
+3) 2, 2, D,B+3, 2, 2, D,B+2 (7 Hits) 32% Damage
+4) Jumping 2, 2, 2, D,B+3, U+3, D,B+4, X-Ray (10 Hits) 54% Damage
+5) D,B+1, Dash in, 1, 2, 1, D,B+2 (6 Hits)
+6) Jumping 2, 2, 2, D,B+3, Dash in, 2, 2, D,B+2 (8 Hits) 35% Damage
+7) Jump Punch, 3, 1, D,B+3, Jump Punch, D,B+4, Dash in, 2, 2, D,B+3 
+(12 Hits)
+8) Jump Punch, B+1, 2, F+1, D,B+4, Dash in, 2, 2, D,B+3, Jump Punch, 
+D,B+4, D+1, B,F+3 (15 Hits)
+9) B+1, 1, D,B+3, Jump, Air Blast (7 Hits) 22% Damage
+10) Jumping 2, 2, 2, D,B+3, B+1, X-Ray (10 Hits) 48% Damage
+11) 2, 2, D,B+3, U+3, B,F+3, D,B+3+Block(If you have the meter) (9 Hits) 
+33% Damage
+
+
+Win Pose: Floats in the air
+
+Note: Ermac is one of the few character who can duck to avoid Shao 
+Kahns' Hammer Throw
+
+----------------------------------------------------------------
+////Reptile////
+----------------------------------------------------------------
+
+Intro: 'Rawww'
+Alternate Kostume: Similar but with more colors for his ninja part of the 
+costume.
+Third: DLC of his original MK1 version(Either as a Pre-Order bonus or 
+as in a DLC Pack 1)
+
+Special Moves:
+1) Slow Force Ball: B,B, 1
+2) Fast Force Ball: B,B, 3
+3) Slide: B,F, 4
+4) Acid Hand: D,B, 2
+5) Invisibility: D,U, 4
+6) Acid Spit: D,F, 1
+7) Elbow Dash: B,F, 2
+
+X-Ray: Tricky Lizard: Pokes your eyes with his fingers HARD!!!, Snaps 
+your neck, then kicks your stomach HARD!!! Does 4 Hits, 30% Damage
+
+Fatality:
+1) Acid Yak: From sweeps, F,F,D,U, 3(Reptile forcefully opens victim's 
+mouth and vomits the acids into it. Reptile, them rips their still beating 
+heart out)  
+2) Weight Loss: From Sweeps, D,D,F,B, 1(Reptile disappears, then cuts
+the victims throat(blood gushing out), then the stomack, reappears, 
+and with his forceball in hand, strikes it on the victim's torso which 
+melts and explodes.)
+3) Klassic: Yummy: From Jumps, B,B,F,D, Block(Reptile takes off his 
+mask, and just like what he did in MK2, shoot his tongue to the victim, 
+rips their head off and swallows it in whole)(Must have the DLC Costume
+and Fatality Downloaded in order for this to work) 
+4) Stage: F,D,D, Block
+5) Babality: B,F,B,D, 3
+
+Kombos:
+
+1) 1, 2, 2, B,B+1, 3, 2, B,B+3, Uppercut (8 Hits) 29% Damage
+2) 1, 2, 2, B,B+1, 3, 2, B,B+3, 3, 2, 1, B,F+4 (11 Hits) 33% Damage
+3) 1, 2, 2, B,F+2 (5 Hits), 17% Damage
+4) 1, 2, 2, Enhanced Acid Ball(If you have the meter), Dash in, 3, 2, 
+B,B+1, 3, 2, 1, B,F+4+Blk(If you have the meter) (13 Hits) 32% Damage
+5) 3, 2, 1, Dash in, 3, 2, B,B+3, Uppercut (7 Hits) 34% Damage
+6) 3, 2, 1, Dash in, 3, 2, B,B+3, Jumping 2, 1, B,F+4 (10 Hits) 38% 
+Damage
+7) 3, 2, 1, Dash in, Jumping 1, 3, 2, B,B+3, 3, 2, 1, B,F+4 (11 Hits) 41% 
+Damage
+8) B,B+3, B,B+1, 1, 2, 2, 1 (6 Hits)
+9) Jump Punch, 3, 2, D,B+2+Blk(If you have the meter), Dash in, F+3, 
+1+2
+
+Win Pose: Looks at you in 3D, and shoots his long tongue at you and 
+shakes his head like a lizard.
+
+**SECRET BATTLE: FIGHT KLASSIC Reptile(with MK1 style Scorp and 
+Sub powers): In the 'Pit' stage, when there is something going by the 
+moon, beat your opponet double flawless and finish him/her with a 
+fatality as in the original MK1 secret battle, then you will get to fight 
+him**
+
+----------------------------------------------------------------
+////Kitana////
+----------------------------------------------------------------
+
+Intro: 'You will learn Respect!'
+Alternate Kostume: Unmasked in a blue 2 piece costume.
+Third: DLC of her UMK3 version(Either as a Pre-Order bonus or as in 
+a DLC Pack 1)
+
+Special Moves:
+1) Fan Toss: D,F, 1 (also in air)
+2) Upraise: B,B, 2
+3) Cutting Fan: D,F, 2
+4) Square Boost: D,B, 1
+5) Pretty Kick: D,B, 3
+6) Fake Out Kick: D,B, 4 
+
+X-Ray: Big Fan: With her unfolded Fan, she plants it deep into the back
+skull of the victim, then repeats on their skull forhead. This X-Ray can 
+be done in the air as well, though it can be blocked. Does 4 Hits, 31% 
+Damage
+
+Fatality:
+1) Fan Opener: From Sweep, D,D,B,F, 2 (Kitana takes out her fans, 
+slices down her victim's 2 arms, then cut off the victim's head)
+2) Splitting Headache: From Sweep, F,D,F,B, 3(Kitana takes out her 
+folded fan, impales one on the victims stomach, cuts vertically up a bit,
+takes it out and with the other folded fan, striked on the middle of the 
+victim's head, that gets splited verically in two and the victim falls down)
+3) Stage: From Close: F,D,D, 3
+4) Babality: F,D,F, 4
+
+Kombos:
+1) F+3, 1, B,B+2, Jump Kick, Air Fan, Jump Punch, Jump Kick, Air Fan 
+(9 Hits)
+2) Jump Punch, 2, 1, D,F+1+Blk(If you have the meter, and hold 2 for 2 
+seconds to charge it), F or B to cancel the charge, Dash in, 3, 3, 
+D,B+3 (9 Hits)
+3) F+2, 1, 1, 1, 2 (5 Hits)
+4) F+4, 1, Dash in, B+3, 3, B,B+2, Dash in, Jump Kick, Air Fan, Dash in, 
+Jump Kick, Charged Air Fan, Cancel, D,F+2 (11 Hits)
+5) 2, 1, B,B+2, D,B+2 (4 Hits)
+
+Win Pose: Covers her face with the fan, then slowly reveals it with a 
+cute wink!!
+
+Note: Kitana is one of the few character who can duck to avoid Shao 
+Kahns' Hammer Throw
+
+----------------------------------------------------------------
+////Johnny Cage////
+----------------------------------------------------------------
+
+Intro: 'I make this look Easy!'
+Alternate Kostume: Suit
+
+Special Moves:
+1) Low Fireball: D,F, 2
+2) High Fireball: D,B, 1
+3) Flip Kick: D,B, 3
+4) Shadow Kick: B,F, 4
+5) Nut Punch: B,D, 4
+
+X-Ray: Ball Buster: Punchs the opponent's nut, then hops and elbows
+the back of the crouched opponent. Can be easily blocked, but it does
+4 Hits, 38% Damage if it connects.
+
+Fatality:
+1) Heads Up: From Close F,F,B,D, 3 (Johnny pulls off the opponents 
+head with his hands like he did in MK1, and then pulls out the victim's 
+torso and throws it on the ground, that make the head on the ground pop
+up that Johnny catches it).
+2) And the Award Goes to: From Jumps, D,F,D,F, 4(Johnny strikes down 
+his palm in the middle of the opponent's head that splits it, then takes out
+an Oscar trophy, saids 'And the award goes to....' and WHAM, plants the
+ trophy into the middle of the splited head, then gently pushes with his 
+finger, then the still standing victim, drops down to the floor)
+3) Stage: D,B,F, Block
+4) Babality: F,B,F, 4
+
+Kombos:
+1) B+2, Dash in, B+3, 1, 1, D,F+2+Blk(If you have the meter), B,F+4+Blk(If
+you have the meter) (10 Hits)
+2) 2, 2, F+2, Dash in, 4, 4, D,B+3+Blk(If you have the meter) (9 Hits)
+3) 2, 1, F+2, B,F+4 (4 Hits)
+4) Jump Punch, F+4, Dash in, 1, 1, Dash in, 1, 1, Dash in, 1, 1, dash in,
+4, 4, B,F+4+Blk(If you have the meter) (15 Hits)
+5) F+3, 3, B+3, B,D+1 (5 Hits)
+6) Jump Punch, 2, 1, D,B+3 (6 Hits)
+7) U+1, Dash in, F+4, Dash in, F+3, 3, 3, D,B+3+Blk(If you have the meter)
+(9 Hits) 32% Damage
+8) Hop Punch(while decending), Dash in, 1, 1, Dash in, 1, 1, Dash in, 
+1, 1, Dash in, B,F+4 (9 Hits) 30% Damage
+9) F+4, F+4, 1, 1, 1, 1, 1, B,D+4 (8 Hits) 34% Damage
+
+Win Pose: His Sunglasses break and drop to the floor, he immediately 
+takes out another pair, wears it and say 'Oh Yeah!
+
+----------------------------------------------------------------
+////Jade////
+----------------------------------------------------------------
+
+Intro: 'This will be easy'
+Alternate Kostume: Maskless, Bikini Clad
+Third: DLC of her UMK3 version(Either as a Pre-Order bonus or as in a
+DLC Pack 1, Used to be PS3 exclusive, not anymore. You can get it as 
+in a DLC Pack 1 for both systems)
+
+Special Moves:
+1) Boomerang: D,F, 3
+2) Boomerang Up: D,B, 3
+3) Boomerang Down: D,F, 3
+4) Shadow Kick: D,F, 4
+5) Shadow Flash: B,F, 3
+6) Staff Overhead: D,B, 2
+7) Staff Grab: D,F, 2
+
+X-Ray: Staff Buster: Using her staff, she pokes the nut of the opponent 
+from their back, then smashes her staff on their back
+
+Fatality:
+1) Head-A-Rang: From Full Screen Distance, U,U,D,F, 1(Jade throws 
+her razor-rang from a distance that cut off the opponent's head. Jade 
+then slide dashes at them with a power kick to their stomach, and 
+catches the falling head)
+2) Half Mast: From Sweeps, B,D,B,D, 4(Jade takes out her staff, kicks 
+the victim high in the air, plants the staff on the ground. Victim falls 
+down and get impaled in the stomach. Jade then rips off their head and
+plants it on the top of the staff as a trophy)
+3) Stage: B,F,D, Block
+4) Babality: D,D,F,D, 4
+
+Kombos:
+1) Jumping 1, B+1, D,B+2, Dash in, B+2, Dash in, 1, 2, Dash in, 
+Uppercut (9 Hits) 35% Damage
+2) 3, 4, D,F+1+Blk(If you have the meter), D,F+4+Blk(If you have the Meter),
+D,F+4 (7 Hits)
+3) Jump Punch, 3, D,B+2, Dash in, F+2, 1, D,F+4, Dash in, D+1, D,F+4 
+(8 Hits)
+4) Jump Punch, B+1, D,B+2, Dash in, B+2, Dash in, 2, 3, D,F+3+Blk(If you
+have the meter) (10 Hits)
+5) 2, 3, F+2, D,F+4, D,F+4 (5 Hits)
+6) Jumping 1, B+1, D,B+2, Dash in, B+2, D,F+2+Blk(If you have the meter)
+(10 Hits) 34% Damage
+7) Jumping 1, B+1, D,B+2, Dash in, B+2, U+3 (8 Hits) 32% Damage
+8) Jumping 1, B+1, D,B+2, Dash in, 1, 2, 1, D,F+2 (11 Hits) 34% Damage
+9) Jumping 1, B+1, D,B+2, Dash in, B+2, Dash in, 1, 2, Dash in, 1, 2, D,
+F+4 (12 Hits) 36% Damage
+10) Jumping 1, B+1, D,B+2, Dash in, B+3, 2, X-Ray (8 Hits)
+
+Win Pose: Plants her staff on the ground, and seductively dance down
+around it and sits on the ground.
+
+**SECRET BATTLE: FIGHT KLASSIC JADE(with her klassic MK2 version 
+with Kitana's fan as her weapon and invulnerability to any projectiles 
+as she was when she debuted in MK2 as a secret kharacter): Beat 
+every kharacter without losing a round, then beat Shang Tsung Double
+Flawless and finish him with a Fatality**
+
+----------------------------------------------------------------
+////Mileena////
+----------------------------------------------------------------
+
+Intro: 'Ah Ha Ha Ha, Let Us Dance!!'
+Alternate Kostume: MKD Primary Kostume version
+Third Kostume: DLC of her UMK3 version(Either as a Pre-Order bonus 
+or as in a DLC Pack 1)
+Fourth Kostume: Flesh Pit Mileena, which you can unlock for 
+completing the Challenge Tower.
+
+Special Moves:
+1) Sai Blast: B,F, 1
+2) Teleport Drop: F,F, 3
+3) Leaping Neckbite: B,F, 2
+4) Ball Roll: B,D, 4
+
+X-Ray: Femme Fatale: Stabs the sais on the victim's torso number of 
+times, and knees their head. Does 7 Hits, 33% Damage, but can be 
+blocked. 
+
+Fatality:
+1) Be Mine: From Jumps Distance, B,F,B,F, 2 (Mileena throws her sais 
+into the chest of the victim from some distance, walks in close, softly 
+grabs the victims head, turns it toward her affectionately, then Wham... 
+Rips it off. Mileena takes off her mask, revealing her razor shart teeth, 
+drinks the blood before tossing the head down to the floor)
+2) Rip Off: From Jumps, B,F,B,D, 3(Mileena throws her sais from a 
+distance one at a time that gets planted on the feet of the victim, much 
+like one of Kira's Fatality in Deception, walks in and violently rips the body
+off, leaving only the lower part of their legs below the knee, and smashes
+it onto the ground)
+3) Stage: D,D,D, 1
+4) Babality: D,D,F,B, 2
+
+Kombos:
+1) U+4, Dash in, 3, 4, B,F+2 (8 Hits)
+2) U+4, F+3, 1+2, B,D+4, Jump Kick, F,F+3+Blk(If Meter is Available), 
+F,F+3, B,F+1 into B,F+1+Blk(If Meter is there) (9 Hits)
+3) Jump Punch, 4, 2, F,F+3 (4 Hits)
+4) Jump Punch, 2, 3, B,D+4, U+4, Dash in, 1, 1, 2, B,F+2 (15 hits)
+5) Jump Punch, B+1, 4, 4, B,D+4+Blk(If Meter is there), F+3, 1+2, B,F+2 
+(15 Hits)
+6) U+4, U+4, 2, 3, B,D+4, 3, 4 (7 Hits) 31% Damage
+7) U+4, U+4, 1, 1, 2, B,D+4, 1, 1,  2 (9 Hits) 32% Damage
+8) U+4, U+4, 1, 1, 2, B,D+4, 1, 1, B,F+2 (10 Hits) 32% Damage
+9) 2, 3, B,D+4, 3, 4, F,F+3, B,F+1 (8 hits) 34% Damage
+10) 2, 3, B,D+4, U+4, 1, 1, X-Ray (13 Hits) 42% Damage
+
+Win Pose: Jumps up to the screen in 3D and knaws violently.
+
+Note: Mileena is one of the few character who can duck to avoid Shao 
+Kahns' Hammer Throw
+
+----------------------------------------------------------------
+////Nightwolf////
+----------------------------------------------------------------
+
+Intro: 'Ancestors, Give Me Strength'
+Alternate Kostume: More Native American look that sports a big 
+wolf-hood that comes down all the way down to his back and shirtless
+that make him look more Native-American.
+
+Special Moves:
+1) Shoulder: F,F, 4
+2) Lightning: D,B, 3
+3) Arrow Shoot: D,B, 1
+4) Reflect: D,B, 2
+5) Axe Swing: D,F, 3
+6) Choke: D,F, 2
+
+X-Ray: Ancestor's Call: Plants his Tomahawks on the shoulder of the 
+victim from behind, and kick their back. Does 3 Hits, 34% Damage
+
+Fatality:
+1) Little Off the Top: From Jumps, D,F,D,B, 4(Nightwolf throws one of his 
+Tomahawk at the opponent, that gets impaled on their head, then 
+throws another that cuts their neck. Nightwolf walks in close and picks 
+up the head)
+2) Ascension: From Sweeps, D,D,F,B, 1(Nightwolf receives a bolt of 
+lighting that strikes his 2 tomahawks, plants his tomahawks on the 
+shoulder of the victim, then, a blue beam of light comes out, engulfs 
+the victim and peels the skin off, leaving the skeleton muscles 
+remaining that falls down)
+3) Stage: D,D,D, Block
+4) Babality: F,B,F,B, 1
+
+Kombos: 
+1) F+3, 1, D,F+1, 1, 1, D,B+1, F,F+4+Blk(If you have the meter) (8 Hits)
+2) B+1, 1, 1, D,F+3, B+1, D,F+1+Blk(If you have the meter), Dash in, 1, 
+D,F+2 (10 Hits)
+3) B+1, 1, 1, F,F+4+Blk(If you have the meter) (6 Hits)
+4) Jumping Punch, F+3, 1, D,F+1+Blk(If you have the meter), B+1, 
+D,F+1+Blk(If you have the meter), Dash in, D,F+2 (13 Hits)
+5) F+3, 1, D,F+1, 1, D,B+1 (5 Hits)
+6) 1, 2, 2, D,F+3, D,F+3, Dash in, 1, D,F+3+Blk(If you have the meter), 
+D,B+3+Blk(If you have the meter), D,F+2 (11 Hits) 41% Damage
+7) 1, 2, 2, D,F+3, B+2, D,F+3, F,F+4 (7 Hits) 31% Damage
+8) F+3, 1, D,F+3, B+2, 2, D,F+3, F,F+4 (7 Hits) 31% Damage
+9) F+3, 1, D,F+3, D,F+3, Dash in, 1, D,F+3+Blk(If you have the meter), 2, 
+D,F+2+Blk(If you have the meter) (12 Hits) 40% Damage
+10) Jumping 2, B+2, 2, D,F+3, D,F+3, Dash in, 1, D,F+3+Blk(If you have 
+the meter), D,B+3+Blk(If you have the meter), D,F+2 (11 Hits) 45% 
+Damage
+11) 1, 2, 2, D,F+3, D,F+3, Dash in, 1, X-Ray (9 Hits) 47% Damage
+12) Jumping 2, B+2, 2, D,F+3, B+2, X-Ray (8 Hits) 51% Damage
+
+Win Pose: Plants his Tomahawks on the ground on each side, 
+raises his hands, then the beam of light comes down and takes him 
+away.
+
+----------------------------------------------------------------
+////Cyrax////
+----------------------------------------------------------------
+
+Intro: 'Safe is Disabled, Kombat Mode Engaged'   
+Alternate Intro: 'I'll Kill You If I have to'
+Alternate Kostume: Human, non-robo version
+3rd Kostume: MK3 inspired. Avaliable as DLC Now. 
+
+Special Moves:
+1) Bomb(Close): B,B, 4
+2) Bomb(Medium): F,F, 4
+3) Bomb(Far): B,B,F, 4
+4) Net: B,B,3
+5) Teleport: D,B,1
+6) Buzzsaw: B,F, 2
+7) Reverse Kick: D,F, 3
+
+X-Ray: Cyberdriver: Shoots up the bomb that lifts the victim up, kicks 
+the victim and catches them in air, smashes them on the ground head 
+first. Does 3 Hits, 30% Damage 
+
+Fatality:
+1) Buzz Kill: From Close, F,D,F,B, 2(Cyrax creates a sharp spinning 
+blade from one of his robot arm, cuts the victim down several times with
+it and kicks the torso away)
+2) Nothing But Net: From Jumps, B,D,B,F, 1(Cyrax Shoots his net to the 
+Victim, that makes them twitch a few seconds, that later explode to 
+thousand pieces)
+3) Stage: D,U, Block
+4) Babality: D,F,B, 2 
+
+Kombos:
+1) Jumping 2, 1, 2, B,B+3, B+2, Dash in, Dash in, 1, 2 (7 Hits) 20% 
+Damage
+2) Jumping 2, 1, 2, B,B+3, Jumping 2, 1, 2, 3 (7 Hits) 22% Damage
+3) B+2, Dash in, 1, 2, D,F+2(Opponent must be in air) (5 Hits)
+4) Jumping 2, 1, 2, B,B+3, B+2, Dash in, Dash in, 1, 2, B,B+4+Blk(If you 
+have the meter), Dash in, 3, 3, B,B+4+Blk(If you have the meter), Dash 
+in, 3, 3, B,B+4+Blk(If you have the meter) (18 Hits) 38% Damage
+5) Jumping 2, 1, 2, B,B+3, Jumping 2, 1, 2, 1 (7 Hits) 23% Damage
+6) Jumping 2, 1, 2, B,B+3, Jumping 2, 1, 2, 3, D,F+3+Blk(If you have the 
+meter) (10 Hits) 31% Damage
+7) Jump Punch, 2, 1, B,B+4+Blk(If you have the meter), Dash in, 3, 3, 
+B,B+3, Jump Punch, Dash in, 1, 2, D,F+2(Opponent must be in air) 
+(13 Hits)
+8) Jump Punch, 3, 3, B,B+3, Jump Punch, 1, 2, 1, D,F+3, D+3, 
+D,F+3+Blk(If you have the meter) (13 Hits)
+
+Win Pose: Drops the bomb, which explodes, that cracks the screen....
+
+----------------------------------------------------------------
+////Noob////
+----------------------------------------------------------------
+
+Intro: 'Fear Me'
+Alternate Kostume: Black, Klassic ninja-like mask and Kostume.
+
+Special Moves:
+1) Ghostball: D,F, 1
+2) Blackhole(Above): D,B, 2
+3) Blackhole(Behind): D,F, 2
+4) Blackhole(In Front): D,F,B, 2
+5) Teleport Slam: D, U
+6) Shadow Charge: D,F, 3
+7) Shadow Upknee: D,B, 3
+8) Shadow Slide: B,F, 4 
+
+X-Ray: Together Again: Noob Kicks the opponent's back, and grabs 
+them while his shadow appears and kicks them on their stomach, who
+pukes. Does 3 Hits, 36% Damage.
+
+Fatality:
+1) Make A Wish: From Jumps, B,F,B,D, 4(Noob summons his shadow 
+partner, takes each leg of the victim and pulls opposite direction 
+forcefally, that gets torn into 2, dropping the internal organs down the 
+floor)
+2) As One: From Jumps, D,D,B,D, Block(Noob summons his partner, 
+who appears from the ground just in frong of the victim, who grabs the 
+victim by their chest, and takes them with him into the ground. Cutting 
+them from the torso down. Victim, now lack in their bottom, struggles 
+and crawl toward you then they die.)  
+3) Stage: F,D,F, Block
+4) Babality: F,U,F, 1
+
+Kombos:
+1) D,B+2, Hop Punch, B+2, 1, 4, B,F+4+Blk(If you have the meter) (5 Hits)
+2) Jump Punch, 1, 2, D,B+3+Blk(If you have the meter) (5 Hits)
+3) B+1, 2, 1, D,F+1 (4 Hits)
+
+Win Pose: Noob and his shadow lean their shoulder together for the 
+victory pose.
+
+**SECRET BATTLE: FIGHT KLASSIC Noob: In the Temple arena, if you 
+see Noob near the alter, beat your opponent without blocking on the 
+deciding round to face the Klassic MK2 Secret Kharacter version of 
+Noob-Saibot**
+
+----------------------------------------------------------------
+////Smoke////
+----------------------------------------------------------------
+
+Intro: 'Where There's Smoke,There's Fire'
+Alternate Kostume: Klassic Ninja style with his hair hidden in the mask
+
+Special Moves:
+1) Shake: B,F, 1
+2) Smoke Chained: D,B, 2
+3) Air Throw: Block in air
+4) Teleport: D,B, 4
+5) Invisibility: D,U, 3
+6) Smoke Away: F,B, 3
+7) Smoke Towards: B,F, 3
+
+
+X-Ray: Burnout: Grabs the opponent and does a German Supplex. 
+Does 3 Hits, 34% Damage 
+
+After X-Ray Remark: 'Stay Down'
+
+Fatality:
+1) Smoked Out: From Sweep, B,F,B,F, 1 (Smoke pokes his fingers on 
+the victim's eyes, then they steams out all over the body, leaving only 
+the skeleton, that falls down the ground) 
+2) Tremor: From Sweeps, B,B,D,F, 2 (Smoke disappears, and all of a 
+sudden, the victim's jaw gets split in two horizontally and their body 
+gets chopped off in a few pieces that falls down)
+3) Stage: F,U,U, 1
+4) Babality: D,B,D,F,D
+
+Kombos:
+1) Jump Punch, B+2, 3, D,B+2, Jump Kick, D,B+4 (8 Hits)
+2) Jump Punch, 2, 1, D,B+2, Jump Punch, Jump Kick, Air Throw (8 Hits)
+3) Jump Punch, 2, D,B+2, Uppercut (6 Hits)
+4) Jump Punch, 3, D+1, 2, Dash in, 3, D+1, D,B+2+Blk(If you have the 
+meter), Jump Kick, Air Throw (11 Hits)
+5) 3, D+1, 2, Jump Kick, D,B+4 (6 Hits)
+6) B+2, D,B+2, U+1, Dash in, 3, D+1, 2, Jump Kick, Air Throw (9 Hits) 31% 
+Damage
+7) 3, 2, Dash in, 3, D+1, 2, Jump Kick, Air Throw (8 Hits) 28% Damage
+8) 3, 2, Dash in, 3, D+1, 2, Dash in, B+2, D,B+2+Blk(If you have the meter)
+, Jump Kick, Air Throw (10 Hits) 33% Damage
+9) B+2, D,B+2, X-ray  38% Damage
+
+Win Pose: Teleports number of times wraped in smoke.
+
+**SECRET BATTLE: FIGHT KLASSIC Smoke: In the Living Forest, when 
+you see Smoke sneaking through the trees, hit 'Start' and you get to 
+fight his Klassic MK2 ninja version**
+
+----------------------------------------------------------------
+////Sektor////
+----------------------------------------------------------------
+
+Intro: 'I Will Show No Mercy' 
+Alternate Intro: 'For the Lin Kuei'
+Alternate Kostume: Human, Non-robo version 
+3rd Kostume: MK3 inspired. Avaliable DLC Now.
+
+Special Moves:
+1) Flame Burner: B,F, 2
+2) Teleport Uppercut: D,F, 4
+3) Straight Missile: B,F, 3
+4) Up Missile(Above): D,B, 3
+5) Up Missile(Behind): D,B,F, 3
+6) Up Missile(In Front): D,B,F, 3
+
+X-Ray: Massive Missile: Teleport Punches the neck of the victim, and 
+palms the stomach of the victim HARD!!!! Does 3 Hits, 32% Damage
+
+Fatality:
+1) Robo-Sek: From Full Screen away, F,D,B,F, 3(Sektor shoots 4 
+homming missiles that homes in on the 4 body parts of the victim)
+2) The Scarecrow: From Full Screen Away, D,D,F,B, 1 (Sektor shoots a
+little gadget(don't know what it's called) into the chest of the victim, then,
+keys in some kodes on his wrist, then, that gadget unfolds suddenly, 
+creates a floating statue with head, arms and legs attached to it)
+3) Stage: D,F,D, Block
+4) Babality: B,D,D,D, 4
+
+Kombos:
+1) U+3, 4, D,F+4, Jump Kick, D,F+4+Blk(If you have the meter), 4, B,F+3 
+(7 Hits)
+2) 2, 1, D,F+4, 1, 2, D,F+4+Blk(If you have the meter), 1, B,F+2 (9 Hits)
+3) Jump Kick, D,F+4, 4, B,F+2 (5 Hits)
+4) D,B+3, Jump Punch, 2, 1, D,F+4, Jump Kick, D,F+4+Blk(If you have the
+meter), Jump Kick, D,F+4+Blk(If you have the meter) (11 Hits)
+5) D,B+3, F+4, D,F+4, F+4, 4 (5 Hits)
+6) 1, 2, B+1, F+4, 4, D,F+4, B+2, 1 (8 Hits) 36% Damage
+7) 1, 2, B+1, F+4, X-Ray 43% Damage
+8) 1, 2, B+1, Jump Kick, D,F+4, B+2, 1 (7 Hits) 33% Damage
+9) 1, 2, B+1, Jump Kick, D,F+4, Jump Kick, D,F+4+Blk(If you have the 
+meter), B+2, 1 (10 Hits) 44% Damage
+
+Win Pose: Does a one-two punch motion, then shoots something on 
+the screan to vibrate the screen a bit, than shoots the Flamethrower to 
+his sides by crossing his arms.
+
+NOTE: Sektor can actually avoid Shao Kahn's Hammer Throw by 
+crouching block. Unlike few kharacters who can avoid it by simply duck-
+ing, since he can be hit by doing that, but when you block crouching, 
+The hammer just fly over you.
+
+----------------------------------------------------------------
+////Sonya////
+----------------------------------------------------------------
+
+Intro: 'Guess I'll have to do this the hard way!'
+Alternate Kostume: Hot 2 Piece, white Tanktop with the green short with
+sunglasses and hat
+
+Special Moves:
+1) Energy Ring Blast: B,F, 2 
+2) Leg Grab: B,F, 4
+3) Kiss: D,B, 2
+4) Arc Kick: D,B, 4
+5) Kartwheel: D,F, 3
+6) Air Drop: D+4 in air
+
+X-Ray: SF Beat-Down: Sonya handstands, cracks the neck of the 
+opponent with her legs, then, does a quick bike kick while she is still 
+handstanding, Grabs the neck with her leg and smashes them head 
+first onto the ground. 31% Damage. 
+
+Fatality:
+1) Scissor Split: From Jumps Distance, D,D,B,F, 1 (Sonya headstands 
+toward the victim, grabs them with her legs, and violently rips them in 
+two, like she did for her Fatality in MK4) 
+2) Kut-Throat: From Sweeps, D,B,F,B, 4 (With some kind of chain, she 
+chokes the victim's neck, jumps over them facing them on her back, 
+and cut off their head).
+3) Stage: B,F,D, 2
+4) Babality: D,D,F, 3  
+
+Kombos:
+1) 1, 1, 4, D,F+3, B,F+4 (7 Hits) 23% Damage
+2) 1, 1, 4, D,F+3+Blk(when meter is there), B,F+4+Blk(when meter is 
+there) (8 Hits) 28% Damage
+3) F+2, 2, D,F+3, B,F+4 (6 Hits) 25% Damage
+4) Jumping 2, B2, 1, F+2, U+2, B+2, 1, X-Ray (18 Hits) 45% Damage
+5) B+2, 1, F+2, Jump Kick, Air Throw (6 Hits) 26% Damage
+6) 2, 1, D,F+3, Dash in, B+2, 1, F+2, 4, 4 (9 Hits) 28% Damage
+7) Jumping 2, 2, 1, X-Ray (14 Hits) 40% Damage
+8) B+2, 1, D,F+3, Dash in, B+2, D,B+2(Stance Change), 4 (8 Hits) 31% 
+Damage
+9) Jump Punch, Air Drop, 2, 1, D,F+3, Dash in, 1, 1, Dash in, 1, 1, 4, 
+D,B+4 (12 Hits)
+
+Win Pose: Does an army style hand jesture and says: 'Mission 
+Accomplished'.
+
+----------------------------------------------------------------
+////Jax////
+----------------------------------------------------------------
+
+Intro: Pounds the ground 'Bring it!!'
+Alternate Kostume: Without the metal arm, and with some heavy military
+Kostume.
+
+Special Moves:
+1) Energy Wave: D,B, 2
+2) Dash Punch: D,F, 2
+3) Ground Pound(Close): D,B, 3
+4) Ground Pound(Medium): D,F, 3
+5) Ground Pound(Far): D,B,F, 3
+6) Gotcha Grab: D,F, 1
+7) Air Gotcha Grab: D,B, 1
+8) Overhead Smash: D,U, 4
+
+X-Ray: Brigg's Bash: Much like one of his moves in MK2, he grabs the
+victim, throws them high into the air, grabs them and breaks their back 
+twice. 4 Hits, 41% Damage **UNBLOCKABLE**
+
+Fatality:
+1) Smash and Grab: From close, B,F,F,B, 2 (Jax claps the head off of 
+the victim, then rips their arms out)
+2) Three Points!: From Sweeps, F,F,B,D, 3(Jax punches down the  
+victim's body three times into the ground leaving only the head 
+viewable, kicks it so they get firmly planted in the ground, then he kicks 
+the head like a soccerball)
+3) Stage: D,F,D, 1
+4) Babality: D,D,D, 3
+
+Kombos: 
+1) 1, 2, D,F+1+Blk(If you have the meter): (8 Hits) 22% Damage
+2) 1+3, 1+4, 2+3, 2+4: (6 Hits)13% Damage 
+3) D,B+3, B+1, 2, 4, D,F+2+Blk(If you have the meter): (6 Hits)
+4) D,B+3, 1, 2, Dash in, 2, 1, D,F+1+Blk(If you have the meter): (11 Hits)
+5) Jump Punch, 2, F+2, B+1, D,B+1 (6 Hits)
+
+Win Pose: Jax takes out his American Flag and proudly wraps himself 
+up.  Good 'ol American Victory!!!!
+
+Note: Jax is one of the few character who can duck to avoid Shao 
+Kahns' Hammer Throw
+
+----------------------------------------------------------------
+Kano:
+----------------------------------------------------------------
+
+Intro: 'Hmmph'
+Alternate Kostume: More 'Thug' look like costume that looks rather 
+reminicent to his original MK1 costume but beige in color. 
+
+Special Moves:
+1) Ball: F,D,B,F
+2) Down Ball: F,D,B,F (While in Air)
+3) Up Ball: D,F, 2
+4) Choke: D,F, 1
+5) Knife Throw: D,B, 2
+6) Air Throw: Block in air
+
+X-Ray: Just The Tip: Takes out his knives  and strikes it one by one on
+the victim's legs. 41% Damage. *Kano's X-ray is UNBLOCKABLE, so 
+the opponent will have to avoid it, also, at 41%, it's one of the more 
+powerful ones, though it lacks the ability to connect in a kombo. Use it 
+wisely.*
+
+Fatality:
+1) Heartbreak: From Sweep, B,D,B,F, 1(Kano impales his hand into the 
+back of the victim, from behind, penetrates through their chest and out 
+with their heart, in which is pops it up.) 
+2) Eat Your Heart Out: From Sweep, D,D,F,B, 4 (Rips the heart out from 
+the victim and shoves it forcefully on their head)
+3) Stage: U,U,B, 4
+4) Babality: F,D,D, 3
+
+Kombos:
+1) 2, 1, 2, Dash in, 2, 1, 2, Ball (7 Hits) 25% Damage
+2) B+1, 1, 2, Dash in, B+1, 1, 2, Ball (7 Hits) 31% Damage
+3) F+3, B+2, Dash in, 2, 1, 2, D,B+2 (6 Hits) 24% Damage
+4) Jumping 1, B+1, 1, 2, Dash in, 2, 1, 2, Dash in, 2, 1, 2, Ball (11 Hits) 
+36% Damage
+5) Jump Punch, B+1, 1, 2, Dash in, F+1, 1, D,F+1 (7 Hits)
+6) 2, 1, 2, Dash in, 2, 1, 2, Dash in, 2, 1, 2, Ball (10 Hits) 30% Damage
+7) Jump Punch, B+1, 1, 2, Dash in, 2, 1, 2, Jump Kick, Down Ball 
+(11 Hits)
+
+Win Pose: Spits out the gum he was chewing and wipes his mouth with
+his arm.
+
+----------------------------------------------------------------
+////Stryker////
+----------------------------------------------------------------
+
+Intro: 'Police Brutality Commin' Up'
+Alternate Kostume: Wears a heavy 'SWAT' uniform vest.
+
+Special Moves:
+1) Baton Sweep: D,B, 4
+2) High Grenade Toss: D,B, 2
+3) Low Grenade Toss: D,B, 3
+4) Gun Shot: B,F, 1
+5) Roll Toss: B,F, 4
+
+X-Ray: Busted: Flashes the light on the victim's eyes, then strikes them
+hard on their head with his baton. Does 4 Hits, 38% Damage
+
+After X-Ray Remark: 'Busted!'
+
+Fatality:
+1) Time Served: From Close, F,D,F 3 (Stryker tasers the victim's body, 
+and blows their head off twice with his gun)
+2) Have a Blast, From Sweep, D,F,D,F, Block (Stryker plants one of his 
+grenade into the victim's stomach, who explodes)
+3) Stage: F,U,U, 3
+4) Babality: D,F,D,B, 2
+
+Kombos:
+1) Jumping Punch, B+2, F+2, Dash in, 2, 3, 2 (8 Hits)
+2) B+3, 2, Dash in, 1, 1, B,F+1+Blk(If you have the meter), Dash in, 1, 
+B,F+4 (11 Hits)
+3) B+1, 2, 2, B,F+1 (5 Hits)
+4) B+1, 2, 2, B,F+1, Dash in, B,F+1+Blk(If you have the meter), Dash in, 1,
+1, B,F+1+Blk (16 Hits)
+5) B+2, F+2, 4, Sweep (6 Hits) 23% Damage
+6) B+2, F+2, Dash in, 1, 2, B,F+1, Dash in, Uppercut (9 Hits) 32% 
+Damage
+7) Jumping 2, B+2, F+2, Dash in, 1, 2, D,B+3 (8 Hits) 29% Damage
+8) Jumping 1, B+1, 2, 2, Jumping 2, Dash in, 1, 2, B,F+4 (9 Hits) 33% 
+Damage
+9) Jumping 1, B+1, 2, 2, Jumping 2, Dash in, 1, 2, X-Ray (11 Hits) 50% 
+Damage 
+
+Win Pose: Steps away from the victim, and tosses the granade to his 
+back to the victim who is out of site. A few seconds later, BOOM, the 
+blood and the mess of the victim fall to Stryker's face and body.
+
+----------------------------------------------------------------
+////Shang Tsung////
+----------------------------------------------------------------
+
+Intro: 'Your Soul is Mine!!!'
+Alternate Kostume: Old, MK1 style 
+
+Special Moves:
+1) FireSkull: B,B, 1
+2) Up Skull(Above): D,U, 2
+3) Up Skull(Behind): D,F, 2
+4) Up Skull(In Front): D,B, 2
+5) Ground Skull(Close): D,U, 4
+6) Ground Skull(Medium): D,B, 4
+7) Ground Skull(Far): D,F, 4
+8) Soul Steal: F,D,B, 3
+
+X-Ray: Your Soul Is Mine: Steals the victim's soul, ripping their skin off 
+in looks, then knees them. 3 Hits, 33% Damage. 
+
+After X-Ray Remark: 'Yeees!!'  
+
+Fatality:
+1) Bang Bang!: From Jumps, B,D,F, 3 (Shang Tsung morphs into the 
+clown and does the Joker's 'Gun Bang' Fatality from MK VS. DC, but this
+time, blows their head up, with the exact same joker dance abouts)
+2) Identity Theft: From Jumps, D,D,B,D, 2 (Shang Tsung goes into the 
+victims' body through their mouth, and tear their head off then comes 
+out)
+3) Stage: U,U,B, 1
+4) Babality: D,B,D, 3
+
+Kombos:
+1) 2, 2, 1, D,U+4, D,B+4, D,U+4+Blk(If you have the meter), Uppercut 
+(9 Hits) 37% Damage
+2) F+4, 3, 4, D,B+4, D,F+4, D,U+4+Blk(If you have the meter), Uppercut 
+(9 Hits) 35% Damage
+3) B+1, 2, 1, B,B+1: (4 Hits)
+4) Jump Punch, 2, 2, 1, D,U+4, D,B+4, D,U+4+Blk(If you have the meter),
+1, 2, F,D,B+3 (13 Hits)
+5) Jump Punch, D,B+4, D,U+4+Blk(If you have the meter) (5 Hits)
+6) B+1, 2, 1, D,U+4Blk(If you have the meter), D,B+4 (8 Hits) 26% Damage
+7) D,U+4+Blk(If you have the meter), D,B+4, D,U+4+Blk(If you have the 
+meter), Jumping 1: (8 Hits) 25% Damage
+8) Jumping 1, 2, 2, 1, D,U+4, D,B+4, D,U+4+Blk(If you have the meter), 
+Uppercut (10 Hits) 40% Damage
+9) D,U+4, Jumping 1, F+4, 3, 4, D,B+4, D,F+4, D,U+4+Blk(If you have the 
+meter), Uppercut (11 Hits) 44% Damage
+10) D,U+4, D,B+4, X-Ray: 37% Damage
+11) F+4, 3, 4, D,B+4, Dash in, X-Ray: 39% Damage
+
+Win Pose: Steals the soul and create a little soul sphear on his hand.
+
+----------------------------------------------------------------
+////Baraka////
+----------------------------------------------------------------
+
+Intro: Clangs his blades couple times then yells 'Raaah!'.
+Alternate Kostume: Black costume with spikes on his shoulder 
+
+Special Moves:
+1) Blade Charge: D,F, 2
+2) Spark: D,B, 2
+3) Chop Chop: B,B, 1
+4) Blade Spin: D,B, 3
+5) Slices: D,F, 1
+
+X-Ray: Nail and Impale: Lifts the victim with one of his blades, and with 
+another, he impales the victim's neck, retracts, then impales their eye, 
+then, finishes off with a kick. 4 Hits, 32% Damage
+
+Fatality:
+1) Up the Middle: From Sweeps, B,F,D,F, 1(Baraka slices off the victims
+arms, then, pokes one blade on the victim's chest, and with the other 
+blade, slice the opponent in half)
+2) Take a Spin: From Sweeps, F,F,D,D, 3(Baraka Lifts you up with one 
+of his blade, impaling you, then, with this other hand, spins you while 
+you were impaled, takes his other blade from his other hands, brings it
+to the spinning body that shreds to the pieces)
+3) Stage: D,D,D,D, 3
+4) Babality: F,B,F, 4
+
+Kombos:
+1) Jump Punch, 1, 2, D,B+3+Blk(If you have the meter): (7 Hits)
+2) 2, 2, 1+2, Dash in, B+3, 2, D,F+2+Blk(If you have the meter): (8 Hits)
+3) 2, 2, B,B+1: (9 Hits)  17% Damage
+4) Jump Punch, 2, 2, 1+2, Dash in, B+3, B.B+1+Blk(If you have the meter)
+(12 Hits)
+5) B+3, 2, B,B+1: (9 Hits) 17% Damage
+6) 2, 2, 1+2, Dash in, D,B+3: (6 Hits) 18% Damage
+7) Jumping 2, 2, 2, B,B+1: (10 Hits) 21% Damage
+8) Jumping 2, 2, 2, 1+2, Dash in, D,F+1: (8 Hits) 21% Damage
+9) Jumping 2, 2, 2, 1+2, Dash in, F+4, B,B+1 (13 Hits) 26% Damage
+
+Win Pose: Swipes the ground with each of his blades then brings it 
+together. 
+
+----------------------------------------------------------------
+////Kabal////
+----------------------------------------------------------------
+
+Intro: 'Let's See What You're Made Of!!'
+Alternate Kostume: Blue T-shirt and overall, lighter color
+
+Special Moves:
+1) Gas Blast: B,B, 3
+2) Nomad Dash: B,F, 4
+3) Buzzsaw: B,B, 3
+4) Tornado Slam: D,B, 2
+
+X-Ray: Kabal's Deep: He spins like one of his special that spins the 
+opponent, slides into them and breaks their leg, then, from hehind, 
+plants his hooksword on their shoulders and throws them to the 
+opposite side. Does 4 Hits, 34% Damage
+
+Fatality:
+1) Hook Up: From Sweeps, B,F,B,F, 1 (Kabal kicks the opponent who 
+flies up, then he takes out his hooksword, strikes at the falling victim 
+that splits their body in two vertically that falls to the ground, but the 
+head remains on his hooksword)
+2) It Takes Guts: From Sweeps, D,D, B,F, Block (Kabal takes out his 
+hookswords, strikes both of them into the stomach of the victim, violently
+takes it out. Out comes their intestines.... He plants his hookswords on
+that intestines, then the vicim slowly falls down that gets the hooked 
+section of the hooked sword gets impaled on their shoulders. SICK!!!!)
+3) Stage: D,D, 4 
+4) Babality: F,D,B, 3
+
+Kombos:
+1) Jump Kick, B,B+1, B,F+4, 1, 1, 1, B,B+1+Blk(If you have the meter) 
+(7 Hits)
+2) Jump Punch, F+3, 1, B,F+4, Dash back, Jump Kick, B,B+1, Dash in, 
+F+4, D,B+2+Blk(If you have the meter) (10 Hits)
+3) B+1, 2, 1, Dash in, Uppercut (4 Hits)
+4) B+1, 2, 1, Jump Kick, B,B+1, B,F+4, Dash back, Jump Kick, B,B+1, 
+Dash in, F+4, D,B+2+Blk(If you have the meter) (13 Hits)
+5) Jump Punch, F+3, 1, D,B+2 (6 Hits)
+6) Jump Kick, Air Gas Blast, Dash in, F+3, 2, B,F+4, F+3, 2, D,B+2 (10 Hits) 
+30% Damage
+7) B+1, 2, 1, Dash in, F+3, X-Ray
+
+Win Pose: Does some fancy sword-work with hookswords
+
+----------------------------------------------------------------
+////Raiden////
+----------------------------------------------------------------
+
+Intro: 'Thunder Take You"
+Alternate Kostume: Evil-looking Dark Raiden in black Costume.
+
+Special Moves:
+1) Lightning: D,B, 1
+2) Electocute: D,F, 2
+3) Electric Fly: B,F, 3
+4) Teleport: D,U
+5) Vicinity Blast: D,B, 2
+
+X-Ray: Shock Therapy: Shocks the victim, Teleports behind them, 
+Smashes their forhead HARD, then as they fall, give one final electric 
+shock. Can be blocked however. 4 Hits 34% Damage
+
+Fatality:
+1) Just A Scratch: From Jumps, D,F,D,F, 1(Raiden Shoots Lighting Bolts
+to the opponent that electrocute their arms, legs, that makes them 
+kneel on the ground. Raiden picks up the body and throws them head 
+first onto the ground hard) *TIP: If you are not careful, you might end up
+behind your opponent for he may teleport when you do D,F, esp. if you 
+have the sensitive controller. Just go D, F, D, F very accurately so that he
+won't ACCIDENTLY teleport, then hit attack 1*
+2) Transplant: From Sweeps, B,F,F,D, 4 (Raiden teleports behind the 
+opponent, shocks their backhead and get some organ out of it, get it hit
+by a lightning, then strikes it back on it hard again, and remotely blows 
+off their head, and torso)
+3) Stage: D,D,D, 2
+4) Babality: D,B,D, 4
+
+Kombos:
+1) 3, 3, 4, B+3, 1, 2... 1, 2, 1
+2) 1, 2, 1, D,F+2, B+3, 1, 2, B,F+3 (9 Hits) 29% Damage
+3) 3, 3, 4, B+3, 1, 2, B,F+3
+4) 1, 2, 1, D,F+2, B+3, 1, X-Ray
+5) B+3, 1, 2, B,F+3 (5 Hits)
+6) B+3, 1, 2, Dash in, D,F+2, B+3, 1, X-ray
+7) 3, 3, 4, D,U, D,F+2, B+3, 1, 2, B,F+3 (9 Hits) 36% Damage
+8) B+3, 1, 2, B+3, 1, 2, Dash in, D,F+2, B+3, B,F+3 (10 Hits) 35% Damage
+9) 3, 3, 4, D,U, D,F+2, B+3, 1, X-Ray
+
+----------------------------------------------------------------
+////Sheeva////
+----------------------------------------------------------------
+
+Intro: 'For the Shokan!'
+Alternate Kostume: Even More Revealing Attire with some heavy 
+make-up job on her face.
+
+Special Moves:
+1) Fireball: D,F, 2
+2) Jump Stomp: D,U
+3) Ground Pound: D,B, 4
+4) Grab N Punch: B,F, 3
+5) Anti-Air Grab: D,F, 1
+6) Low Grab: D,B, 3
+
+X-Ray: Stomps the ground that makes the victim fall over close to her, 
+then she stomps their head hard with her leg, then repeats on their 
+back. 4 Hits, 33% Damage
+
+Fatality:
+1) Stripped Down: From Sweeps, F,D,D,F, 1(Sheeva grabs the victim's 
+shoulder, Pulls off the victim's skin in halves, kicks the remaining 
+skeleton, then show the two, sliced skin up as a trophy) 
+2) Lend A Hand: From Sweeps, F,B,F,B, 4(Sheeva puts her upper two 
+arms on her head, and with her lower two arms, tears the victim's arms
+and with it, slaps their own face twice and kick them away, then using 
+those 2 arms, she claps till the end)
+3) Stage: D,D,D,D, 1
+4) Babality: D,D,D,B, 4 
+
+Kombos:
+1) Jump Punch, 1, 2, B+1, Dash in, 1, D,F+1+Blk(If you have the meter) 
+(8 Hits)
+2) Jump Punch, 2, 1, 2, F+1, D,F+2 (6 Hits)
+3) 2, 1, 2, D,B+4 (5 Hits)
+4) Jump Punch, 1, 2, B+1, Dash in, 2, 1, B,F+3+Blk(If you have the meter)
+(12 Hits)
+5) Jump Punch, 1, 2, B+1, Dash in, Uppercut (5 Hits)
+6) Jump Punch, 2, 1, 2, F+1, B,F+3+Blk(If you have the meter) (10 Hits)
+7) 3, 3, B,F+3 (9 Hits) 24% Damage
+8) 2, 1, 2, F+1, B,F+3 (11 Hits) 28% Damage
+9) B+2, 1+2, B,F+3 (9 Hits) 31% Damage
+
+Win Pose: Does some sultry motion from head to toe, much like 
+Mileena's but more, sultry, feminine motions.
+
+----------------------------------------------------------------
+////Quan Chi////
+----------------------------------------------------------------
+
+How to Unlock: Beat the Story Mode and he is yours.
+
+Intro: 'You Will Serve Me in the Netherrealm'
+Alternate Kostume: 
+
+Special Moves:
+1) Skeletal Burst: D,B, 4
+2) Ground Burst(Close): D,B, 1
+3) Ground Burst(Medium): D,F, 1
+4) Ground Burst(Far): D,B,F, 1
+5) Skull Ball: D,F, 2
+6) Sky Drop: D,B, 3
+7) Trance: B,F, 3
+
+X-Ray: Amulet Assault: Throws the green skull, that the opponent takes
+in their hand. Quan Chi then controls it that first hits it on their head, 
+then he remotely twists their head then finally finishes it remote way. 
+
+Fatality:
+1) Beat Down: From Sweeps, F,F,D,D, 1(Quan Chi does his MK4 Leg 
+Beat Down Fatality)
+2) On Your Knees: From Sweeps, D,F,D,F, 4(Quan Chi takes out his 
+sword, cuts off the legs of the victim, that kneels on the ground, then, 
+cut off the head which he catches before it drops)
+3) Stage: B,F,D, 2
+4) Babality:  F,D,B, 2
+
+Kombos: 
+1) Jump Punch, 1, 1, 2, D,B+3(Holding F) (5 Hits)
+2) Jump Punch, 1, 1, B,F+3 (8 Hits)
+3) B,F+3, F+1, 2, 1+2 (5 Hits)
+4) Jump Punch, B+3, 1+2, Dash in, B+1, 1, B,F+3+Blk(If you have the 
+meter), Jump Punch, 1, 1, D,B+3+Blk(If you have the meter) (13 Hits)
+5) Hop Punch, Dash in, 2, 1, 2, D,B+2 (5 Hits) 
+
+
+Win Pose:
+
+----------------------------------------------------------------
+////Cyber Sub////
+----------------------------------------------------------------
+How to Unlock: Fight him and beat him in story mode on Chapter 13: 
+Kabal in the street, then he is yours.
+
+Intro: 'You are not so fearsome'
+Alternate Kostume: 
+
+Special Moves:
+1) Ice Ball: D,F, 1
+2) Ice Bomb(Close): B,B, 3
+3) Ice Bomb(Medium): F,F, 3
+4) Ice Bamb(Far): B,B,F, 3
+5) Slide: B,F, 4
+6) Teleport: D,B, 1
+7) Ice Parry: D,B, 2
+8) Divekick(Close) D, 3
+
+X-Ray: Cool Down: Creates a ball of ice and hits it hard on the 
+backhead of the opponent, then, takes out his giant ice sword, and 
+impails it in the back of the victim that protrudes on their stomach, than 
+removes it.
+
+Fatality:
+1) Kold Fusion: From Sweeps, D,B,D,F, 2 (Cyber Sub punches in some
+codes on his wrist, then jumps onto the opponent, Gets frozen 
+together and explode. Nothing but frozen victim's legs stands that 
+drops to the floor a second later)
+2) Brain Freeze: From Jumps, D,D,B,D, 1(Cyber Sub shoots the icy 
+shrikens(?) at the head of the victim 3 times, that saws their brain that 
+drops them to the floor)
+3) Stage: D,D,U, Block
+4) Babality: D,B,F, Block
+
+Kombos:
+1) 1, 1, D,F+1, Dash in, 3, 3, 2 (6 Hits)
+2) 1, 1, 2, B,F+4+Blk(If you have the meter) (5 Hits)
+3) D,F+1, B+3, 2, 1 (4 Hits)
+
+Win Pose:
+
+----------------------------------------------------------------
+////Kratos (PS3 Exclusive)////
+----------------------------------------------------------------
+
+Intro: 'You will not see the end of this day!!'
+Alternate Kostume: 
+
+Special Moves:
+1) Apollo's Bow: D,B, 2
+2) Head of Helios: D,F, 2
+3) Hermes Dash: F,B, 4
+4) Golden Fleece: D,F, 1
+5) Zeu's Rage: D,B, 3
+
+X-Ray: Nemean Cestus
+
+Fatality:
+1) Blade of Olympus: From Sweep, D,D,B,F, 2 (Kratos strikes his 
+weapon on the victims stomach, then strikes it again from the bent 
+opponent in agony and cuts them in half from the torso up, that splits 
+their torso while attached with the legs)
+2) Medusa's Gaze: From Close: D,B,D,F, 1 (Kratos takes out a head of 
+Medusa, points it to the victim, who turns into stone. Kratos then does 
+a shattering dashing punch that shatters it, and the camera shows it 3 
+times in different angle)
+3) Stage: D,D,D, 3
+4) Babality: D,D,B, 2
+
+Kombos:
+1) 2, D,B+2, Dash in, B+2(Hold 2), 2 (6 Hits)
+2) Jump Punch, 2, 1, D,B+2, Dash in, F+4, 2(Hold 2), 4 (8 Hits)
+3) D,B+2, Dash in, F+2, 2, 1 (4 Hits)
+4) Jump Punch, 2, 1, D,B+2, Dash in, F+4, 2, Dash in, 1, 1, D,F+3+Blk(If 
+you have the meter) (12 Hits)
+5) Jump Punch, 2, 1, D,F+2 (5 Hits)
+6) Jump Punch, 2, 1, D,B+2, Dash in, F+4, 2(Hold 2), 4 (8 Hits)
+7) Jump Punch, 2, 1, 2, D,F+3+Blk(If you have the meter) (8 Hits)
+8) 2, 1, D,B+2, Move in, F+4, D,B+3+Blk(If you have the meter) (10 Hits) 
+33% Damage
+9) F+2, D,B+2, Move in, F+4, 2, Move in, F+4, D,B+2+Blk(If you have the 
+meter) (8 Hits) 40% Damage
+10) F+4, 2, Move in, F+4, D,B+2+Blk(If you have the meter), X-Ray 
+
+Win Pose: Lowers his arms to his sides, and yells in excitement.
+
+----------------------------------------------------------------
+----------------------------------------------------------------
+/////Skarlet/////
+----------------------------------------------------------------
+----------------------------------------------------------------
+
+How to Unlock: Downloadable Content Available Now
+
+Intro: Blood forms on the ground then she rises from it.
+Alternate Kostume: She does not have Alternate Yet.
+
+Special Moves:
+1) Up Slash: D,F, 2 
+2) Down Slash: D,B, 2 
+3) Blood Drop: D,B, 4
+4) Red Dash: D,F, 3
+5) Red Slide(During Dash): 4
+6) Blood Ball(Drains Health): F,D,B, 1
+7) Dagger Toss: D,F, 1
+8) Air Dagger(Close): D,B, 1 (While in Air)
+9) Air Dagger(Far): D,F, 1 (While in Air)
+
+X-Ray: Skarlet palms the front jaw of the victim hard, then gives 
+him/her a massive kick on their head. At 3 Hits, 27% Damage, It's the 
+Least powerful X-ray in the game, but still, it looks great and can save
+you from trouble.
+
+Fatality:
+1) Blood Bath: From Close, D,B,D,D, Blk (Skarlet impales one of her blade
+into victim's ear, then plants another on their neck, and then aims her 
+face on it, receives all the blood that sprays out.)
+2) Make it Rain: From Jumps, F,B,D,D, 4 (Skarlet strikes one of her blade 
+into her stomach, disappear to the ground, we then see a stream of 
+blood going toward the victim, then about two pairs of stream of blood 
+columns rise and pick up the victim in the air, holding them. Skarlet 
+appears from the bottom, strikes her blade into the stomach of the 
+opponent and takes their pool of blood onto her face)
+3) Stage: F,B,F, 1 
+4) Babality: D,B,D,F, 2
+
+Kombos:
+1) B+1, 1, Dash in, D,F+2, Move in, 2, Dash in, D,F+3, B+2, Move in, 2, 
+Dash in, D,F+3, B+2, Move in, Dash in, Move in, 1, 1, 2, Move in, D,F+3
+(10 Hits) 35% Damage
+
+Win Pose: Points her palm forward in victory.
+
+----------------------------------------------------------------
+/////Kenshi/////
+----------------------------------------------------------------
+----------------------------------------------------------------
+
+How to Unlock: Downloadable Content Available July 5th
+
+Intro: Sit in the air floating, while his Katana is on floating on the ground
+as well. He Comes down to the ground and grabs his Katana.
+
+Special Moves:
+1) Mind Warp Sword Slash: ??
+2) Sword Projectile Reflector: ??
+3) Telekinetic Toss: ??
+4) Telekinetic Punches: ??
+5) Katana from Above: ??
+
+X-Ray: Kenshi Rushes in and impales his Katana into the stomach of his
+opponent, then, take it out and smashes it into the brain of the victim.
+
+Fatality:
+1) (Kenshi Telekinetically brings his victim toward him, then throw his  
+Katana that gets pinned into the ground on the back of the opponent,
+Kenshi then telekinectically pushes his victim who gets sliced by that 
+Katana)*FULL FATALITY HASN'T BEEN SEEN*
+2) (Kenshi Telekinetically slams his vicitim onto the screen in 3D number
+of times, but after that, the FULL FATALITY HASN'T BEEN REVEALED)
+3) Stage: ??
+4) Babality: ??
+
+Win Pose: Spins his Katana telekinectically then pins it on the ground 
+telekinectically
+
+
+----------------------------------------------------------------
+BABALITY ON BOSSES
+
+-Goro/Kintaro: Play the ladder in at least Medium Skill Level in 2 rounds
+each, Beat every opponent without continues. A single round loss is 
+allowed, but you cannot lose a match. Finish Shang Tsung with a 
+Babality, and do NOT use block(X-Ray is allowed however) on the final
+round on Goro/Kintaro, then, Goro/Kintaro will turn into a baby 
+automatically and their babality will be triggered.
+
+-Shao Kahn: Beat every opponent including Goro/Kintaro without 
+continue in at least a medium skill level, 2 rounds each in the ladder. 
+You can lose a round, but no matches. Finish all your opponents with 
+the Babality, then beat Shao Kahn without continue and do NOT use 
+block on the final round to turn Shao into a baby.
+
+----------------------------------------------------------------
+
+STAGES:
+
+1) Armory: A remake from the original stage in MK2. Though sometimes
+a glitchy floor when you do Reptile's Fatality in MK2 is no longer 
+present, it is now back with the completely re-done, with a huge 
+circular lave foundry in the middle.
+2) Bell Tower: The return of the stage from MK3 that had the multi-tierd 
+Stage Fatality. Though the Stage Fatality is no longer there, It returned, 
+in a darker, and more true to the name looking stage
+3) Courtyard: A return of one of the stage from the very first Mortal 
+Kombat. Though the overall look is pretty identical, save for a fact that it
+now sport a much crisper graphic, but this time, you can actually feel 
+the background that gives you a feeling that you ARE in fact in an island.
+4) Courtyard Night: Not just the original day stage, in this game, there's 
+also, a darker night version of the stage. 
+5) Deadpool: One of the famous stage in MK2 returns with even gorier, 
+and more detailed Stage Fatality. In a lot more detailed, and crisper 
+graphics. Perform your kharacter's Stage Fatality here, and you will be
+greeted with one of the goriest Stage Fatality in the game.
+6) Flesh Pits: A newly added stage in the new game. A stage where 
+you see a bunch of experimental chambers with bodies in them. 
+Unfortunately, there is no Stage Fatality here.
+7) Goro's Lair: The original boss stage in the very first game returns 
+with a darker, cave interior feel like new stage. With actual chair with 
+Goro sitting on. If Goro's Lair in MK1 was outside of the the cave, this 
+time on, it's inside of the cave.
+8) Graveyard: Another, old MK3 stage returns. This time sporting a 
+giant soul-nado on the background, in a darker and more sinister 
+looking stage
+9) Hell: Scorpion's Hell in UMK3 returns. Though the old skull-filled 
+columns are gone, it was replaced with even more sinister looking 
+corpses on fire hanging around. To make matters even scarier, there 
+are cursed souls arms protruding out from the hellish ground. This 
+stage also sports a cool Stage Fatality. Though rather a simple one. 
+Perform your kharacter's stage fatality here.
+10) Jade's Desert: The stage taht was in Ultimate MK3 returns. This time
+in front of a giant stone grave of Queen Sindel, with a cool misty effect 
+not present in UMK3.  Can you spot Cyrax in the desert this time? for the
+developpers claims that they haven't forgotten about him in this game 
+for this stage.
+11) Koliseum: The old, MK2 boss stage returns in a lot more vast and 
+3D background with a lively crowds chanting on, with Skarlet and Kitana
+(sometimes Tanya) being captive on either side, instead of Kano and 
+Sonya in MK2. With a beast called Tormentor on Shao Kahn's side. 
+12) Living Forest: Famous, animated eerie stage of MK2 returns with 
+even more realism. This time, with an actual Stage Fatality, and a good
+one. Perform your kharacters' Stage Fatality here.
+13) Pit: An original MK1's stage where you could uppercut your victim 
+down to their doom is back with the famous Pit Fatality also returning. 
+This time there is a day version without the moon, but Stage Fatality still
+can be performed.
+14) Pit Night: Same as the Pit of the day, but this time, you have a giant 
+moon on the background, just like in the old days of MK1. Watch the 
+moon carefully, for you can actually UNLOCK something here.
+15) Pit Bottom: Remember the stage in MK1 where you get to fight 
+against the secret kharacter Reptile? It's back, and been improved 
+drastically. This time sporting the background statues that actually 
+spits out the fall of blood!!!
+16) Rooftop: Another stage from MK3 returns, in a greatly improved 
+visuals
+17) Shao Kahn's Throne Room: A new stage added on the new game. 
+No stage fatality and a pure fighting arena.
+18) Soul Chamber: A stage in MK3 returns with more animated 
+background in a highly improved visuals.
+19) Shang Tsung's Gardens Day/Night: Another 2 new stages that was
+added in the new game. Nothing special, but another great looking 
+background to do your battle on.
+20) Shang Tsung's Throne Room: Another classic, MK1 stage returns,
+with some additional effects. The windows were added on the 
+background showing that it is pouring rain outside, and Shang once 
+again, is seated, looking on the fight that is on the way.
+21) Street: An old stage in MK3 returns. This time, with Tormentor doing
+a battle and doing damage against the defense force on the 
+background, where there are several hi-rise buildings. Some of them 
+are on fire. Perform your kharacter's Stage Fatality here for a nifty new 
+stage kill absent from MK3.
+22) Subway: Another klassic stage from MK3 returns. With the Stage 
+fatality retuning as well. This time, rather than just uppercutting your 
+victim in front of the upcomming train, you actually wait for the train to 
+come and bang your victim's head on the speeding train and toss 
+him/her to another incomming train. BRUTAL.
+23) Temple: Another klassic MK3 Stage returns, this time with a hidden 
+secret. Can you find the secret battle hidden in this stage?
+24) Tower: A klassic MK2 stage returns with a sharply re-done graphics
+and an upgraded outside view though the huge window behind the 
+Shadow Priest.
+25) Wastelands: A reddish, wasteland stage in MK2 returns in the new 
+game with a completely different look that rather feels like you are in a 
+deserted ancient world in a much crispier graphics.
+
+----------------------------------------------------------------
+KRYPT:
+
+** There are 4 hidden chests with 5,000 Koins each, on each area. 
+Can you find them all? Most of which are located where green spiders 
+are crawling about, and one is on the wall near the area where green 
+spiders are crawing about. Just go in there and wait few seconds, 
+then you will see 'SEC' chests comming up. Open them up,then 5,000 
+koins are yours**
+
+BM1: 1,080 Koins: Living Forest Speed Painting 2
+BM2: 920 Koins: Mileena's Fatality: Rip Off (B,F,B,D, 3)
+BM3: 800 Koins: Shang Tsung's Throne Room Concept A
+BM4: 750 Koins: Evil Monastry Speed Painting 2
+BM5: 1,040 Koins: Noob Alternate Costume Concept(Alternate Costume 
+Unlock)
+BM6: 980 Koins: Sonya Render
+BM7: 900 Koins: Noob Alternate Damage Concept
+BM8: 1,100 Koins: Noob's Fatality: As One (D,D,B,D, Block)
+BM9: 880 Koins: Dragon Concept
+BM10: 1,120 Koins: Retro Ermac Render
+BM11: 1,100 Koins: Kombat Kode: Rainbow Kombat (2 3 4 2 3 4)
+BM12: 940 Koins: Kung Lao Alternate Damage Concept
+BM13: 1,040 Koins: Sektor Primary Costume Concept
+BM14: 1,220 Koins: Raiden's Fatality: Transplant (B,F,F,D, 4)
+BM15: 900 Koins: Shang Tsung Primary Damage Concept
+BM16: 940 Koins: Shang Tsung's ThroneRoom Music
+BM17: 750 Koins: Temple Speed Painting 2
+BM18: 960 Koins: Jax Primary Damage Concept
+BM19: 1,200 Koins: Sindel Alternate Costume Concept(Alternate 
+Costume Unlock)
+BM20: 1,020 Koins: DeadPool Music
+BM21: 1,200 Koins: Sub-Zero Primary Costume Concept
+BM22: 920 Koins: Rooftop(Dusk) Speed Painting 2
+BM23: 980 Koins: Kitana's Fatality: Splitting Headache (F,D,F,B, 3)
+BM24: 1,000 Koins: Street Concept
+BM25: 1,080 Koins: Shao Kahn's Throne Room Speed Painting 1
+BM26: 900 Koins: Smoke's Fatality: Tremor (B,B,D,F, 2)
+BM27: 960 Koins: Nightwolf Primary Costume Concept
+BM28: 900 Koins: Soul Chamber Speed Painting 1
+BM29: 950 Koins: Ermac Primary Damage Concept
+BM30: 990 Koins: Kombat Kode: Sans Power (0 4 4 4 4 0)
+BM31: 860 Koins: Liu Kang Primary Costume Concept
+BM32: 950 Koins: Sonya Primary Damage Concept
+BM33: 920 Koins: Shang Tsung Garden Speed Painting 2
+BM34: 900 Koins: Liu Kang Alternate Damage Concept
+BM35: 1,300 Koins: Sonya's Fatality: Kut-Throat (D,B,F,B, 4)
+BM36: 960 Koins: Soul Chamber Speed Painting 2
+BM37: 1,100 Koins: Mileena Shadow Render
+BM38: 1,200 Koins: Kung Lao Alternate Costume Concept(Alternate 
+Costume Unlock)
+BM39: 1,000 Koins: Street Speed Painting 2
+BM40: 920 Koins: Nekropolis Concept 2
+BM41: 1,140 Koins: Kombat Kode: Silent Kombat (3 0 0 3 0 0)
+BM42: 860 Koins: Living Forest Music
+BM43: 940 Koins: Parasite Victims
+BM44: 1,300 Koins: Sindel's Fatality: Mouthfull (B,F,U, 2)
+BM45: 1,000 Koins: Liu Kang Render
+BM46: 940 Koins: Deadlands Concept 2
+BM47: 1,200 Koins: Kombat Kode: Specials Disabled (7 3 1 7 3 1)
+BM48: 1,140 Koins: Liu Kang Primary Damage Concept
+BM49: 940 Koins: Meadow of Despair Concept 1
+BM50: 1,000 Koins: Jade Alternate Costume Concept(Alternate Costume
+Unlock)
+BM51: 1,150 Koins: Temple Speed Painting 1
+BM52: 860 Koins: Jade Primary damage Concept
+BM53: 1,150 Koins: Evil Monastery Speed Painting 1
+BM54: 990 Koins: Kombat Kode: Super Recovery (1 2 3 1 2 3)
+BM55: 880 Koins: Nightwolf Alternate Damage Concept
+BM56: 850 Koins: Wasteland Speed Painting 2
+BM57: 900 Koins: Stryker's Fatality: Have A Blast (D,F,D,F, Block)
+BM58: 920 Koins: Baraka Primary Costume Concept
+BM59: 900 Koins: Necropolis Concept 1
+BM60: 1,190 Koins: Kombat Kode: Throwing Encouraged (0 1 0 0 1 0)
+BM61: 1,150 Koins: Temple concept
+BM62: 820 Koins: Shang Tsung's Garden(Night) Music
+BM63: 1,450 Koins: Cyber Sub-Zero's Fatality: Brain Freeze (D,D,B,D, 1)
+BM64: 1,010 Koins: Kombat Kode: Tournament Mode (1 1 1 1 1 1)
+BM65: 750 Koins: Subway Speed Painting 1
+BM66: 1,150 Koins: Reptile Fatality Sketch
+BM67: 1,000 Koins: Goro Damage Concept
+BM68: 1,200 Koins: Ermac Alternate Costume Concept(Alternate Costume
+Unlock)
+BM69: 1,020 Koins: Wasteland Concept
+BM70: 940 Koins: Meadow of Despair Concept 3
+BM71: 1,120 Koins: Shang Tsung's Throne Room Speed Painting 1
+BM72: 920 Koins: Scorpion's Fatality: Nether-Gate (B,F,B, 3)
+BM73: 960 Koins: Hallow of Infestation Concept 1
+BM74: 1,080 Koins: Scorpion Fatality Sketch
+BM75: 960 Koins: Cyrax Render
+BM76: 860 Koins: Reptile Primary Damage Concept
+BM77: 1,300 Koins: Kombat Kode: Zombie Kombat (6 6 6 6 6 6)
+BM78: 1,150 Koins: Subway Concept
+BM79: 920 Koins: Rooftop(Day) Speed Painting 1
+BM80: 840 Koins: Koliseum Music
+BM81: 980 Koins: Reptile Primary Costume Concept
+BM82: 960 Koins: Smoke Alternate Costume Concept(Alternate Costume
+Unlock)
+BM83: 820 Koins: Mileena Alternate Damage Concept
+DL1: FREE: Kombat Kode: Headless Kombat (8 0 8 8 0 8)
+DL2: 680 Koins: Temple Music
+DL3: 1,100 Koins: Cage Fatality Sketch 
+DL4: 900 Koins: Dead Pool Concept
+DL5: 1,140 Koins: Jade's Fatality: Half Mast (B,D,B,D, 4)
+DL6: 800 Koins: Stryker Primary Costume Concept
+DL7: 1,160 Koins: Reptile Alternate Costume Concept(Alternate Costume
+Unlock)
+DL8: 900 Koins: Pit(Night) Concept
+DL9: 1,020 Koins: Wasteland Music
+DL10: 1,200 Koins: Kombat Kode: Blocking Disabled (0 2 0 0 2 0)
+DL11: 900 Koins: Cyber Sub-Zero Concept
+DL12: 800 Koins: Kombat Kode: Jumping Disabled (8 3 1 8 3 1)
+DL13: 1,150 Koins: Evil Monastery Concept
+DL14: 1,000 Koins: Kitana Primary Costume Concept
+DL15: 1,500 Koins: Johnny Cage Alternate Costume Concept(Alternate 
+Costume Unlock)
+DL16: 800 Koins: Rooftop(Dawn)Concept
+DL17: 1,020 Koins: Kombat Kode: No Blood (9 0 0 9 0 0)
+DL18: 960 Koins: Hell Speed Paiting 2
+DL19: 1,100 Koins: Sonya Fatality Sketch
+DL20: 900 Koins: Scorpion Shadow Render
+DL21: 920 Koins: Ermac's Fatality: Pest Control (F,B,F,D, 4)
+DL22: 750 Koins: Tormentor Model
+DL23: 1,150 Koins: Sektor Fatality Sketch
+DL24: 880 Koins: Noob Primary Costume Concept
+DL25: 1,020 Koins: Kombat Kode: Dark Kombat (0 2 2 0 2 2)
+DL26: 1,100 Koins: Armory Music
+DL27: 1,040 Koins: Sonya Primary Costume Concept
+DL28: 1,200 Koins: Sheeva Alternate Costume Concept(Alternate 
+Costume Unlock)
+DL29: 750 Koins: TaiGore Model
+DL30: 1,000 Koins: Kano Fatality Sketch
+DL31: 880 Koins: Raiden Render
+DL32: 1,060 Koins: Kombat Kode: Hyper Fighting (0 9 1 0 9 1)
+DL33: 980 Koins: Armory Concept
+DL34: 900 Koins: Baraka Alternate Damage Concept
+DL35: 1,200 Koins: Scorpion Fatlity Sketch
+DL36: 1,160 Koins: Mileena Reveal Render
+DL37: 1,040 Koins: Kabal's Fatality: It Takes Guts (D,D,B,F, BLK)
+DL38: 900 Koins: Courtyard(Night) Concept
+DL39: 1,000 Koins: Jax Primary Costume Concept
+DL40: 1,080 Koins: Baraka Alternate Costume Concept(Alternate 
+Costume Unlock)
+DL41: 880 Koins: Sindel Render
+DL42: 1,140 Koins: Flesh Pits Concept
+DL43: 1,100 Koins: Kombat Kode: Health Recovery (0 1 2 0 1 2)
+DL44: 800 Koins: Scorpion Reveal Render
+DL45: 1,060 Koins: Dead Pool Victim Concepts
+DL46: 950 Koins: Ermac Primary Costume Concept
+DL47: 1,100 Koins: Sektor Alternate Costume Concept(Alternate Costume
+Unlock)
+DL48: 980 Koins: Courtyard(Night) Music
+DL49: 1,020 Koins: Courtyard Speed Painting 2
+DL50: 1,020 Koins: Kombat Kode: Kombos Disabled (9 3 1 9 3 1)
+DL51: 920 Koins: Scorpion Primary Costume Concept
+DL52: 1,000 Koins: Kano Primary Costume Concept
+DL53: 1,100 Koins: Hell Fatality Sketch
+DL54: 860 Koins: Shao Kahn's Throne Room Concept
+DL55: 1,060 Koins: Dead Pool Speed Painting 1
+DL56: 800 Koins: Stryker Alternate Costume Concept(Alternate Costume
+Unlock)
+DL57: 880 Koins: Desert Speed Painting 2
+DL58: 1,080 Koins: Rooftop(Dusk) Music
+DL59: 1,100 Koins: Armory Speed Painting 2
+DL60: 820 Koins: Graveyard Speed Painting 1
+DL61: 900 Koins: Desert Music
+DL62: 1,020 Koins: Sindel Primary Costume Concept
+DL63: 1,500 Koins: Quan Chi Alternate Costume Concept(Alternate 
+Costume Unlock)
+DL64: 1,180 Koins: Kabal Fatality Sketch
+DL65: 900 Koins: Shao Kahn Render
+DL66: 820 Koins: Deadpool Speed Painting 2
+DL67: 940 Koins: Pit(Day) Concept
+DL68: 1,060 Koins: Koliseum Speed Painting 2
+DL69: 1,200 Koins: Kitana Alternate Costume Concept(Alternate Costume
+Unlock)
+DL70: 1,000 Koins: Kabal Primary Costume Concept
+DL71: 740 Koins: Graveyard Music
+DL72: 1,140 Koins: Desert Speed Painting 1
+DL73: 1,160 Koins: Kombat Kode: Disable Foreground Objects (0 0 1 0 0 1)
+DL74: 1,200 Koins: Sub-Zero Render
+DL75: 800 Koins: Flesh Pits Speed Painting 1
+DL76: 970 Koins: Kabal Fatality Sketch
+DL77: 1,100 Koins: Goro's Lair Speed Painting 1
+DL78: 1,120 Koins: Jade Render
+DL79: 1,300 Koins: Johnny Cage's Fatality: And the Winner Is (D,F,D,F, 4)
+DL80: 1,200 Koins: Retro Sub-Zero Render
+DL81: 1,120 Koins: Flesh Pits Speed Painting 2
+DL82: 1,000 Koins: Sonya Alternate Damage Concept
+DL83: 1,080 Koins: Kombat Kode: Power Bars Disabled (4 0 4 4 0 4)
+DL84: 820 Koins: Shao Kahn Concept
+DL85: 740 Koins: Soul Chamber Music
+DL86: 1,140 Koins: Sheeva Primary Damage Concept
+DL87: 1,180 Koins: Mileena Primary Costume Concept
+DL88: 1,200 Koins: Kabal Alternate Costume Concept(Alternate Costume
+Unlock)
+DL89: 1,060 Koins: Noob Primary Damage Concept
+DL90: 1,140 Koins: Courtyard(Day) Concept
+DL91: 1,060 Koins: Smoke Primary Costume Concept
+DL92: 1,040 Koins: Jax's Fatality: Three Points (F,F,B,D, 3)
+DL93: 900 Koins: Ermac Alternate Damage Concept
+DL94: 640 Koins: Shao Kahn's Throne Room Music
+DL95: 920 Koins: Bell Tower Speed Painting 1
+DL96: 740 Koins: Kombat Kode: Psycho Kombat(7 0 7 7 0 7)
+DL97: 1,100 Koina: Bell Tower Speed Painting 2
+DL98: 980 Koins: Hell Music
+DL99: 1,040 Koins: Raiden Alternate Damage Concept
+DL100: 1,040 Koins: Raiden Primary Costume Concept
+DL101: 920 Koins: Shang Tsung Alternate Costume Concept(Alternate 
+Costume Unlock)
+DL102: 1,020 Koins: Rooftop(Dusk) Concept
+DL103: 1,100 Koins: Kano Alternate Damage Concept
+DL104: 1,000 Koins: Cerberus Model
+DL105: 1,100 Koins: Kombat Kode: Unlimited Super Meter(4 6 6 4 6 6)
+DL106: 1,100 Koins: Sub-Zero Reveal Render
+DL107: 1,020 Koins: Goro's Lair Concept
+DL108: 980 Koins: Shang Tsung's Garden(Night) Concept
+DL109: 840 Koins: Sindel Alternate Damage Concept
+DL110: 1,060 Koins: Nightwolf Alternate Costume Concept(Alternate 
+Costume Unlock)
+DL111: 920 Koins: Courtyard Speed Painting 1
+DL112: 840 Koins: Graveyard Speed Painting 2
+DL113: 1,280 Koins: Kombat Kode: Dream Kombat(2 2 2 5 5 5)
+DL114: 740 Koins: Evil Monastery Music
+DL115: 980 Koins: Mileena Primary Damage Concept
+DL116: 1,240 Koins: Kombat Kode: Explosive Kombat(2 2 7 2 2 7)
+DL117: 880 Koins: Sheeva Alternate Damage Concept
+DL118: 1,000 Koins: Retro Scorpion Render
+DL119: 1,500 Koins: Scorpion Alternate Costume Concept(Alternate 
+Costume Unlock)
+DL120: 1,020 Koins: Cyrax's Fatality: Nothing But Net (B,D,B,F, 3)
+DL121: 1,000 Koins: Living Forest Speed Painting 1
+HI1: 980 Koins: Koliseum Concept
+HI2: 1,000 Koins: Kung Lao Primary Costume Concept
+HI3: 1,080 Koins: Koliseum Speed Painting 1
+HI4: 920 Koins: Baraka's Fatality: Take A Spin (F,F,D,D, 3)
+HI5: 760 Koins: Living Forest Concept
+HI6: 940 Koins: Street Music
+HI7: 880 Koins: Shao Kahn Damage Concept
+HI8: 980 Koins: Liu Kang Alternate Costume Concept(Alternate Costume
+Unlock)
+HI9: 1,100 Koins: Cyrax Alternate Damage Concept
+HI10: 900 Koins: Rooftop(Day) Concept
+HI11: 1,120 Koins: Graveyard Concept
+HI12: 1,080 Koins: Shang Tsung's Fatality: Identity Theft: (D,D, B, D, 2)
+HI13: 820 Koins: Shang Tsung Alternate Damage Concept
+HI14: 780 Koins: Armory Speed Painting 1
+HI15: 1,140 Koins: Kombat Kode: Enhance Moves Disabled(0 5 1 1 5 0)
+HI16: 780 Koins: Soul Chamber Concept 
+HI17: 1,000 Koins: Jade Primary Costume Concept
+HI18: 1,100 Koins: Kano's Fatality: Eat Your Heart Out: (D,D,F,B, 4)
+HI19: 960 Koins: Goro's Lair Speed Painting 2
+HI20: 920 Koins: Sheeva Primary Costume Concept
+HI21: 750 Koins: Subway Speed Painting 2
+HI22: 800 Koins: Sonya Alternate Costume Concept(Altenate Costume 
+Unlock)
+HI23: 1,060 Koins: Shang Tsung's Throne Room Speed Painting 2
+HI24: 1,050 Koins: Kombat Kode: Xrays Disabled(2 4 2 2 4 2)
+HI25: 960 Koins: Executioner Concept
+HI26: 1,020 Koins: Bell Tower Music
+HI27: 820 Koins: Shang Tsung's Garden(Day) Concept
+HI28: 1,180 Koins: Liu Kang's Fatality: The Beast WIthin (D,D,F,D, 4)
+HI29: 860 Koins: Bell Tower Concept
+HI30: 1,020 Koins: Quan Chi Fatality Sketch
+HI31: 1,180 Koins: Reptile Alternate Damage Concept
+HI32: 1,140 Koins: Sektor Primary Damage Concept
+HI33: 1,140 Koins: Mileena Alternate Costume Concept(Alternate 
+Costume Unlock)
+HI34: 1,120 Koins: Shang Tsung Primary Costume Concept
+HI35: 940 Koins: Courtyard(Day) Music
+HI36: 840 Koins: Johnny Cage Primary Damage Concept
+HI37: 1,200 Koins: Kombat Kode: Quick Uppercut Recovery(3 0 3 3 0 3)
+HI38: 940 Koins: Goro's Lair Music
+HI39: 1,340 Koins: Quan Chi's Fatality: On Your Knees (D,F,D,F, 4)
+HI40: 880 Koins: Sindel Primary Damage Concept
+MD1: 820 Koins: Rooftop(Dusk) Speed Painting 1
+MD2: 1,260 Koins: Nightwolf's Fatality: Ascension (D,D,F,B, 1)
+MD3: 1,060 Koins: Living Forest Trees
+MD4: 880 Koins: Flesh Pits Music
+MD5: 840 Koins: Nekropolis Concept 6
+MD6: 1,200 Koins: Cyrax Alternate Costume Concept(Alternate Costume
+Unlock)
+MD7: 1,050 Koins: Cyrax Primary Costume Concept
+MD8: 920 Koins: Nekropolis Concept 3
+MD9: 1,260 Koins: Kombat Kode: Armless Kombat (9 1 1 9 1 1)
+MD10: 760 Koins: Rooftop (Dawn) Speed Painting 1
+MD11: 1,280 Koins: Sektor's Fatality: The Scarecrow: (D,D,F,B, 1)
+MD12: 1,000 Koins: Jax Alternate Damage Concept
+MD13: 1,060 Koins: Meadow of Despair Concept 2
+MD14: 940 Koins: Raiden Alternate Costume Concept(Alternate Costume
+Unlock)
+MD15: 940 Koins: Street Speed Painting 1
+MD16: 840 Koins: Rooftop(Dawn) Speed Painting 2
+MD17: Kombat Kode: Breakers Disabled (0 9 0 0 9 0)
+MD18: 800 Koins: Pit Bottom Concept
+MD19: 960 Koins: Hallow of Infestation Concept 2
+MD20: 1,100 Koins: Johnny Cage Primary Costume Concept
+MD21: 1,300 Koins: Sheeva's Fatality: Lend A Hand (F,B,F,B, 4)
+MD22: 1,080 Koins: Desert Concept
+MD23: 1,180 Koins: Kitana Alternate Damage Concept
+MD24: 1,120 Koins: Jade Alternate Damage Concept 
+MD25: 1,200 Koins: Kano Alternate Kostume Concept(Alternate Costume
+Unlock)
+MD26: 940 Koins: Rooftop(Day) Speed Painting 2
+MD27: 800 Koins: Retro Reptile Render
+MD28: 1,010 Koins: Kombat Kode: Throwing Disabled (1 0 0 1 0 0)
+MD29: 840 Koins: Shang Tsung's Throne Room Concept B
+MD30: 1,100 Koins: Shang Tsung's Garden Speed Painting 1
+MD31: 960 Koins: Kung Lao's Fatality: Razor's Edge (D,D,F,B, 1)
+MD32: 1,040 Koins: Kitana Primary Damage Concept
+MD33: 1,000 Koins: Subway Music
+MD34: 920 Koins: Kano Primary Damage Concept
+MD35: 880 Koins: Baraka Primary Damage Concept
+MD36: 1,200 Koins: Jax Alternate Costume Concept(Alternate Costume 
+Unlock)
+MD37: 1,000 Koins: Goro Render
+MD38: 1,060 Koins: Early Krypt Entrance Concept 3
+MD39: 1,200 Koins: Kombat Kode: Invisible Kombat (7 7 0 7 7 0)
+MD40: 900 Koins: Jax Render
+MD41: 820 Koins: Blood Marsh Concept 2
+MD42: 1,280 Koins: Reptile's Fatality: Weight Loss (D,D,F,B, 1)
+MD43: 840 Koins: Hell Concept
+MD44: 1,000 Koins: Shao Kahn's Throne Room Speed Painting 2
+MD45: 1,280 Koins: Kombat Kode: Vampire Kombat (4 2 4 4 2 4)
+MD46: 1,120 Koins: Scorpion Primary Damage Concept
+MD47: 1,200 Koins: Kombat Kode: Double Dash (3 9 1 1 9 3)
+MD48: 940 Koins: Kitana Render
+MD49: 1,100 Koins: Skeletal Statues
+MD50: 1,040 Koins: Sub-Zero Shadow Render
+MD51: 1,140 Koins: Sub-Zero's Fatality: Spinal Smash (D,B,D,F, 2)
+MD52: 920 Koins: Pit(Night) Music
+MD53: 1,100 Koins: Ermac Render
+MD54: 1,000 Koins: Sub-Zero's Alternate Costume Concept(Alternate 
+Costume Unlock)
+MD55: 880 Koins: Scorpion Render
+
+KOMBAT CODES(FOR VS ONLY):
+
+0 0 1 0 0 1 (Dragon, Dragon, MK, Dragon, Dragon, MK): Disable 
+Foreground Objects
+0 1 0 0 1 0 (Dragon, MK, Dragon, Dragon, MK, Dragon): Throwing 
+Encouraged
+0 1 2 0 1 2 (Dragon, MK, Spear, Dragon, MK, Spear): Health Recovery
+0 2 0 0 2 0 (Dragon, Spear, Dragon, Dragon, Spear, Dragon): Blocking 
+Disabled
+0 2 2 0 2 2 (Dragon, Spear, Spear, Dragon, Spear, Spear): Dark Kombat
+0 4 4 4 4 0 (Dragon, ?, ?, ?, ?, Dragon): Sans Power 
+0 5 1 1 5 0 (Dragon, YinYang, MK, MK, YinYang, Dragon): Enhance Moves
+Disabled
+0 9 0 0 9 0 (Dragon, Raiden, Dragon, Dragon, Raiden, Dragon): Breakers
+Disabled
+0 9 1 0 9 1 (Dragon, Raiden, MK, Dragon, Raiden, MK): Hyper Fighting
+1 0 0 1 0 0 (MK, Dragon, Dragon, MK, Dragon, Dragon): Throwing 
+Disabled
+1 1 1 1 1 1 (MK, MK,MK, MK, MK, MK): Tournament Mode
+1 2 3 1 2 3 (MK, Spear, Shao Kahn, MK, Spear, Shao Kahn): Super 
+Recovery
+2 2 2 5 5 5 (Spear, Spear, Spear, YinYang, YinYang, YinYang): Dream 
+Kombat
+2 2 7 2 2 7 (Spear, Spear, Goro, Spear, Spear, Goro): Explosive Kombat
+2 3 4 2 3 4 (Spear, Shao Kahn, ?, Spear, Shao Kahn, ?): Rainbow Kombat
+2 4 2 2 4 2 (Spear, ?, Spear, Spear, ?, Spear): XRays Disabled.
+3 0 0 3 0 0 (Shao Kahn, Dragon, Dragon, Shao Kahn, Dragon, Dragon): 
+Silent Kombat
+3 0 3 3 0 3 (Shao Kahn, Dragon, Shao Kahn, Shao Kahn, Dragon, 
+Shao Kahn): Quick Uppercut Recovery
+3 9 1 1 9 3 (Shao Kahn, Raiden, MK, MK, Raiden, Shao Kahn) Double 
+Dash
+4 0 4 4 0 4 (?, Dragon, ?, ?, Dragon, ?) Power Bars Disabled
+4 2 4 4 2 4 (?, Spear, ?, ?, Spear, ?): Vampire Kombat
+4 6 6 4 6 6 (?, Skull, Skull, ?, Skull, Skull): Unlimited Super Meter
+6 6 6 6 6 6 (Skull, Skull, Skull, Skull, Skull, Skull): Zombie Kombat
+7 0 7 7 0 7 (Goro, Dragon, Goro, Goro, Dragon, Goro): Psycho Kombat
+7 3 1 7 3 1 (Goro, Shao Kahn, Dragon, Goro, Shao Kahn, Dragon): 
+Specials Disabled
+7 7 0 7 7 0 (Goro, Goro, Dragon, Goro, Goro, Dragon): Invisible Kombat
+8 0 8 8 0 8 (Sais, Dragon, Sais, Sais, Dragon, Sais): Headless Kombat
+8 3 1 8 3 1 (Sais, Shao Kahn, MK, Sais, Shao Kahn, MK): Jumping 
+Disabled
+9 0 0 9 0 0 (Raiden, Dragon, Dragon, Raiden, Dragon, Dragon): No Blood
+9 1 1 9 1 1 (Raiden, MK, MK, Raiden, MK, MK): Armless Kombat
+9 3 1 9 3 1 (Raiden, Shao Kahn, MK, Raiden, Shao Kahn, MK): Kombos 
+Disabled
+
+----------------------------------------------------------------
+
+Trophy/Awards List:
+
+A for Effort: Complete Tutorial Mode
+Arcade Champion: Complete Arcade Ladder with All Fighters
+Back in Time: Complete Story Mode 100%
+Best...Alternate...Ever!: Unlock Flesh Pit Mileena Costume
+Block This: Perform 10 hit kombo with any fighter
+Brotherhood of Shadow: Discover and Fight Hidden Kombatant 4 in 
+Arcade Ladder
+Complet-ality: Perform 1 of each type of "-ality"
+Cold Fusion: Unlock Hidden Fighter "Cyber Sub-Zero"
+Cyber Challenger: Complete 100 Online Matches
+Dim Mak!: Complete ALL Test Your Strike Mini Game Challenges
+Don't Jump!: Win a Ranked Online Match Without Jumping
+e-X-cellent!: Successfully land every playable fighter's X-Ray 
+Fatality: Perform a Fatality
+Finish Him?: Perform Any Fighter's Hidden Finishing Move
+Finish What You Start!: Perform a Fatality with ALL Playable Fighters
+Halfway There: Complete Story Mode 50%
+Hide and Seek: Discover and Fight Hidden Kombatant 2 in Arcade 
+Ladder
+Humiliation: Get a Flawless Victory in an Online Match
+I 'Might' Be the Strongest: Complete ALL Test Your Might Mini-Game 
+Challenges
+I'm not Dead Yet: Comeback with  under 10% health in Online Ranked 
+Match
+Ladder Master:  Comeplete Arcade Ladder on Max Difficulty without using 
+a Continue
+License to Kill: Complete Fatality Trainer
+Luck Be A Lady: Get All MK Dragons in Test Your Luck
+My Kung Fu Is Strong: Gain Mastery of 1 Fighter
+My Kung Fu Is Stronger: Gain Mastery of ALL Fighters
+Outstanding!: Win10 Ranked Online Matches in a row
+Pit Master: Discover and Fight Hidden Hidden Kombatant 3 in Arcade 
+Ladder
+Quan-Tease: Unlock Hidden Figther "Quan Chi"
+Robots Rule: Complete Tag Ladder with Robo Sektor and Cyrax
+Tag, You're It!: Perform and land a Tag Combo
+The Competitor: Complete 200 Versus Matches(both online or offline)
+The Grappler: Perform every fighter's forward and backwards throws
+The Krypt Keeper: Unlock 100% of the Krypt
+There Can Be Only One!: Win 10 King of the Hill Matches in a row
+There Will Be Blood!: Spill 10,000 pints of Blood
+These Aren't My Glasses!: Complete All Test Your Sight Mini Game 
+Challenges
+Throws Are for Champs: Perform 8 Throws in an Online Ranked Match
+Tough Guy!: Win an Online Match
+Tower Apprentice: Complete 25 Tower Missions
+Tower master: Complete ALL Tower Missions 
+Turtle!: Win both rounds with timer running out in an On-line Ranked 
+Match
+Ultimate Humiliation: Unlock and perform Babality for ALL kharacters 
+including the hidden unlockable kharacters.
+Ultimate Respect: Earn 2,500 Respect Points via King of the Hill Matches
+Undertaker: Unlock 50% of the Krypt
+Wavenet...: Win 100 Total Online Matches
+What Does This Button Do?: Complete Arcade Ladder Without Blocking
+(Allowed to continue)
+Where's The Arcae?: Complete Arcade Ladder with Any Fighter
+You've Got Style: Unlock all alternate Kostumes
+You Found Me!: Discover and Fight Hidden Kombatant 1 in Arcade 
+Ladder
+You Will Learn Respect!: Earn 1,000 Respect Points via King of the Hill 
+Matches
+
+----------------------------------------------------------------
+Rumors:
+----------------------------------------------------------------
+
+There is only two as of now. 
+1) Fujin, one of the new kharacter who debuted in MK4 Arcade has been
+leaked by what seems like a test footage by the MK team. A generic male 
+kharacter who have no special moves or attacked programmed in, when
+you pick him, the announcer say his name. Fujin. Other than that, he 
+hasn't been confirmed. He could be just a placeholder for a new, 
+un-revealed DLC, while Kenshi, the blind swordman from MKDA, and 
+Rain, the Purple Ninja from UMK3 Arcade are now been confirmed as an
+upcomming DLC.
+
+2) 6 Additional Klassic Kostumes are in the works: It could be just a 
+rumor now, but we would never know....
+
+----------------------------------------------------------------
+
+CREDIT:
+-Various MK Fan Sites.
+-Prima Official Game Guide
+-Critical-bits.com, for some of the Kombos.
+-AfterDarkGaming on his/her Kombo on Youtube for Skarlet
+
+**If you need to add anything, comments, or anything, please send an
+E-mail to me at:
+
+grandam_1999@hotmail.com
+
+Web-site: http://z14.invisionfree.com/mortalkombat
+
+
+Thank You. **
