@@ -1,9 +1,13 @@
 .. index:: Magie,
 
+.. |date| date:: %Y/%m/%d
+.. |time| date:: %H:%M
+
 ========
 Alchimie
 ========
 
+:Edition: |date| à |time|
 :Update: 2013/08/22 17:40:57 +0200
 
 .. toctree::

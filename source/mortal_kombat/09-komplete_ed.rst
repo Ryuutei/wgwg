@@ -1,45 +1,12 @@
-.. template for ReST
-    toctree:
-    Entries （titles directly）
-    :maxdepth: Y
-    :numbered:
-    :titlesonly:
-    :glob:  （files and folders）
-    :hidden:
+.. index:: Combat, Steam Only
 
-    .. math:: （a + b）^2 = a^2 + Yab + b^Y
-        :label: truc \n
-    some other paragraph with :eq:`truc` which ref. or :math:`inline maths`
-
-    `hyperlink <http://stuff.com>`_
-    hyperlink_
-    .. _hyperlink: http://stuff.com
-
-    footnote ref[n]_.
-        .. [n] footnote stuff with no : after "[n]"
-
-    :download:`title <file>`
-    :ref:`text : to be linked` # will link to :
-    .. _text \: to be linked:
-
-    Word
-        to define.
-    r"""raw python like line"""
-    #. auto enumerated stuff.
-    #. auto enumerated stuff.
-    .. image:: path/image.png
-    .. NAME image:: path/image.png   // then after refered as |NAME|
-    Titles, chapter and paragraphs :
-    # with overline, for parts
-    * with overline, for chapters
-    =, for sections
-    -, for subsections
-    ^, for subsubsections
-    ", for paragraphs
-
-.. index:: combat
 .. |date| date:: %Y/%m/%d
 .. |time| date:: %H:%M
+
+.. |lin| image:: ../img/linux.svg
+.. |osx| image:: ../img/osx.svg
+.. |win| image:: ../img/windows.svg
+.. |and| image:: ../img/android.svg
 
 .. image:: mklogo.png
     :align: right
@@ -47,6 +14,8 @@
 
 Mortal Kombat Komplete Edition
 ==============================
+
+:Plateforme: |win| ⚠ Steam!
 
 :Edition: |date| à |time|
 
@@ -61,15 +30,14 @@ ___________
 
 ↓ : Down
 
-B : Low Kick  ／Attack 1 ／X（X-Box）／Square（PS3）
+B : LK／Attack 1／X（X-Box）／▢ （PS3）
 
-Y : Low Punch ／Attack 2 ／Y（X-Box）／Triangle（PS3）
+Y : LP／Attack 2／Y（X-Box）／△ （PS3）
 
-A : High Kick ／Attack 3 ／A（X-Box）／X（PS3）
+A : HK／Attack 3／A（X-Box）／╳ （PS3）
 
-X : High Punch／Attack 4 ／B（X-Box）／O（PS3）
+X : HP／Attack 4／B（X-Box）／◯ （PS3）
 
-****
 
 Power／Super Meters
 ___________________
@@ -80,7 +48,6 @@ On the bottom of the screen, you will see a meter for you and your opponent. As 
 #. bars filled: Breaker: When your opponent attacks, if you have the Y bars filled on your meter, holding block and move forward will break your opponent's attack, giving you a breather and a chance to counter.
 #. bars filled: X-Ray: A big X will appear on the side of your meter.  Signaling you that you can perform your character's most vicious super attack, called X-Ray. Simply hit your Y bottom bumpers（LT + RT on X-Box 360, or L2 + R2 on PS3） Simultaneously, or simply hold Block, and Attack A and X together to perform the X-ray attack when you have full meter.
 
-****
 
 Universal Attack for All Fighters
 _________________________________
@@ -92,7 +59,6 @@ _________________________________
 - Dash in: After an attack, →, → while the animation of your attack is hitting your opponent. Vital if you want to perform some of the more complex kombos in the game.
 - Uppercut:  〔↓+2〕
 
-****
 
 Fatalities
 __________
@@ -113,7 +79,6 @@ Babality on Bosses
 
 - Shao Kahn: Beat every opponent including Goro/Kintaro without continue in at least a medium skill level, 2 rounds each in the ladder.  You can lose a round, but no matches. Finish all your opponents with the Babality, then beat Shao Kahn without continue and do NOT use block on the final round to turn Shao into a baby.
 
-****
 
 Character Move Sets & Combos
 ____________________________
@@ -142,12 +107,12 @@ Fatality:
     #.  Stage: →,↑,↑, B
     #.  Babality: ↓,←,→,↓, Y
 
-Kombos:
-    #.   〔←+2〕, ↓, 〔←+3〕, ←, 〔←+1〕, B, B, B, ↓, 〔←+4〕 （7 Hits） 21%
+Combos:
+    #.  〔←+2〕, ↓, 〔←+3〕, ←, 〔←+1〕, B, B, B, ↓, 〔←+4〕 （7 Hits） 21%
     #.  Jump Kick, ↓, 〔←+3〕, Dash in, B, B, ←, 〔←+1〕, ↓, 〔←+4〕 （9 Hits）
-    #.   〔←+2〕, Dash in, ↓, 〔←+3+8〕（when you have the bar filled）, ↓, 〔←+3〕, ←, 〔←+1〕, Y, B, B+2 （10 Hits）
+    #.  〔←+2〕, Dash in, ↓, 〔←+3+8〕（when you have the bar filled）, ↓, 〔←+3〕, ←, 〔←+1〕, Y, B, B+2 （10 Hits）
     #.  Jump Punch,  〔→+2〕, B, ←, 〔←+1〕, Jump Punch, Y, B+2, ↓, 〔←+3〕, Dash in, B, B , ↓, 〔←+3〕,  〔↓+1〕, ←, 〔←+1+8〕（when you have the bar filled） （13 Hits）
-    #.   〔←+2〕, Dash in, B, B, ↓, 〔←+3〕, Dash in, Uppercut （5 Hits）
+    #.  〔←+2〕, Dash in, B, B, ↓, 〔←+3〕, Dash in, Uppercut （5 Hits）
     #.  ←, 〔←+1〕, A, A, ↓, 〔←+4〕 （5 Hits）
     #.  B, B, ←, 〔←+1〕, Dash in,  〔←+2〕, Dash in, Y, B, Y（8 Hits） 30% Damage
     #.  B, B, ←, 〔←+1〕,  〔↑+1〕, Dash in,  〔←+2〕, Dash in, A, A, X （8 Hits） 28% Damage
@@ -179,7 +144,7 @@ Fatality:
     #.  Stage: ↓,↓,↓, B
     #.  Babality: ↓,↓,↓, X
 
-Kombos:
+Combos:
     #.   〔←+3〕, B, Y, ←,←, 〔→+4〕 （9 Hits） 25% Damage
     #.   〔←+3〕, B, Y, ←,←, 〔→+4+8〕（If you have the meter） （11 Hits） 30% Damage
     #.   〔→+4〕, A, ←, 〔→+2+8〕（If you have the meter） （3 Hits） 17% Damage
@@ -215,7 +180,7 @@ Fatality:
     #.  Stage: ↓,→,↓, Block
     #.  Babality: ↓,→,↓, Y
 
-Kombos:
+Combos:
     #.  B, B, Y, ↓, 〔→+1〕, Jump Kick, Dive Kick,  〔→+3〕, ↓, 〔→+1〕 （8 Hits） 26% Damage
     #.  B, B, Y, ↓, 〔→+1〕, Dive Kick, Dash in, B, Dash in, Y, X, B+2 （9 Hits） 27% Damage
     #.  ↓, 〔↑+3〕, Y, B, Y, B, Y （8 Hits） 25% Damage
@@ -258,7 +223,7 @@ Fatality:
     #.  Stage: →,↓,←, Y
     #.  Babality: ↓,←,↓, X
 
-Kombos:
+Combos:
     #.  B, ↓, 〔→+3〕, Y, B, X, ←, 〔→+4〕 （6 Hits）
     #.  Y, Y, ↓, 〔→+3〕,  〔→+3〕, X （5 Hits）
     #.  ↓, 〔←+3〕,  〔←+1〕, Y, B （4 Hits）
@@ -290,7 +255,7 @@ Fatality:
     #.  Stage: ↓,↓,↓, B
     #.  Babality: ↓,↓,↓,↑
 
-Kombos:
+Combos:
     #.   〔←+1〕, Y, Dash in,  〔→+1〕, Y, ↓, 〔→+2〕 （6 Hits） 22% Damage
     #.   〔←+3〕,  〔→+2〕, Dash in,  〔→+1〕, Y, X （5 Hits） 23% Damage
     #.  X, X,  〔←+1〕, Y, Dash in, B, B, B, ↓,→, Y （9 Hits） 27% Damage
@@ -328,7 +293,7 @@ Fatality:
     #.  Stage: ↓,↑,↓,↓, A
     #.  Babality: ↓,↓,←,↓, Y
 
-Kombos:
+Combos:
     #.   〔←+1〕, ↓, 〔←+3〕, Dash in,  〔←+1〕, B, ↓, 〔←+3〕 （10 Hits） 24% Damage
     #.  A, B, ↓, 〔←+1〕, ↓, 〔←+4〕, ←, 〔→+1〕 （7 Hits）
     #.  Y, Y, ↓, 〔←+3〕, Y, Y, ↓, 〔←+2〕 （7 Hits） 32% Damage
@@ -373,7 +338,7 @@ Fatality:
     #.  Stage: →,↓,↓, Block
     #.  Babality: ←,→,←,↓, A
 
-Kombos:
+Combos:
 
     #.  B, Y, Y, ←, 〔←+1〕, A, Y, ←, 〔←+3〕, Uppercut （8 Hits） 29% Damage
     #.  B, Y, Y, ←, 〔←+1〕, A, Y, ←, 〔←+3〕, A, Y, B, ←, 〔→+4〕 （11 Hits） 33% Damage
@@ -418,7 +383,7 @@ Fatality:
     #.  Stage: From Close: →,↓,↓, A
     #.  Babality: →,↓,→, X
 
-Kombos:
+Combos:
     #.   〔→+3〕, B, ←, 〔←+2〕, Jump Kick, Air Fan, Jump Punch, Jump Kick, Air Fan （9 Hits）
     #.  Jump Punch, Y, B, ↓, 〔→+1+8〕（If you have the meter, and hold Y for Y seconds to charge it）, → or ← to cancel the charge, Dash in, A, A, ↓, 〔←+3〕 （9 Hits）
     #.   〔→+2〕, B, B, B, Y （5 Hits）
@@ -452,7 +417,7 @@ Fatality:
     #.  Stage: ↓,←,→, Block
     #.  Babality: →,←,→, X
 
-Kombos:
+Combos:
     #.   〔←+2〕, Dash in,  〔←+3〕, B, B, ↓, 〔→+2+8〕（If you have the meter）, ←, 〔→+4+8〕（If you have the meter） （10 Hits）
     #.  Y, Y,  〔→+2〕, Dash in, X, X, ↓, 〔←+3+8〕（If you have the meter） （9 Hits）
     #.  Y, B,  〔→+2〕, ←, 〔→+4〕 （4 Hits）
@@ -491,7 +456,7 @@ Fatality:
     #.  Stage: ←,→,↓, Block
     #.  Babality: ↓,↓,→,↓, X
 
-Kombos:
+Combos:
     #.  Jumping B,  〔←+1〕, ↓, 〔←+2〕, Dash in,  〔←+2〕, Dash in, B, Y, Dash in, Uppercut （9 Hits） 35% Damage
     #.  A, X, ↓, 〔→+1+8〕（If you have the meter）, ↓, 〔→+4+8〕（If you have the Meter）, ↓, 〔→+4〕 （7 Hits）
     #.  Jump Punch, A, ↓, 〔←+2〕, Dash in,  〔→+2〕, B, ↓, 〔→+4〕, Dash in,  〔↓+1〕, ↓, 〔→+4〕 （8 Hits）
@@ -535,7 +500,7 @@ Fatality:
     #.  Stage: ↓,↓,↓, B
     #.  Babality: ↓,↓,→,←, Y
 
-Kombos:
+Combos:
     #.   〔↑+4〕, Dash in, A, X, ←, 〔→+2〕 （8 Hits）
     #.   〔↑+4〕,  〔→+3〕, B+2, ←, 〔↓+4〕, Jump Kick, →, 〔→+3+8〕（If Meter is Available）, →, 〔→+3〕, ←, 〔→+1〕 into ←, 〔→+1+8〕（If Meter is there） （9 Hits）
     #.  Jump Punch, X, Y, →, 〔→+3〕 （4 Hits）
@@ -575,7 +540,7 @@ Fatality:
     #.  Stage: ↓,↓,↓, Block
     #.  Babality: →,←,→,←, B
 
-Kombos:
+Combos:
     #.   〔→+3〕, B, ↓, 〔→+1〕, B, B, ↓, 〔←+1〕, →, 〔→+4+8〕（If you have the meter） （8 Hits）
     #.   〔←+1〕, B, B, ↓, 〔→+3〕,  〔←+1〕, ↓, 〔→+1+8〕（If you have the meter）, Dash in, B, ↓, 〔→+2〕 （10 Hits）
     #.   〔←+1〕, B, B, →, 〔→+4+8〕（If you have the meter） （6 Hits）
@@ -618,7 +583,7 @@ Fatality:
     #.  Stage: ↓,↑, Block
     #.  Babality: ↓,→,←, Y
 
-Kombos:
+Combos:
     #.  Jumping Y, B, Y, ←, 〔←+3〕,  〔←+2〕, Dash in, Dash in, B, Y （7 Hits） 20% Damage
     #.  Jumping Y, B, Y, ←, 〔←+3〕, Jumping Y, B, Y, A （7 Hits） 22% Damage
     #.   〔←+2〕, Dash in, B, Y, ↓, 〔→+2〕（Opponent must be in air） （5 Hits）
@@ -656,7 +621,7 @@ Fatality:
     #.  Stage: →,↓,→, Block
     #.  Babality: →,↑,→, B
 
-Kombos:
+Combos:
     #.  ↓, 〔←+2〕, Hop Punch,  〔←+2〕, B, X, ←, 〔→+4+8〕（If you have the meter） （5 Hits）
     #.  Jump Punch, B, Y, ↓, 〔←+3+8〕（If you have the meter） （5 Hits）
     #.   〔←+1〕, Y, B, ↓, 〔→+1〕 （4 Hits）
@@ -694,7 +659,7 @@ Fatality:
     #.  Stage: →,↑,↑, B
     #.  Babality: ↓,←,↓,→,D
 
-Kombos:
+Combos:
     #.  Jump Punch,  〔←+2〕, A, ↓, 〔←+2〕, Jump Kick, ↓, 〔←+4〕 （8 Hits）
     #.  Jump Punch, Y, B, ↓, 〔←+2〕, Jump Punch, Jump Kick, Air Throw （8 Hits）
     #.  Jump Punch, Y, ↓, 〔←+2〕, Uppercut （6 Hits）
@@ -737,7 +702,7 @@ Fatality:
     #.  Stage: ↓,→,↓, Block
     #.  Babality: ←,↓,↓,↓, X
 
-Kombos:
+Combos:
     #.   〔↑+3〕, X, ↓, 〔→+4〕, Jump Kick, ↓, 〔→+4+8〕（If you have the meter）, X, ←, 〔→+3〕 （7 Hits）
     #.  Y, B, ↓, 〔→+4〕, B, Y, ↓, 〔→+4+8〕（If you have the meter）, B, ←, 〔→+2〕 （9 Hits）
     #.  Jump Kick, ↓, 〔→+4〕, X, ←, 〔→+2〕 （5 Hits）
@@ -776,7 +741,7 @@ Fatality:
     #.  Stage: ←,→,↓, Y
     #.  Babality: ↓,↓,→, A
 
-Kombos:
+Combos:
     #.  B, B, X, ↓, 〔→+3〕, ←, 〔→+4〕 （7 Hits） 23% Damage
     #.  B, B, X, ↓, 〔→+3+8〕（when meter is there）, ←, 〔→+4+8〕（when meter is there） （8 Hits） 28% Damage
     #.   〔→+2〕, Y, ↓, 〔→+3〕, ←, 〔→+4〕 （6 Hits） 25% Damage
@@ -815,7 +780,7 @@ Fatality:
     #.  Stage: ↓,→,↓, B
     #.  Babality: ↓,↓,↓, A
 
-Kombos:
+Combos:
     #.  B, Y, ↓, 〔→+1+8〕（If you have the meter）: （8 Hits） 22% Damage
     #.  B+3, B+4, Y+3, Y+4: （6 Hits）13% Damage
     #.  ↓, 〔←+3〕,  〔←+1〕, Y, X, ↓, 〔→+2+8〕（If you have the meter）: （6 Hits）
@@ -850,7 +815,7 @@ Fatality:
     #.  Stage: ↑,↑,←, X
     #.  Babality: →,↓,↓, A
 
-Kombos:
+Combos:
     #.  Y, B, Y, Dash in, Y, B, Y, Ball （7 Hits） 25% Damage
     #.   〔←+1〕, B, Y, Dash in,  〔←+1〕, B, Y, Ball （7 Hits） 31% Damage
     #.   〔→+3〕,  〔←+2〕, Dash in, Y, B, Y, ↓, 〔←+2〕 （6 Hits） 24% Damage
@@ -885,7 +850,7 @@ Fatality:
     #.  Stage: →,↑,↑, A
     #.  Babality: ↓,→,↓,←, Y
 
-Kombos:
+Combos:
     #.  Jumping Punch,  〔←+2〕,  〔→+2〕, Dash in, Y, A, Y （8 Hits）
     #.   〔←+3〕, Y, Dash in, B, B, ←, 〔→+1+8〕（If you have the meter）, Dash in, B, ←, 〔→+4〕 （11 Hits）
     #.   〔←+1〕, Y, Y, ←, 〔→+1〕 （5 Hits）
@@ -925,7 +890,7 @@ Fatality:
     #.  Stage: ↑,↑,←, B
     #.  Babality: ↓,←,↓, A
 
-Kombos:
+Combos:
     #.  Y, Y, B, ↓, 〔↑+4〕, ↓, 〔←+4〕, ↓, 〔↑+4+8〕（If you have the meter）, Uppercut （9 Hits） 37% Damage
     #.   〔→+4〕, A, X, ↓, 〔←+4〕, ↓, 〔→+4〕, ↓, 〔↑+4+8〕（If you have the meter）, Uppercut （9 Hits） 35% Damage
     #.   〔←+1〕, Y, B, ←, 〔←+1〕: （4 Hits）
@@ -963,7 +928,7 @@ Fatality:
     #.  Stage: ↓,↓,↓,↓, A
     #.  Babality: →,←,→, X
 
-Kombos:
+Combos:
     #.  Jump Punch, B, Y, ↓, 〔←+3+8〕（If you have the meter）: （7 Hits）
     #.  Y, Y, B+2, Dash in,  〔←+3〕, Y, ↓, 〔→+2+8〕（If you have the meter）: （8 Hits）
     #.  Y, Y, ←, 〔←+1〕: （9 Hits）  17% Damage
@@ -998,7 +963,7 @@ Fatality:
     #.  Stage: ↓,↓, X
     #.  Babality: →,↓,←, A
 
-Kombos:
+Combos:
     #.  Jump Kick, ←, 〔←+1〕, ←, 〔→+4〕, B, B, B, ←, 〔←+1+8〕（If you have the meter） （7 Hits）
     #.  Jump Punch,  〔→+3〕, B, ←, 〔→+4〕, Dash back, Jump Kick, ←, 〔←+1〕, Dash in, →+4, ↓, 〔←+2+8〕（If you have the meter） （10 Hits）
     #.   〔←+1〕, Y, B, Dash in, Uppercut （4 Hits）
@@ -1032,7 +997,7 @@ Fatality:
     #.  Stage: ↓,↓,↓, Y
     #.  Babality: ↓,←,↓, X
 
-Kombos:
+Combos:
     #.  A, A, X,  〔←+3〕, B, Y... B, Y, B
     #.  B, Y, B, ↓, 〔→+2〕,  〔←+3〕, B, Y, ←, 〔→+3〕 （9 Hits） 29% Damage
     #.  A, A, X,  〔←+3〕, B, Y, ←, 〔→+3〕
@@ -1068,7 +1033,7 @@ Fatality:
     #.  Stage: ↓,↓,↓,↓, B
     #.  Babality: ↓,↓,↓,←, X
 
-Kombos:
+Combos:
     #.  Jump Punch, B, Y,  〔←+1〕, Dash in, B, ↓, 〔→+1+8〕（If you have the meter） （8 Hits）
     #.  Jump Punch, Y, B, Y,  〔→+1〕, ↓, 〔→+2〕 （6 Hits）
     #.  Y, B, Y, ↓, 〔←+4〕 （5 Hits）
@@ -1109,7 +1074,7 @@ Fatality:
     #.  Stage: ←,→,↓, Y
     #.  Babality:  →,↓,←, Y
 
-Kombos:
+Combos:
     #.  Jump Punch, B, B, Y, ↓, 〔←+3〕（Holding F） （5 Hits）
     #.  Jump Punch, B, B, ←, 〔→+3〕 （8 Hits）
     #.  ←, 〔→+3〕,  〔→+1〕, Y, B+2 （5 Hits）
@@ -1147,7 +1112,7 @@ Fatality:
     #.  Stage: ↓,↓,↑, Block
     #.  Babality: ↓,←,→, Block
 
-Kombos:
+Combos:
     #.  B, B, ↓, 〔→+1〕, Dash in, A, A, Y （6 Hits）
     #.  B, B, Y, ←, 〔→+4+8〕（If you have the meter） （5 Hits）
     #.  ↓, 〔→+1〕,  〔←+3〕, Y, B （4 Hits）
@@ -1264,12 +1229,11 @@ Fatality:
     #.  Stage: →,←,→, B
     #.  Babality: ↓,←,↓,→, Y
 
-Kombos:
+Combos:
     #.   〔←+1〕, B, Dash in, ↓, 〔→+2〕, Move in, Y, Dash in, ↓, 〔→+3〕,  〔←+2〕, Move in, Y, Dash in, ↓, 〔→+3〕,  〔←+2〕, Move in, Dash in, Move in, B, B, Y, Move in, ↓, 〔→+3〕 （10 Hits） 35% Damage
 
 Win Pose: Points her palm forward in victory.
 
-****
 
 
 Stages
@@ -1301,7 +1265,6 @@ ______
     #.  Tower: A klassic MK2 stage returns with a sharply re-done graphics and an upgraded outside view though the huge window behind the Shadow Priest.
     #.  Wastelands: A reddish, wasteland stage in MK2 returns in the new game with a completely different look that rather feels like you are in a deserted ancient world in a much crispier graphics.
 
-****
 
 Krypt
 _____
@@ -1443,7 +1406,7 @@ _____
 - DL47: 1,100 Coins: Sektor Alternate Costume Concept（Alternate Costume Unlock）
 - DL48: 980 Coins: Courtyard（Night） Music
 - DL49: 1,020 Coins: Courtyard Speed Painting 2
-- DL50: 1,020 Coins: Kombat Kode: Kombos Disabled （9 3 1 9 3 1）
+- DL50: 1,020 Coins: Kombat Kode: Combos Disabled （9 3 1 9 3 1）
 - DL51: 920 Coins: Scorpion Primary Costume Concept
 - DL52: 1,000 Coins: Kano Primary Costume Concept
 - DL53: 1,100 Coins: Hell Fatality Sketch
@@ -1617,11 +1580,24 @@ _____
 - MD54: 1,000 Coins: Sub-Zero's Alternate Costume Concept（Alternate Costume Unlock）
 - MD55: 880 Coins: Scorpion Render
 
-****
 
 Kombat Codes
 ____________
 
+Legende：
+
+- 0 Dragon
+- 1 MK
+- 2 Lance/Fleche
+- 3 Shao Khan
+- 4 ？
+- 5 Ying Yang
+- 6 Crane
+- 7 Goro
+- 8 Sai
+- 9 Raiden
+
+Codes：
 
 - 0 0 1 0 0 1 （Dragon, Dragon, MK, Dragon, Dragon, MK）: Disable Foreground Objects
 - 0 1 0 0 1 0 （Dragon, MK, Dragon, Dragon, MK, Dragon）: Throwing Encouraged
@@ -1653,63 +1629,62 @@ ____________
 - 8 3 1 8 3 1 （Sais, Shao Kahn, MK, Sais, Shao Kahn, MK）: Jumping Disabled
 - 9 0 0 9 0 0 （Raiden, Dragon, Dragon, Raiden, Dragon, Dragon）: No Blood
 - 9 1 1 9 1 1 （Raiden, MK, MK, Raiden, MK, MK）: Armless Kombat
-- 9 3 1 9 3 1 （Raiden, Shao Kahn, MK, Raiden, Shao Kahn, MK）: Kombos Disabled
+- 9 3 1 9 3 1 （Raiden, Shao Kahn, MK, Raiden, Shao Kahn, MK）: Combos Disabled
 
 
-****
 
-Trophy/Awards List
-__________________
+..  Trophy/Awards List
+    __________________
 
 
-- A for Effort: Complete Tutorial Mode
-- Arcade Champion: Complete Arcade Ladder with All Fighters
-- Back in Time: Complete Story Mode 100%
-- Best…Alternate…Ever!: Unlock Flesh Pit Mileena Costume
-- Block This: Perform 10 hit kombo with any fighter
-- Brotherhood of Shadow: Discover and Fight Hidden Kombatant 4 in Arcade Ladder
-- Complet-ality: Perform 1 of each type of "-ality"
-- Cold Fusion: Unlock Hidden Fighter "Cyber Sub-Zero"
-- Cyber Challenger: Complete 100 Online Matches
-- Dim Mak!: Complete ALL Test Your Strike Mini Game Challenges
-- Don't Jump!: Win a Ranked Online Match Without Jumping
-- e-X-cellent!: Successfully land every playable fighter's X-Ray
-- Fatality: Perform a Fatality
-- Finish Him?: Perform Any Fighter's Hidden Finishing Move
-- Finish What You Start!: Perform a Fatality with ALL Playable Fighters
-- Halfway There: Complete Story Mode 50%
-- Hide and Seek: Discover and Fight Hidden Kombatant 2 in Arcade Ladder
-- Humiliation: Get a Flawless Victory in an Online Match
-- I 'Might' Be the Strongest: Complete ALL Test Your Might Mini-Game Challenges
-- I'm not Dead Yet: Comeback with  under 10% health in Online Ranked Match
-- Ladder Master:  Comeplete Arcade Ladder on Max Difficulty without using a Continue
-- License to Kill: Complete Fatality Trainer
-- Luck Be A Lady: Get All MK Dragons in Test Your Luck
-- My Kung Fu Is Strong: Gain Mastery of 1 Fighter
-- My Kung Fu Is Stronger: Gain Mastery of ALL Fighters
-- Outstanding!: Win10 Ranked Online Matches in a row
-- Pit Master: Discover and Fight Hidden Hidden Kombatant 3 in Arcade Ladder
-- Quan-Tease: Unlock Hidden Figther "Quan Chi"
-- Robots Rule: Complete Tag Ladder with Robo Sektor and Cyrax
-- Tag, You're It!: Perform and land a Tag Combo
-- The Competitor: Complete 200 Versus Matches（both online or offline）
-- The Grappler: Perform every fighter's forward and backwards throws
-- The Krypt Keeper: Unlock 100% of the Krypt
-- There Can Be Only One!: Win 10 King of the Hill Matches in a row
-- There Will Be Blood!: Spill 10,000 pints of Blood
-- These Aren't My Glasses!: Complete All Test Your Sight Mini Game Challenges
-- Throws Are for Champs: Perform 8 Throws in an Online Ranked Match
-- Tough Guy!: Win an Online Match
-- Tower Apprentice: Complete 25 Tower Missions
-- Tower master: Complete ALL Tower Missions
-- Turtle!: Win both rounds with timer running out in an On-line Ranked Match
-- Ultimate Humiliation: Unlock and perform Babality for ALL characters including the hidden unlockable characters.
-- Ultimate Respect: Earn 2,500 Respect Points via King of the Hill Matches
-- Undertaker: Unlock 50% of the Krypt
-- Wavenet…: Win 100 Total Online Matches
-- What Does This Button Do?: Complete Arcade Ladder Without Blocking （Allowed to continue）
-- Where's The Arcade?: Complete Arcade Ladder with Any Fighter
-- You've Got Style: Unlock all alternate Costumes
-- You Found Me!: Discover and Fight Hidden Kombatant 1 in Arcade Ladder
-- You Will Learn Respect!: Earn 1,000 Respect Points via King of the Hill Matches
+    - A for Effort: Complete Tutorial Mode
+    - Arcade Champion: Complete Arcade Ladder with All Fighters
+    - Back in Time: Complete Story Mode 100%
+    - Best…Alternate…Ever!: Unlock Flesh Pit Mileena Costume
+    - Block This: Perform 10 hit kombo with any fighter
+    - Brotherhood of Shadow: Discover and Fight Hidden Kombatant 4 in Arcade Ladder
+    - Complet-ality: Perform 1 of each type of "-ality"
+    - Cold Fusion: Unlock Hidden Fighter "Cyber Sub-Zero"
+    - Cyber Challenger: Complete 100 Online Matches
+    - Dim Mak!: Complete ALL Test Your Strike Mini Game Challenges
+    - Don't Jump!: Win a Ranked Online Match Without Jumping
+    - e-X-cellent!: Successfully land every playable fighter's X-Ray
+    - Fatality: Perform a Fatality
+    - Finish Him?: Perform Any Fighter's Hidden Finishing Move
+    - Finish What You Start!: Perform a Fatality with ALL Playable Fighters
+    - Halfway There: Complete Story Mode 50%
+    - Hide and Seek: Discover and Fight Hidden Kombatant 2 in Arcade Ladder
+    - Humiliation: Get a Flawless Victory in an Online Match
+    - I 'Might' Be the Strongest: Complete ALL Test Your Might Mini-Game Challenges
+    - I'm not Dead Yet: Comeback with  under 10% health in Online Ranked Match
+    - Ladder Master:  Comeplete Arcade Ladder on Max Difficulty without using a Continue
+    - License to Kill: Complete Fatality Trainer
+    - Luck Be A Lady: Get All MK Dragons in Test Your Luck
+    - My Kung Fu Is Strong: Gain Mastery of 1 Fighter
+    - My Kung Fu Is Stronger: Gain Mastery of ALL Fighters
+    - Outstanding!: Win10 Ranked Online Matches in a row
+    - Pit Master: Discover and Fight Hidden Hidden Kombatant 3 in Arcade Ladder
+    - Quan-Tease: Unlock Hidden Figther "Quan Chi"
+    - Robots Rule: Complete Tag Ladder with Robo Sektor and Cyrax
+    - Tag, You're It!: Perform and land a Tag Combo
+    - The Competitor: Complete 200 Versus Matches（both online or offline）
+    - The Grappler: Perform every fighter's forward and backwards throws
+    - The Krypt Keeper: Unlock 100% of the Krypt
+    - There Can Be Only One!: Win 10 King of the Hill Matches in a row
+    - There Will Be Blood!: Spill 10,000 pints of Blood
+    - These Aren't My Glasses!: Complete All Test Your Sight Mini Game Challenges
+    - Throws Are for Champs: Perform 8 Throws in an Online Ranked Match
+    - Tough Guy!: Win an Online Match
+    - Tower Apprentice: Complete 25 Tower Missions
+    - Tower master: Complete ALL Tower Missions
+    - Turtle!: Win both rounds with timer running out in an On-line Ranked Match
+    - Ultimate Humiliation: Unlock and perform Babality for ALL characters including the hidden unlockable characters.
+    - Ultimate Respect: Earn 2,500 Respect Points via King of the Hill Matches
+    - Undertaker: Unlock 50% of the Krypt
+    - Wavenet…: Win 100 Total Online Matches
+    - What Does This Button Do?: Complete Arcade Ladder Without Blocking （Allowed to continue）
+    - Where's The Arcade?: Complete Arcade Ladder with Any Fighter
+    - You've Got Style: Unlock all alternate Costumes
+    - You Found Me!: Discover and Fight Hidden Kombatant 1 in Arcade Ladder
+    - You Will Learn Respect!: Earn 1,000 Respect Points via King of the Hill Matches
 

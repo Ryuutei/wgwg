@@ -1,3 +1,20 @@
+.. index:: network, FPS
+
+Aliens VS Predator
+==================
+
+:Plateforme: |win|
+
+**Server & Multiplayer**
+
+* **TCP/UDP** 80
+* **TCP/UDP** 2300-2400
+* **TCP/UDP** 8000-8999
+
+.. |lin| image:: ../img/linux.svg
+.. |osx| image:: ../img/osx.svg
+.. |win| image:: ../img/windows.svg
+
 .. template for ReST
     *emphasise*
     **Bold**
@@ -22,13 +39,3 @@
     ^, for subsubsections
     ", for paragraphs
 
-.. index:: network
-
-Aliens VS Predator
-==================
-
-**Server & Multiplayer**
-
-* **TCP/UDP** 80
-* **TCP/UDP** 2300-2400
-* **TCP/UDP** 8000-8999

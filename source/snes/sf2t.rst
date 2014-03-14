@@ -22,7 +22,7 @@
     ^, for subsubsections
     ", for paragraphs
 
-.. index:: Fighting, Code
+.. index:: Fighting, code
 
 Street Fighter 2 Turbo
 ======================

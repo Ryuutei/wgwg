@@ -37,7 +37,7 @@
     ^, for subsubsections
     ", for paragraphs
 
-.. index:: Beat them all,
+.. index:: Beat Them All,
 
 Final Fight
 ===========

@@ -1,0 +1,26 @@
+.. -*- coding: utf-8 -*-
+    template for ReST
+
+
+.. index:: RPG, Musical, Hack & Slash, Stratégie
+
+Brutal Legend
+=============
+
+
+.. |lin| image:: ../img/linux.svg
+.. |osx| image:: ../img/osx.svg
+.. |win| image:: ../img/windows.svg
+.. |and| image:: ../img/android.svg
+
+:Plateforme: |win| |osx| |lin|
+
+Sauvegardes Mac OSX
+-------------------
+
+::
+
+    ~/Library/Application Support/Doublefine/BrutalLegend/
+
+
+

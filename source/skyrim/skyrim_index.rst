@@ -1,5 +1,27 @@
+.. index:: The Elder Scrolls, FPS, RPG,  Solo, Steam Only
+
+.. |date| date:: %Y/%m/%d
+.. |time| date:: %H:%M
+
+The Elder Scrolls V: Skyrim
+===========================
+
+.. |win| image:: ../img/windows.svg
+
+:Plateforme: |win| ⚠ Steam !
+:Author: Julien B.
+:Date: 2013/08/15 19:50:44 +0200
+:Edition: |date| à |time|
+:Version: 1.0
+
+La section Alchimie a été créée car les autres sources internet sont erronées, et la version française inclue beaucoup d'erreurs diverses, de duplicata et de classement (ℯℊ. les 'é' sont rangés à la fin de la liste dans le jeu.)
+
+
+.. toctree::
+    alchimie.rst
+
 .. template for ReST
-    *emphasise* 
+    *emphasise*
     **Bold**
     ``inline literal``
     `hyperlink <http://stuff.com>`_
@@ -21,19 +43,3 @@
     -, for subsections
     ^, for subsubsections
     ", for paragraphs
-
-.. index:: The Elder Scrolls, FPS, Solo
-
-The Elder Scrolls V: Skyrim
-===========================
-
-:Author: Julien B.
-:Date: 2013/08/15 19:50:44 +0200
-:Version: 1.0
-
-La section Alchimie a été créée car les autres sources internet sont erronées, et la version française inclue beaucoup d'erreurs diverses, de duplicata et de classement (ℯℊ. les 'é' sont rangés à la fin de la liste dans le jeu.)
-
-
-.. toctree::
-    alchimie.rst
-

@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
@@ -56,7 +54,24 @@
             
   <div class="section" id="ftl-faster-than-light">
 <span id="index-0"></span><h1>FTL：Faster Than Light<a class="headerlink" href="#ftl-faster-than-light" title="Permalink to this headline">¶</a></h1>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Plateforme:</th><td class="field-body"><img alt="win" src="../_images/windows1.svg" /> <img alt="osx" src="../_images/osx1.svg" /> <img alt="lin" src="../_images/linux1.svg" /></td>
+</tr>
+</tbody>
+</table>
 <p><em>PC Windows, GNU/Linux, Mac OSX.</em></p>
+<div class="section" id="fichiers-de-sauvegardes">
+<h2>Fichiers de sauvegardes<a class="headerlink" href="#fichiers-de-sauvegardes" title="Permalink to this headline">¶</a></h2>
+<p>Les fichiers <tt class="docutils literal"><span class="pre">continue.sav</span></tt> et <tt class="docutils literal"><span class="pre">prof.sav</span></tt> contiennent respectivement la sauvegarde de sortie de jeu et les achievements, unlocks &amp; hi-score</p>
+<ul class="simple">
+<li>Windows: <tt class="docutils literal"><span class="pre">%USERPROFILE%/My</span> <span class="pre">Documents/My</span> <span class="pre">Games/FasterThanLight</span></tt></li>
+<li>Mac: <tt class="docutils literal"><span class="pre">~/Library/Application</span> <span class="pre">Support/FasterThanLight/</span></tt></li>
+<li>Linux: <tt class="docutils literal"><span class="pre">~/.local/share/FasterThanLight/</span></tt> or <tt class="docutils literal"><span class="pre">$XDG_DATA_HOME/FasterThanLight</span></tt> (The latter being for non-default XDG_DATA_HOME settings.)</li>
+</ul>
+</div>
 <div class="section" id="debloquer-les-vaisseaux">
 <h2>Debloquer les Vaisseaux<a class="headerlink" href="#debloquer-les-vaisseaux" title="Permalink to this headline">¶</a></h2>
 <dl class="docutils">
@@ -738,6 +753,63 @@ rooms are very inconvenient to move through, so you&#8217;ll want to expand your
 crew as soon as you are able.</p>
 </div>
 </div>
+<div class="section" id="hacking">
+<h2>Hacking<a class="headerlink" href="#hacking" title="Permalink to this headline">¶</a></h2>
+<div class="highlight-python"><div class="highlight"><pre># Header
+ 4 bytes (32bit int)        Version
+
+ # Achievements
+ 4 bytes (32bit int)        Number of achievements
+
+  # Begin achievement unlock (repeated for each achievement unlocked -- &#39;Number of achievements&#39;)
+  4 bytes (32bit int)        String Length (Achievement name)
+  n bytes (char *)           Achievement name
+  4 bytes (32bit int)        Achievement unlocked on easy or normal (Easy: 00, Normal: 01)
+  # End achievement unlock
+
+ # Repeated 12 times at present, indicating ship unlocks (Type A). Only the first 9 ships are actually unlockable
+ 4 bytes (32bit int)        Ship unlock (0 = locked; 1 = unlocked)
+
+
+ # Begin ship high scores (repeated twice, representing &quot;Top Scores&quot; and &quot;Ships Best&quot; sets)
+
+ 4 bytes (32bit int)        Number of high scores in this set
+
+   # Begin individual &#39;top score&#39; (repeated once for each high score in this set)
+   4 bytes (32bit int)    String Length (Ship name)
+   n bytes (string)       Ship name
+   4 bytes (32bit int)    String Length (Ship Type)
+   n bytes (string)       Ship Type
+   4 bytes (32bit int)    Score
+   4 bytes (32bit int)    Sector (e.g. 8 = Sector 8)
+   4 bytes (32bit int)    Victory (1 = true; 0 = false)
+   4 bytes (32bit int)    Difficulty (1 = easy; 0 = normal)
+   # End individual top score
+
+ # End high score repeats
+
+ # General/running scores
+ 4 bytes (32bit int)        Best ships defeated in a session
+ 4 bytes (32bit int)        Total ships defeated (all sessions)
+ 4 bytes (32bit int)        Best beacons explored in a session
+ 4 bytes (32bit int)        Total beacons explored (all sessions)
+ 4 bytes (32bit int)        Best scrap collected in a session
+ 4 bytes (32bit int)        Total scrap collected (all sessions)
+ 4 bytes (32bit int)        Most number of crew hired in a session
+ 4 bytes (32bit int)        Total number of crew hired (all sessions)
+ 4 bytes (32bit int)        Total games played
+ 4 bytes (32bit int)        Total number of victories
+
+ # Repeated five times for Repair, Combat Kills, Pilot Evasions, Jumps Survived, Skill Masteries
+ 4 bytes (32bit int)        Skill Score (e.g. repairs, kills, etc.)
+ 4 bytes (32bit int)        String Length (Crew member name)
+ n bytes (string)           Crew member name
+ 4 bytes (32bit int)        String Length (Crew member race)
+ n bytes (string)           Crew member race (short version, e.g. &quot;engi&quot;)
+ 4 bytes (32bit int)        Gender (1 = Male)
+</pre></div>
+</div>
+</div>
 </div>
 
 
@@ -753,8 +825,8 @@ crew as soon as you are able.</p>
 <li class="toctree-l1"><a class="reference internal" href="../minecraft/index.html">Minecraft</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../mortal_kombat/index.html">Mortal Kombat</a></li>
 </ul>
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="index.html">PC Windows，GNU/Linux &amp; Mac OSX</a></li>
+<ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="index.html">PC Windows，GNU/Linux &amp; Mac OSX</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../nes/index.html">Nintendo Entertainment System</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../snes/index.html">Super Nintendo／Super Famicom</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../n64/index.html">Nintendo 64／Ultra 64</a></li>
@@ -765,9 +837,9 @@ crew as soon as you are able.</p>
 <li class="toctree-l1"><a class="reference internal" href="../zxspectrum/index.html">ZX Spectrum</a></li>
 </ul>
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="../snes/ar.html">Codes Action Replay Divers</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../skyrim/tableaux.html">Tableau des ingrédients par ordre du jeu (français)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../skyrim/tableaux.html#tableau-des-ingredients-par-ordre-alphabetique">Tableau des ingrédients par ordre alphabétique</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../videogames.html">Liste des jeux</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../videogames.html#pas-top-mais">PAS TOP MAIS...</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../videogames.html#annules">Annulés</a></li>
 </ul>
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="../bib.html">Bibliographie</a></li>
@@ -797,16 +869,13 @@ crew as soon as you are able.</p>
              >next</a> |
           <a href="../genindex.html" title="General Index"
              >index</a>
-            <br/>
-            <a href="../_sources/ss/ftl.txt"
-               rel="nofollow">Show Source</a>
         </div>
 
         <div class="right">
           
     <div class="footer">
         &copy; Copyright 2013, Sebastien BLANC ; Julien B..
-      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.1.3.
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.1.
     </div>
         </div>
         <div class="clearer"></div>

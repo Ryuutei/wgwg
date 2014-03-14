@@ -1,0 +1,24 @@
+.. -*- coding: utf-8 -*-
+    template for ReStructured Text
+    by Ryuutei 〔ryuutei@gmail.com〕〔http://ryuutei.wordpress.com/〕
+
+.. index:: Adventure, Point & Click
+
+Sword & Sworcery EP
+===================
+
+.. |lin| image:: ../img/linux.svg
+.. |osx| image:: ../img/osx.svg
+.. |win| image:: ../img/windows.svg
+.. |and| image:: ../img/android.svg
+
+:Plateforme: |win| |osx| |lin| |and|
+
+
+Sauvegardes Mac OSX
+-------------------
+
+::
+
+    ~/Library/Application Support/capy/SwordAndSworcery/
+

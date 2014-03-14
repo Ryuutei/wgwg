@@ -53,6 +53,10 @@ Table des Matieres:
 .. NOT IMPORTANT
    :maxdepth: 2
 
+.. toctree::
+    :maxdepth: 3
+
+    videogames.rst
 
 
 Indices and tables
@@ -62,7 +66,6 @@ Indices and tables
     bib.rst
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 
 Liens
