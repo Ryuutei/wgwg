@@ -11,6 +11,7 @@
 .. |win| image:: img/windows.svg
 .. |and| image:: img/android.svg
 
+
 Liste des jeux sans DRM.
 ========================
 
@@ -156,6 +157,7 @@ Certains de ces jeux sont vendu chez le developpeur／editeur par Steam ou Amazo
 - `Teslagrad <http://rain-games.com/>`_ [HS]_ |win| |osx| |lin|
 - `Tetrobot and Co. <http://www.swingswingsubmarine.com/games/tetrobot-and-co/>`_ |win| |osx| |lin|
 - `The Floor is Jelly <http://www.ianiselsewhere.com/>`_ |win| |osx|
+- `The inner world <http://www.theinnerworld.de/>`_ |win| |osx|
 - `The Sun at Night <http://necrophonegames.com/>`_ [β]_ [HS]_ |win|
 - `Tiny & Big: Grandpa's Leftovers <http://blackpants.de/>`_ |win| |osx| |lin|
 - `Torchlight`_ [1]_ [ε]_ |win| |osx| |lin|

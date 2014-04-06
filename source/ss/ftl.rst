@@ -1,17 +1,18 @@
 .. index:: Stratégie, Simulation, Roguelike-like, FTL：Faster Than Light, 
 
-FTL：Faster Than Light（Advanced Edition）
-==========================================
-
 .. |lin| image:: ../img/linux.svg
 .. |osx| image:: ../img/osx.svg
 .. |win| image:: ../img/windows.svg
 .. |and| image:: ../img/android.svg
 
+FTL：Faster Than Light（Advanced Edition）
+==========================================
+
 :Plateforme: |win| |osx| |lin|
 
-
-*PC Windows, GNU/Linux, Mac OSX.*
+.. image:: ../img/The_Kestrel_Logo_FINAL.svg
+    :align: center
+    :width: 256 px
 
 Fichiers de sauvegardes
 -----------------------
@@ -25,6 +26,9 @@ Les fichiers ``continue.sav`` et ``prof.sav`` contiennent respectivement la sauv
 .. toctree::
     ftl-armement.rst
     ftl-vaisseaux.rst
+
+.. image:: ../img/ftl-ks-engi.gif
+    :align: center
 
 Hacking
 -------
