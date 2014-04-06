@@ -1,0 +1,204 @@
+..
+     .. figure:: ../img/
+    :width: 800px
+    :align: center
+
+    :download:`TITRE <schematics/>` ：by
+
+Schematics credits
+------------------
+
+* `Farms`_
+* `LEGO™`_
+* `Other buildings`_
+* `Pixel Arts`_
+* `Redstone parts`_
+
+Farms
+:::::
+
+.. .. figure:: ../img/farm-2013-09-12_17.34.28.jpg
+    :width:  800px
+    :align: center
+
+    :download:`Big stairs ground farm <schematics/farm-Big_ground_farm-dataless822.schematic>` ：
+    by dataless822_
+    〔2012〕
+
+.. .. figure:: ../img/farm-2013-09-12_17.35.39.jpg
+    :width: 800px
+    :align: center
+
+    :download:`Glass Tower Farms <schematics/farm-Big_tower_farms-dataless822.schematic>` ：
+    by dataless822_
+    〔2012〕
+
+.. .. figure:: ../img/farm-2013-09-12_17.33.15.jpg
+    :width: 800px
+    :align: center
+
+    :download:`Overworld Gold Farm <schematics/farm-Overworld_gold_farm-dataless822.schematic>` ：
+    by dataless822_
+    〔2013〕
+
+.. .. figure:: ../img/farm-2013-09-12_17.35.02.jpg
+    :width: 800px
+    :align: center
+
+    :download:`Automatic Chicken Farm <schematics/farm-chicken-egg-feather-AUTO-dataless822.schematic>` ：
+    by dataless822_
+    〔2013〕
+
+.. figure:: ../img/farm-2013-09-13_00.56.07.jpg
+    :width: 800px
+    :align: center
+
+    :download:`9 Cobblestone Farms <schematics/farm-cobblestone-3x3.schematic>` ：by ？，Ryuutei
+    〔2012〕
+
+.. .. figure:: ../img/farm-2013-09-13_00.55.19.jpg
+     :width: 800px
+    :align: center
+
+    :download:`Big semi-auto cocoa farm <schematics/farm-cocoa-semiauto-BIG-dataless822.schematic>` ：
+    by dataless822_
+    〔2013〕
+
+.. figure:: ../img/farm-lvl12.jpg
+    :width: 800px
+    :align: center
+
+    :download:`Mob farm Level 12 <schematics/farm-mob-lvl12.schematic>` ：
+    by Ryuutei
+    〔2013〕—— this is an automatic Mob farm for Minecraft 1.7, with 3072 spawn points for mobs.
+
+
+LEGO™
+:::::
+
+.. figure:: ../img/9143919480_ddce2b0896_c.jpg
+    :width: 800px
+    :align: center
+
+    :download:`LEGO Castle: Blacksmith <schematics/LEGO-Blacksmith.schematic>` ：by Ryuutei 〔2011〕
+
+Other buildings
+:::::::::::::::
+
+.. figure:: ../img/building-biodome-9143902414_2bd02a5c66_c.jpg
+    :width: 800px
+    :align: center
+
+    :download:`BioDome I <schematics/BioDomeI.schematic>` ：
+    by Ryuutei 〔2010／2011〕
+
+.. figure:: ../img/mc.png
+    :width: 800px
+    :align: center
+
+    :download:`Egyptian pyramid (64 long) <schematics/pyramid_eg_64.schematic>` ：by Julien B.，Ryuutei 〔2011〕
+
+.. figure:: ../img/9143932694_a6c9fd0f7e_c.jpg
+    :width: 800px
+    :align: center
+
+    :download:`Mayan pyramid (green) <schematics/pyramid_ma_cobbmouss.schematic>` ：by Julien B.，Ryuutei 〔2011〕
+
+Pixel Arts
+::::::::::
+
+
+.. figure:: ../img/pa-bondage-9141657419_707b641c4e_c.jpg
+    :width: 800px
+    :align: center
+
+    :download:`Madame Bondage <schematics/pa-Bondage1.schematic>` ：by Ryuutei 〔2012-11-05〕
+
+.. figure:: ../img/pa-sora-9143938080_cbdb7afa26_c.jpg
+    :width: 800px
+    :align: center
+
+    :download:`Sora <schematics/pa-Sora_the_cat.schematic>` ：by Ryuutei 〔2013-06-25〕 `flickr <http://www.flickr.com/photos/ryuutei/9143938080/in/set-72157634335579959>`_
+
+.. figure:: ../img/pa-ztriforce-9141689193_5c446e2fbe_c.jpg
+    :width: 800px
+    :align: center
+
+    :download:`Triforce Plaza <schematics/pa-Triforce_plaza.schematic>` ：by Ryuutei 〔2010〕
+
+.. figure:: ../img/pa-zelda9143904098_1b2d04fb1b_c.jpg
+    :width: 800px
+    :align: center
+
+    :download:`Zelda <schematics/pa-Zelda.schematic>` ：by Ryuutei 〔2010〕
+
+.. figure:: ../img/pa-zchest-9141683799_a857c25685_c.jpg
+    :width: 800px
+    :align: center
+
+    :download:`Small chest (from Zelda3) <schematics/pa-Zelda3-Chest_small.schematic>` ：by Ryuutei 〔2011〕
+
+.. figure:: ../img/pa-zether-9143928824_14c7217e9a_c.jpg
+    :width: 800px
+    :align: center
+
+    :download:`Ether logo (from Zelda3) <schematics/pa-Zelda3-Ether.schematic>` ：by Ryuutei 〔2011〕
+
+.. figure:: ../img/pa-zlink-9143922330_a79308d9a2_c.jpg
+    :width: 800px
+    :align: center
+
+    :download:`Link brandishing sword (from Zelda3) <schematics/pa-Zelda3-Link_wSword.schematic>` ：by Ryuutei 〔2010〕
+
+.. figure:: ../img/pa-pkmn-draco-9143873784_1fcc3e9b14_c.jpg
+    :width: 800px
+    :align: center
+
+    :download:`Pokemon: MiniDraco <schematics/pa-pkmn-Mini-Draco.schematic>` ：by Ryuutei 〔2012-08-23〕，
+
+    :download:`Pokemon: Draco <schematics/pa-pkmn-Draco.schematic>` ：by Ryuutei 〔2012-08-22〕
+
+Redstone parts
+::::::::::::::
+
+
+.. .. figure:: ../img/rs-quickadder-9282740119_abdc074eaf_c.jpg
+    :width: 800px
+    :align: center
+
+    :download:`Very fast binary adder V2 (4bits version) <schematics/rs-adder_4bits.schematic>` ：by ohmganesha，Hans Lemurson
+
+    :download:`Very fast binary adder V2 (8bits version) <schematics/rs-adder_8bits.schematic>` ：by ohmganesha，Hans Lemurson
+
+    （`forum <http://www.minecraftforum.net/topic/506402-fast-binary-adder-using-instant-ripple-carry/>`_ ，`video <http://www.youtube.com/watch?v=Pr_Iy16N518>`_ ）〔2011〕
+
+
+.. figure:: ../img/rs-bin2bdc-9285518334_187c93f510_c.jpg
+    :width: 800px
+    :align: center
+
+    :download:`rs-bin2BCD_full.schematic <schematics/rs-bin2BCD_full.schematic>` ：by  `Hans Lemurson 〘Binary to BCD Converter and Display〙 <http://youtu.be/Z-JxYhm3EsI>`_ ，`Ryuutei <https://ryuutei.wordpress.com/2013/07/10/Minecraft-bin-to-bcd-converter/>`_ 〔2012〕
+
+.. .. figure:: ../img/mc.png
+    :width: 800px
+    :align: center
+
+    :download:`Fast 2x2 BUD memory <schematics/rs-ram-2x2_piston_BUD_ram.schematic>` ：by `Hans Lemurson 〘Fast 2x2 BUD memory〙 <https://www.youtube.com/watch?v=G-7Sl87vifs>`_ ，Ryuutei 〔2012〕
+
+TODO:
+:::::
+
+.. figure:: ../img/pa-doom-9141664413_7ec8cdbb00_c.jpg
+    :width: 800px
+    :align: center
+
+    pa-unfinished-DoomII(2012-11).schematic：by Ryuutei 〔2012〕
+
+.. figure:: ../img/mc.png
+    :width: 800px
+    :align: center
+
+    :download:`Quartz Temple from Aquaria <schematics/temp-aquaria_ryuu_quartz_temple.schematic>` ：by Ryuutei 〔2013/01〕
+
+
+.. _dataless822: https://www.youtube.com/user/Dataless822

@@ -1,0 +1,950 @@
+.. -*- coding: utf-8 -*-
+    template for ReStructured Text
+    by Ryuutei 〔ryuutei@gmail.com〕〔http://ryuutei.wordpress.com/〕
+
+.. |date| date:: %Y/%m/%d
+.. |time| date:: %H:%M
+
+Les Vaisseaux
+=============
+
+:Author: Sebastien Blanc 龍帝〔ryuutei.at.work@gmail.com〕
+:Site: `Ryuutei's Blog <http://ryuutei.wordpress.com/>`_
+:Date: 2014-04-06 12:05:23 PM +0200
+:Edition: |date| à |time|
+:Version: 1.2
+
+.. NOTE :: finir de remplir les infos dans les tags (?)
+
+Debloquer rapide
+----------------
+
+Pour plus de details voyez la description du vaisseau.
+
+**Kestrel Class：**
+
+* "`The Kestrel`_": Vaisseau de depart
+* "`Red-Tail`_" （layout B）: Avoir 2 achèvements sur 3.
+* "`The Swallow`_"（layout C）: Arriver jusqu'au Secteur 8 avec le layout B.
+ 
+**Nessasio Class：**
+
+* "`The Nesasio`_": Evenement special dans le monde Engi.  
+* "`DA-SR 12`_" （layout B）: Avoir 2 achèvements sur 3.
+* ""（layout C）: Arriver jusqu'au Secteur 8 avec le layout B. (?)
+ 
+**Vaisseau Mantis：**
+
+* "`The Gila Monster`_": Rencontre speciale dans les mondes Mantis.（Infirmerie niveau 2 & un teleporteur → d'équipage pour sauver KazaaakplethKilik.）
+* "`The Basilisk`_" （layout B）: Avoir 2 achèvements sur 3.
+* ""（layout C）: Arriver jusqu'au Secteur 8 avec le layout B. (?)
+
+**Vaisseau Engi：**
+
+* "`The Torus`_": Arriver au secteur 5.
+* "`The Vortex`_" （layout B）: Avoir 2 achèvements sur 3.
+* "`Tetragon`_"（layout C）: Arriver jusqu'au Secteur 8 avec le layout B.
+
+**Osprey Class：**
+
+* "`The Osprey`_": Battre le Boss de fin.
+* "`The Nisos`_"  （layout B）: Avoir 2 achèvements sur 3.
+* ""（layout C）: Arriver jusqu'au Secteur 8 avec le layout B. (?)
+
+**Vaisseau Slug：**
+
+* "`Man of War`_": Rencontre speciale dans la *Nébuleuse monde des Slugs*.
+* "`The Stormwalker`_" （layout B）: Avoir 2 achèvements sur 3.
+* ""（layout C）: Arriver jusqu'au Secteur 8 avec le layout B. (?)
+
+**Vaisseau Rockmen：**
+
+* "`The Bulwark`_": Evenement Special dans le *monde Rock*.
+
+    - Choix 1. puis ne pas detruire le vaisseau rock durant leurs epreuve.  // ou
+    - Choix 2. "We're strong enough to destroy you!"
+
+* "`Shivan`_" （layout B）: Avoir 2 achèvements sur 3.
+* ""（layout C）: Arriver jusqu'au Secteur 8 avec le layout B. (?)
+
+**Vaisseau Zoltan：**
+
+* "`The Adjudicator`_": Evenement Special dans le *monde Zoltan*.
+
+    2. "Hear them out." *suivre ensuite le marqueur de quete.*
+
+    2. "Attempt to hail them."
+
+    1. "Perhaps there could be a reconciliation…"
+
+    2. "True progress can only be achieved without bloodshed."
+
+* "`Noether`_" （layout B）: Avoir 2 achèvements sur 3.
+* ""（layout C）: Arriver jusqu'au Secteur 8 avec le layout B. (?)
+
+**Vaisseau Cristal：**
+
+* "`Bravais`_"：Signal de détresse dans les secteurs Rock, Engi ou Pirate. （Stasis chamber.）puis réactiver dans une station Zoltan puis évènement spécial dans le *monde Rock*. Choix: 3. "(Crystal Crew) Reactivate it."
+* "`Carnelian`_" （layout B）: Avoir 2 achèvements sur 3.
+
+**Vaisseau Lanius：**
+
+* "`Lanius`_" Débloquer 4 vaisseaux en plus du Kestrel.
+* "" Avoir 2 achèvements sur 3. (?)
+
+Vaisseaux
+---------
+
+The Kestrel
+^^^^^^^^^^^
+
+    * Équipage： 3 Humains
+    * Armement：
+        - 1× Artemis Missiles
+        - 1× Burst Laser Mark II
+    * Systèmes:
+        - Boucliers: 2
+        - Moteur: 2
+        - Contrôle Armes: 3（4 places）
+        - Contrôle Drones: 0（2 places）
+        - Infirmerie：1（3 places）
+        - Oxygène: 1
+    * Sous Systèmes:
+        - Pilotage: 1
+        - Portes: 1
+        - Senseurs: 1
+    * Améliorations：␀
+
+
+Débloquer：␀ （Vaisseau de départ）
+
+.. The layout of the ship's systems is decent with most of the major systems in 4
+    space rooms. However there are problems with venting in the fore of the ship,
+    and the location of the crew teleporter is a little far from the medbay.
+
+
+Red-Tail
+^^^^^^^^
+
+    * Équipage：2 Humains, 1 Zoltan, 1 Mantis
+    * Armement：4× Defense Laser Mark I
+    * Systèmes:
+        - Boucliers: 2
+        - Moteur: 2
+        - Contrôle Armes: 4（4 places）
+        - Contrôle Drones: 0（2 places）
+        - Infirmerie：1（3 places）
+        - Oxygène: 1
+    * Sous Systèmes:
+        - Pilotage: 1
+        - Portes: 1
+        - Senseurs: 1
+    * Améliorations：␀
+
+Débloquer：Completer 2 achèvements sur 3.
+
+.. This is the Type B layout of the Kestrel. It concentrates most of the ship's
+    systems towards the aft of the ship. The Red-Tail has an impressive 5
+    different rooms with access to space. The medical bay is conveniently placed
+    next to the crew teleporter on the port side of the ship. The rooms are
+    connected sensibly, but travel from fore to aft is slow due to the circular
+    arrangement of the back rooms and the lack of a central passage.
+
+The Swallow
+^^^^^^^^^^^
+
+    * Équipage：1 Lanius & 2 humains
+    * Armement：
+        - 1× Dual lasers
+        - 1× Ion Stunner
+    * Systèmes:
+        - Boucliers: 2
+        - Moteur: 2
+        - Contrôle Armes: 2（4 places）
+        - Contrôle Drones: 0（2 places）
+        - Cuve de Clonage：1（3 places）
+        - Oxygène: 1
+    * Sous Systèmes:
+        - Pilotage: 1
+        - Portes: 1
+        - Senseurs: 2
+    * Améliorations：␀
+
+
+Débloquer：Arriver au Secteur 8 avec le Redtail.
+
+
+****
+
+The Nesasio
+^^^^^^^^^^^
+
+    * Équipage：3 Humains
+    * Armement：
+        - 1× Mini Beam
+        - 1× Dual Shot Laser
+    * Systèmes:
+        - Boucliers: 0
+        - Furtivité: 1
+        - Moteur: 4
+        - Contrôle Armes: 2（3 places）
+        - Contrôle Drones: 0（2 places）
+        - Infirmerie：1（3 places）
+        - Oxygène: 1
+    * Sous Systèmes:
+        - Pilotage: 1
+        - Portes: 1
+        - Senseurs: 2
+    * Améliorations：
+        - Long-Ranged Scanners: Révèle des information sur les balises de saut adjacentes.
+        - Titanium System Casing: Chances de prévenir les dommages sur les systèmes.
+
+
+Débloquer：Evenement Special dans un monde Engi.
+
+- Requires: "3. (Engi Crew) Have your Engi crew member contact them."
+
+
+
+
+.. The Nesasio is a stealth ship created by the Engi. This ship comes equipped
+    with a cloaking system but no shields. I'll say it plainly, this is not a
+    beginner's ship.
+
+    Without starting shields it takes a skilled captain to prevent too much damage
+    in the early sectors. The Nesasio also has horrible venting capabilities, so
+    fire and enemy boarding parties are a very real danger. Travel from fore to
+    aft is awkward because the doors are placed in alternating fashion port side
+    and starboard as you move towards the stern. This ship is very much designed
+    for stealth and evasion, and not so much for combat.
+
+
+DA-SR 12
+^^^^^^^^
+
+    * Équipage：2 Humains, 1 Zoltan
+    * Armement：1× Glaive Beam
+    * Systèmes:
+        - Boucliers: 0
+        - Furtivité: 2
+        - Moteur: 1
+        - Contrôle Armes: 4（3 places）
+        - Contrôle Drones: 0（2 places）
+        - Infirmerie：1（2 places）
+        - Oxygène: 1
+    * Sous Systèmes:
+        - Pilotage: 1
+        - Portes: 1
+        - Senseurs: 1
+    * Améliorations：
+        - Long-Ranged Scanners: Révèle des information sur les balises de saut adjacentes.
+        - Stealth Weapons (hidden, innate): firing does not shorten cloak duration
+
+
+Débloquer：Completer 2 achèvements sur 3 du Kestrel.
+
+
+.. The Type B form of the stealth cruiser is laid out more symmetrically but
+    travel from front to back is still slow. Venting is only slightly improved
+    with two small openings in the rear near the engine. The DA-SR 12 has all of
+    the drawbacks of the Nesasio but instead of two weak, quick-firing weapons, it
+    has one very powerful beam that's slow to charge. I suggest upgrading the
+    cloaking system as soon as possible so you can charge up the Glaive Beam in
+    relative safety.
+
+.. layout C
+    * Équipage：
+    * Armement：
+    * Systèmes:
+        - Boucliers: 2
+        - Furtivité: 0
+        - Moteur: 1
+        - Contrôle Armes: 1（4 places）
+        - Contrôle Drones: 0（2 places）
+        - Cuve de Clonage：1（3 places）
+        - Oxygène: 1
+    * Sous Systèmes:
+        - Pilotage: 1
+        - Portes: 1
+        - Senseurs: 1
+    * Améliorations：␀
+    Débloquer：Arriver au Secteur 8 avec le DA-SR 12
+
+****
+
+
+The Gila Monster
+^^^^^^^^^^^^^^^^
+
+    * Équipage：3 Mantis, 1 Engi
+    * Armement：
+        - 1× Small Bomb
+        - 1× Defense Laser Mark I
+    * Systèmes:
+        - Boucliers: 2
+        - Furtivité: 0
+        - Moteur: 1
+        - Contrôle Armes: 1（3 places）
+        - Contrôle Drones: 0（2 places）
+        - Infirmerie：1（3 places）
+        - Oxygène: 1
+        - Téléporteur: 1 （2 places）
+    * Sous Systèmes:
+        - Pilotage: 1
+        - Portes: 1
+        - Senseurs: 0
+    * Améliorations：
+        - Mantis Pheromones: Mouvement de l'équipage augmente de 25%
+
+Débloquer：
+- Nécessite：Infirmerie niveau 2 & un teleporteur.
+- Rencontre d'un vaisseau spécial dans le *monde Mantis*.
+- Sauver KazaaakplethKilik
+
+.. It is odd that a Mantis ship does not have a sensor system when their race
+    focuses on crew combat. In any case, the ship's weapon and shield systems are
+    awkwardly located in the aft corners of the ship, and it takes some time to
+    travel to the crew teleporter on the opposite side. There are plenty of open
+    rooms for hull lasers, beams and missiles to cause double damage. On top of
+    that, Mantis are so very slow at repairs. This ship can be effective, but you
+    must somehow get more crew.
+
+
+The Basilisk
+^^^^^^^^^^^^
+
+    * Équipage：2 Mantis
+    * **Armement：␀**
+    * Drones：1× Boarding Drone, 1× Defense Drone Mark I
+    * Systèmes:
+        - Boucliers: 4
+        - Furtivité: 0
+        - Moteur: 1
+        - Contrôle Armes: 1（3 places）?
+        - Contrôle Drones: 1（2 places）
+        - Infirmerie：1（3 places）
+        - Oxygène: 1
+        - Téléporteur: 1 （4 places）
+    * Sous Systèmes:
+        - Pilotage: 1
+        - Portes: 1
+        - Senseurs: 1
+    * Améliorations：
+        - Mantis Pheromones: Mouvement de l'équipage augmente de 25%
+
+
+Débloquer：Completer 2 achèvements sur 3 du Gila Monster..
+
+.. This Type B layout of the Mantis cruiser is completely focused on defeating
+    the enemy through boarding actions. The large, 4 person teleporter located
+    right next to the medbay makes overwhelming the enemy crew rather convenient
+    while the 2-layer shields protect the ship. Your crew is your only form of
+    attack until you can find or buy some other weapons. The rooms of the ship are
+    moderately accessible and venting is not a problem except in the wings. The
+    Basilisk is centered entirely on boarding actions and its design shows.
+
+.. layout C
+    Débloquer：Arriver au Secteur 8 avec le Basilisk.
+        - Cuve de Clonage：1（3 places）
+
+****
+
+
+The Torus
+^^^^^^^^^
+
+    * Équipage：2 Engi, 1 Humain
+    * Armement：1× Ion Blast Mark II
+    * Drones：1× Anti-Ship Drone Mark I
+    * Systèmes:
+        - Boucliers: 2
+        - Moteur: 2
+        - Contrôle Armes: 3（3 places）
+        - Contrôle Drones: 3（3 places）
+        - Infirmerie：1（3 places）
+        - Oxygène: 1
+    * Sous Systèmes:
+        - Pilotage: 1
+        - Portes: 1
+        - Senseurs: 1
+    * Améliorations：
+        - Engi Med-bot Dispersal: Soigne l'equipage n'importe où dans le vaisseau a vitesse reduite.
+
+
+Débloquer: Arriver au secteur 5
+
+
+.. The Engi doughnut of doom is specially designed for drone combat. A wise
+    captain should buy a Drone Recovery Arm as soon as possible to alleviate the
+    strain on drone parts. Travel within the ship is slow, but there is not much
+    area to cover. Great care should be taken when faced with intruders and the
+    weak crew combat strength kept in mind when acquiring new crew members.
+
+
+The Vortex
+^^^^^^^^^^
+
+    * Équipage：1 Engi
+    * Armement：
+        - 1× Heavy Ion
+        - 1× Heavy Laser Mk1
+    * Drones：
+        - 1× Anti-Personnal Drone
+        - 2× System Repair Drone
+    * Systèmes:
+        - Boucliers: 2
+        - Moteur: 1
+        - Contrôle Armes: 3（3 places）
+        - Contrôle Drones: 3（3 places）
+        - Infirmerie：1（2 places）
+        - Oxygène: 1
+    * Sous Systèmes:
+        - Pilotage: 1
+        - Portes: 1
+        - Senseurs: 0
+    * Améliorations：
+        - Drone Reactor Booster: Vitesse des drones augmenté de 50%
+
+
+Débloquer：Completer 2 achèvements sur 3 du Torus.
+
+.. This Type B layout for the Engi Cruiser is even more compact than the Torus.
+    Narrow halls and lack of sensors hamper intruder defense, but your slow-moving
+    anti-pers. drone sped up by the starting augment adequately balances this
+    failing, at least in the early sectors. It's a lonely voyage with a crew of
+    one so efforts should be made to gather more members from wherever you can.
+
+Tetragon
+^^^^^^^^
+
+    * Équipage：1 Lanius & 2 Engis
+    * Armement：
+        - 1× Dual Lasers
+    * Drones：
+        - 1× Drone beam 1
+    * Systèmes:
+        - Boucliers: 2
+        - Moteur: 2
+        - Contrôle Armes: 1（4 places）
+        - Contrôle Drones: 2（3 places）
+        - Cuve de Clonage：1（2 places）
+        - Oxygène: 1
+        - Hacking: 1
+    * Sous Systèmes:
+        - Pilotage: 1
+        - Portes: 1
+        - Senseurs: 1
+    * Améliorations：
+        - Defense Scrambler：Empêche les drones de défense ennemi de prendre pour cible quoi que ce soit.
+
+
+Débloquer：Arriver au Secteur 8 avec le Vortex
+
+****
+
+
+The Osprey
+^^^^^^^^^^
+
+    * Équipage：1 Humain, 1 Mantis, 1 Rockman, 1 Engi
+    * Armement：1× Burst Laser Mark II
+    * Systèmes:
+        - Artillery Beam：1
+        - Boucliers: 2
+        - Moteur: 1
+        - Contrôle Armes: 2（4 places）
+        - Contrôle Drones: 0（2 places）
+        - Infirmerie：1（3 places）
+        - Oxygène: 1
+    * Sous Systèmes:
+        - Pilotage: 1
+        - Portes: 1
+        - Senseurs: 1
+    * Améliorations：␀
+
+
+Débloquer: Battre le Vaisseau porte bannière Rebelle
+
+This is the current front-line cruiser used by the Federation. A proper war
+ship, the Osprey focuses on dealing out steady damage with its artillery beam.
+The multi-racial crew will give you more options when heading out to alien
+controlled sectors and has a good mix of combat and repair abilities. An
+important fact to keep in mind is that the Federation cruiser design is very
+long and doesn't have as many 4 space rooms compared some other ships.
+
+
+The Nisos
+^^^^^^^^^
+
+    * Équipage：1 Humain, 1 Zoltan, 1 Slug
+    * Armement：
+        - 1× Dual Shot Laser
+        - 1× Leto Missiles
+    * Systèmes:
+        - Artillery Beam：2
+        - Boucliers: 2
+        - Moteur: 1
+        - Contrôle Armes: 2（4 places）
+        - Contrôle Drones: 0（2 places）
+        - Infirmerie：1（2 places）
+        - Oxygène: 1
+    * Sous Systèmes:
+        - Pilotage: 1
+        - Portes: 1
+        - Senseurs: 1
+    * Améliorations：␀
+
+
+Débloquer：Completer 2 achèvements sur 3 de l'Osprey.
+
+
+.. Much like the Osprey, this Type B Federation cruiser is made for ship-to-ship
+    combat. It has even less opportunities to gather the crew for anti-intruder
+    actions and the lack of air locks in the forward section may lead to problems.
+
+.. layout C
+        - Cuve de Clonage：1（3 places）
+    Débloquer：Arriver au Secteur 8 avec le 
+
+****
+
+
+Man of War
+^^^^^^^^^^
+
+    * Équipage：2 Slugs
+    * Armement：
+        - 1× Anti-Bio Beam
+        - 1× Breach Bomb Mark 1
+        - 1× Dual Shot Laser
+    * Systèmes:
+        - Boucliers: 2
+        - Moteur: 1
+        - Contrôle Armes: 3（4 places）
+        - Contrôle Drones: 0（2 places）
+        - Infirmerie：1（3 places）
+        - Oxygène: 1
+    * Sous Systèmes:
+        - Pilotage: 1
+        - Portes: 1
+        - Senseurs: 0
+    * Améliorations：
+        - Slug Repair Gel: Scelle automatiquement les brèches dans la coque.
+
+
+Débloquer: Special ship encounter in the Slug home nebula
+
+- Necessite：un membre d'equipage Slug ou des senseurs de niveau 2.
+- 1. "Let the ? live."
+- 2. "We don't want the weapon, we want information"
+
+.. The Slug ship is made for disabling shields and killing the enemy crew with
+    the anti-bio beam, an ideal salvager's vessel. The lack of sensors hurts less
+    than the lack of crew, and the compact arrangement means travel inside the
+    ship doesn't take too long. Once in a while you might run into problems with
+    the inconvenient placement of the oxygen system.
+
+
+The Stormwalker
+^^^^^^^^^^^^^^^
+
+    * Équipage：3 Slugs
+    * Armement：
+        - 1× Healing Burst
+        - 1× Artemis Missiles
+    * Systèmes:
+        - Boucliers: 2
+        - Moteur: 1
+        - Contrôle Armes: 3（4 places）
+        - Contrôle Drones: 0（2 places）
+        - Infirmerie：0（3 places）
+        - Oxygène: 1
+        - Téléporteur: 1 （2 places）
+    * Sous Systèmes:
+        - Pilotage: 1
+        - Portes: 2
+        - Senseurs: 0
+    * Améliorations：
+        - Slug Repair Gel: Scelle automatiquement les brèches dans la coque.
+
+
+Débloquer：Completer 2 achèvements sur 3.
+
+.. The Type B Slug cruiser is different from the Man of War in that it doesn't
+    exactly focus on killing the enemy crew. You'll need a medbay or a very large
+    supply of missiles before you can specialize in crew combat. The general
+    layout is a bit more spread out and the venting ability is significantly
+    better. With improved doors and better control of air supply, enemy boarders
+    shouldn't be much trouble.
+
+.. layout C
+        - Cuve de Clonage：1（3 places）
+    Débloquer：Arriver au Secteur 8 avec le 
+
+****
+
+
+The Bulwark
+^^^^^^^^^^^
+
+    * Équipage：3 Rockmen
+    * Armement：
+        - 1× Artemis Missiles
+        - 1× Hull Missile
+    * Systèmes:
+        - Boucliers: 2
+        - Moteur: 1
+        - Contrôle Armes: 3（4 places）
+        - Contrôle Drones: 0（2 places）
+        - Infirmerie：1（3 places）
+        - Oxygène: 1
+    * Sous Systèmes:
+        - Pilotage: 1
+        - Portes: 1
+        - Senseurs: 1
+    * Améliorations：
+        - Rock Plating: Chances d'ignorer des dommages sur la coque.
+
+
+Débloquer: Evenement Special in Rock Homeworlds
+
+- 1. "We're going to save them or die trying." or
+- 2. "We're strong enough to destroy you!"
+
+
+
+
+.. Description:
+    Much like its Rockmen crew, this Rock ship is sturdy, if a bit slow. The
+    starting missiles are strong enough, but not likely to launch before enemy
+    fire has raked your ship. The ship's systems connect to the central rooms
+    through many doors and everything is arranged neatly in rows, though why the
+    middle rooms need to be divided is beyond me. With the entire crew made up of
+    slow Rockmen, you'll want to expand your crew as soon as you can. The venting
+    is rather good, but that should only matter if your Rockmen are occupied.
+
+
+Shivan
+^^^^^^
+
+    * Équipage：4 Rockmen
+    * Armement：
+        - 1× Heavy Pierce Laser Mark I
+        - 1× Fire Bomb
+    * Systèmes:
+        - Boucliers: 2
+        - Moteur: 1
+        - Contrôle Armes: 3（4 places）
+        - Contrôle Drones: 0（2 places）
+        - Infirmerie：1（3 places）
+        - Oxygène: 2
+    * Sous Systèmes:
+        - Pilotage: 1
+        - Portes: 0
+        - Senseurs: 1
+    * Améliorations：
+        - Rock Plating: Chances d'ignorer des dommages sur la coque.
+
+
+Débloquer：Completer 2 achèvements sur 3.
+
+.. Description:
+    The Type B Rock cruiser is distinctly suited for its Rockmen crew. With no
+    airlocks at all, the crew is the only way to put out fires. The Heavy Pierce I
+    will make short work of most ships in the starting sector. The accompanying
+    fire bomb will reduce enemy ship systems and crews to ashes while your immune
+    Rockmen smash everything in sight. I also just love how the ship looks. I
+    would quickly invest in a teleporter and improved doors if you don't want to
+    end up as scrap floating too close to a sun.
+
+.. layout C
+        - Cuve de Clonage：1（3 places）
+    Débloquer：Arriver au Secteur 8 avec le 
+        - Rock Plating: Chances d'ignorer des dommages sur la coque.
+
+****
+
+
+The Adjudicator
+^^^^^^^^^^^^^^^
+
+    * Équipage：3 Zoltans
+    * Armement：
+        - 1× Halberd Beam
+        - 1× Leto Missiles
+    * Systèmes:
+        - Boucliers: 2
+        - Moteur: 1
+        - Contrôle Armes: 3（4 places）
+        - Contrôle Drones: 0（2 places）
+        - Infirmerie：1（3 places）
+        - Oxygène: 1
+    * Sous Systèmes:
+        - Pilotage: 1
+        - Portes: 2
+        - Senseurs: 1
+    * Améliorations：
+        - Zoltan Shield [ζ]_ : Absorbe 5 dommages et empeche les ennemis de se teleporter ou d'envoyer des drones pirates.
+
+
+Débloquer: Evenement Special in Zoltan Homeworlds
+
+- 2. "Hear them out." *suivre ensuite le marqueur de quete.*
+- 2. "Attempt to hail them."
+- 1. "Perhaps there could be a reconciliation…"
+- 2. "True progress can only be achieved without bloodshed."
+
+does not prevent intruders from intruders written in text
+recharges after every FTL jump
+
+.. Description
+    The Zoltan ship is very alien in appearance and arrangement. With most of its
+    major systems bunched in the starboard wing, this ship feels rather lopsided.
+    Don't let its strange design fool you. After some refits, this Zoltan ship can
+    quite a powerful ship, and the Zoltan Shield gives you a serious advantage
+    over the other ships you can choose from. This ship has potential, but you'll
+    need to buy and salvage all the weapons and crew you can find.
+
+
+Noether
+^^^^^^^
+
+    * Équipage：3 Zoltan
+    * Armement：
+        - 2× Ion Blast Mark I
+        - 1× Pike Beam
+    * Systèmes:
+        - Boucliers: 1
+        - Moteur: 2
+        - Contrôle Armes: 4（4 places）
+        - Contrôle Drones: 0（2 places）
+        - Infirmerie：1（3 places）
+        - Oxygène: 1
+    * Sous Systèmes:
+        - Pilotage: 1
+        - Portes: 1
+        - Senseurs: 1
+    * Améliorations：
+        - Zoltan Shield [ζ]_ : Absorbe 5 dommages et empeche les ennemis de se teleporter ou d'envoyer des drones pirates.
+
+
+Débloquer：Compléter 2 achèvements sur 3 du Adjudicator.
+
+
+.. Description
+    Introducing the deadly Noether. The Type B Zoltan cruiser sets off from port
+    rather unbalanced. The starting weaponry can cut any ship into pieces for the
+    next 6 sectors, but it doesn't have any normal shields. That should be your
+    first order of business. You can collect weapons and crew at your leisure
+    through the first few sectors while building up the ship's defenses. One issue
+    you should take note of is the cramped rooms in the aft of the ship. This will
+    hinder you fighting off intruders with just the core crew of Zoltan.
+
+
+.. layout C
+        - Cuve de Clonage：1（3 places）
+    Débloquer：Arriver au Secteur 8 avec le 
+        - Zoltan Shield [ζ]_ : Absorbe 5 dommages et empeche les ennemis de se teleporter ou d'envoyer des drones pirates.
+
+****
+
+
+
+
+Bravais
+^^^^^^^
+
+    * Équipage：2 Crystal, 2 Humains
+    * Armement：
+        - 1× Crystal Burst Mark I
+        - 1× Heavy Crystal Mark I
+    * Systèmes:
+        - Boucliers: 2
+        - Furtivité: 0
+        - Moteur: 1
+        - Contrôle Armes: 3（4 places）
+        - Contrôle Drones: 0（2 places）
+        - Infirmerie：1（3 places）
+        - Oxygène: 1
+    * Sous Systèmes:
+        - Pilotage: 1
+        - Portes: 1
+        - Senseurs: 1
+    * Améliorations：
+        - Crystal Vengeance: 10% chance for auto-counter attack when taking damage
+
+
+Débloquer: Special distress call in Rock, Engi or Pirate controlled sector
+
+    - Required: "A ship… within a nearby dense asteroid field…"
+
+    1. "Search for the ship." and "2. Grab the stasis chamber."
+
+    ou
+
+    3. "(Rock Plating) Make a thorough search…"
+
+    puis
+
+    "You arrive at a Zoltan research facility."
+
+    4. "(Damaged Stasis Pod) Ask if they can fix this."
+
+Evenement Special in Rock Homeworlds (?)
+
+    - Required: "3. (Crystal Crew) Reactivate it."
+
+
+.. Description
+    Almost everything about the Crystal ship is slow. Its Crystal crew is slow,
+    its Crystal weapons are slow. It takes a long time to go from fore to aft.
+    Even so, the Crystal crew and weapons have such unique abilities that almost
+    all may be forgiven. Mantis may be the masters of crew combat, but Crystal can
+    control enemy territory like no other. Add to that the Crystal weapons can
+    pierce 1 shield. However, care should be taken when faced with Defense drones
+    because the Crystal weapons are considered projectiles.
+
+
+Carnelian
+^^^^^^^^^
+
+    * Équipage：3 Crystal
+    * **Armement：␀**
+    * Systèmes:
+        - Boucliers: 2
+        - Furtivité: 1
+        - Moteur: 1
+        - Contrôle Armes: 1（4 places）
+        - Contrôle Drones: 0（2 places）
+        - Infirmerie：1（3 places）
+        - Oxygène: 1
+        - Téléporteur: 1 （4 places）
+    * Sous Systèmes:
+        - Pilotage: 1
+        - Portes: 1
+        - Senseurs: 1
+    * Améliorations：
+        - Crystal Vengeance: 10% chance for auto-counter attack when taking damage
+
+
+Débloquer：Completer 2 achèvements sur 3.
+
+
+.. Description
+    The Type B Crystal cruiser is completely geared towards crew combat. With the
+    spacious 4 person teleporter next to the medbay, you don't have to worry about
+    your crew getting picked off before they can heal. The stealth systems help
+    you avoid the big guns while you take apart the enemy ship, and your three
+    Crystal crew ensure that no one can get in or out unless you want. The ship's
+    rooms are very inconvenient to move through, so you'll want to expand your
+    crew as soon as you are able.
+
+****
+
+Lanius
+^^^^^^
+
+
+    * Équipage：
+    * Armement：
+    * Systèmes:
+        - Boucliers: 2
+        - Furtivité: 0
+        - Moteur: 1
+        - Contrôle Armes: 1（4 places）
+        - Contrôle Drones: 0（2 places）
+        - Infirmerie：1（3 places）
+        - Oxygène: 1
+    * Sous Systèmes:
+        - Pilotage: 1
+        - Portes: 1
+        - Senseurs: 1
+    * Améliorations：␀
+
+Débloquer：Débloquer 4 vaisseaux en plus du Kestrel.
+
+.. ⁇ ⁇ ⁇ 
+    * Équipage：
+    * Armement：
+    * Systèmes:
+        - Boucliers: 2
+        - Furtivité: 0
+        - Moteur: 1
+        - Contrôle Armes: 1（4 places）
+        - Contrôle Drones: 0（2 places）
+        - Infirmerie：1（3 places）
+        - Oxygène: 1
+    * Sous Systèmes:
+        - Pilotage: 1
+        - Portes: 1
+        - Senseurs: 1
+    * Améliorations：␀
+    Débloquer：Completer 2 achèvements sur 3 du Lanius.
+
+
+Infos
+-----
+
+Crystal crew member
+^^^^^^^^^^^^^^^^^^^
+
+- 125 health
+- Lockdown power: seals the room for the duration of the effect
+- Reduced suffocation damage
+- Movement speed reduced by 20%
+
+Autres
+^^^^^^
+.. [ζ] Zoltan Shield：
+
+    - N'empêche pas les intrus relatifs aux évènements spéciaux, se recharge après chaque saut PRL.
+
+    - Absorbe 5 dommages.
+
+    - Empêche l'ennemi de se teleporter a l'interieur du vaisseau.
+
+    - Empêche l'ennemi d'envoyer des drones pirates.
+
+    - Empêche l'ennemi d'utiliser le contrôle mental
+
+.. aide memoire for ReST
+    toctree:
+    Entries (titles directly)
+    :maxdepth: 2
+    :numbered:
+    :titlesonly:
+    :glob:  (files and folders)
+    :hidden:
+
+    .. math:: (a + b)^2 = a^2 + 2ab + b^2
+        :label: truc \n
+    some other paragraph with :eq:`truc` which ref. or :math:`inline maths`
+
+    `hyperlink <http://stuff.com>`_
+    hyperlink_
+    .. _hyperlink: http://stuff.com
+
+    footnote ref[n]_.
+        .. [n] footnote stuff with no : after "[n]"
+
+    :download:`title <file>`
+    :ref:`text : to be linked` # will link to :
+    .. _text \: to be linked:
+
+    Word
+        to define.
+    r"""raw python like line"""
+    #. auto enumerated stuff.
+    #. auto enumerated stuff.
+    .. image:: path/image.png
+    .. NAME image:: path/image.png   // then after refered as |NAME|
+    Titles, chapter and paragraphs :
+    # with overline, for parts
+    * with overline, for chapters
+    =, for sections
+    _, for subsections
+    -, for sub-subsections
+    ^, for sub-sub-subsections
+    ", for paragraphs
+
+
